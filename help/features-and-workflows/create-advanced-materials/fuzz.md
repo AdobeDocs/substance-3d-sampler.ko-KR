@@ -13,4 +13,4 @@ ht-degree: 0%
 
 퍼지 채널을 사용하면 스웨이드 및 기타 패브릭과 같은 재질에 더욱 사실적인 느낌을 더할 수 있습니다. Sampler에서 퍼지 채널을 사용하는 가장 좋은 방법에 대해 알아보려면 아래 비디오를 시청하십시오.
 
->[!VIDEO](https://video.tv.adobe.com/v/3483519)
+>[!VIDEO](https://video.tv.adobe.com/v/3483528?captions=kor)
