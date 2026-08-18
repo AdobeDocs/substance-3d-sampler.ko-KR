@@ -22,4 +22,4 @@ ht-degree: 5%
 
 | 사전 설정 | 호환성 | 패킹 출력 설명 |
 | --- | --- | --- |
-| 아놀드 | <ul data-preserve-html="true"><li data-preserve-html="true">PBR 금속/거칠음</li></ul> | **기본 색상&#x200B;****거칠음****금속도****표준**(OpenGL)**변위&#x200B;****발광****&#x200B;불투명도** |
+| 아놀드 | <ul data-preserve-html="true"><li data-preserve-html="true">PBR 금속/거칠음</li></ul> | **기본 색상&#x200B;**&#x200B;**거칠음**&#x200B;**금속도**&#x200B;**표준**(OpenGL)**변위&#x200B;**&#x200B;**발광**&#x200B;**&#x200B;불투명도** |

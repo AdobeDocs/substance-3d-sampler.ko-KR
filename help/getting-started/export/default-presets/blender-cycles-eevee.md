@@ -22,4 +22,4 @@ ht-degree: 5%
 
 | 사전 설정 | 호환성 | 패킹 출력 설명 |
 | --- | --- | --- |
-| 블렌더 주기/이벤트 | <ul data-preserve-html="true"><li data-preserve-html="true">PBR 금속/거칠음</li></ul> | **기본 색상&#x200B;****거칠음****금속&#x200B;****표준****변위&#x200B;****발광****Alpha** |
+| 블렌더 주기/이벤트 | <ul data-preserve-html="true"><li data-preserve-html="true">PBR 금속/거칠음</li></ul> | **기본 색상&#x200B;**&#x200B;**거칠음**&#x200B;**금속&#x200B;**&#x200B;**표준**&#x200B;**변위&#x200B;**&#x200B;**발광**&#x200B;**Alpha** |
