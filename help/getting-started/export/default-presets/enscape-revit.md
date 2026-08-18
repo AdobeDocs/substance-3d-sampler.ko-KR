@@ -22,4 +22,4 @@ ht-degree: 5%
 
 | 사전 설정 | 호환성 | 패킹 출력 설명 |
 | --- | --- | --- |
-| 엔스케이프 - 레빗 | <ul data-preserve-html="true"><li data-preserve-html="true">PBR 금속/거칠음</li></ul> | **알베도&#x200B;****광택****표준(OpenGL)****투명도** |
+| 엔스케이프 - 레빗 | <ul data-preserve-html="true"><li data-preserve-html="true">PBR 금속/거칠음</li></ul> | **알베도&#x200B;**&#x200B;**광택**&#x200B;**표준(OpenGL)**&#x200B;**투명도** |

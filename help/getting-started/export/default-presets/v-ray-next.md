@@ -22,4 +22,4 @@ ht-degree: 4%
 
 | 사전 설정 | 호환성 | 패킹 출력 설명 |
 | --- | --- | --- |
-| V-레이 다음 | <ul data-preserve-html="true"><li data-preserve-html="true">PBR 금속/거칠음</li></ul> | **확산&#x200B;****거칠기****금속성&#x200B;****보통********자아 착시** **불투명도** |
+| V-레이 다음 | <ul data-preserve-html="true"><li data-preserve-html="true">PBR 금속/거칠음</li></ul> | **확산&#x200B;**&#x200B;**거칠기**&#x200B;**금속성&#x200B;**&#x200B;**보통**&#x200B;**&#x200B;**&#x200B;**자아 착시** **불투명도** |

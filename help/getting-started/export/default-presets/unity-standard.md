@@ -22,4 +22,4 @@ ht-degree: 4%
 
 | 사전 설정 | 호환성 | 패킹 출력 설명 |
 | --- | --- | --- |
-| 유니티 스탠다드 | <ul data-preserve-html="true"><li data-preserve-html="true">PBR 금속/거칠음</li></ul> | **알베도:**<ul data-preserve-html="true"><li data-preserve-html="true"><strong>RGB</strong>: 기본 색</li><li data-preserve-html="true"><strong>A</strong>: 불투명도</li></ul>**금속:**<ul data-preserve-html="true"><li data-preserve-html="true"><strong>R</strong>: 금속</li><li data-preserve-html="true"><strong>A</strong>: Smoothness</li></ul>**표준**(OpenGL)**Height ****오클루전****발광** |
+| 유니티 스탠다드 | <ul data-preserve-html="true"><li data-preserve-html="true">PBR 금속/거칠음</li></ul> | **알베도:**<ul data-preserve-html="true"><li data-preserve-html="true"><strong>RGB</strong>: 기본 색</li><li data-preserve-html="true"><strong>A</strong>: 불투명도</li></ul>**금속:**<ul data-preserve-html="true"><li data-preserve-html="true"><strong>R</strong>: 금속</li><li data-preserve-html="true"><strong>A</strong>: Smoothness</li></ul>**표준**(OpenGL)**Height &#x200B;**&#x200B;**오클루전**&#x200B;**발광** |
