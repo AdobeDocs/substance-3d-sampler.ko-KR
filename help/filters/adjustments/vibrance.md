@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-sampler/filters/adjustments/vibrance.html"
+helpx_url: "https://helpx.adobe.com/kr/substance-3d-sampler/filters/adjustments/vibrance.html"
 breadcrumb-title: ''
 description: Substance 3D Sampler의 활기 필터를 사용하여 피부 톤을 유지하면서 텍스처의 색상 채도와 활기를 개선할 수 있습니다.
 helpx_creative_field: ""

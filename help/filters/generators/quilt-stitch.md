@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-sampler/filters/generators/quilt-stitch.html"
+helpx_url: "https://helpx.adobe.com/kr/substance-3d-sampler/filters/generators/quilt-stitch.html"
 breadcrumb-title: ''
 description: Substance 3D Sampler의 퀼트 스티치 생성기를 사용하여 퀼트 직물 패턴과 재료의 스티칭 텍스처를 생성합니다.
 helpx_creative_field: ""

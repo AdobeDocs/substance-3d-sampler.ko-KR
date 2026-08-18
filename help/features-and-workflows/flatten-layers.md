@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-sampler/features-and-workflows/flatten-layers.html"
+helpx_url: "https://helpx.adobe.com/kr/substance-3d-sampler/features-and-workflows/flatten-layers.html"
 breadcrumb-title: ''
 description: Substance 3D Sampler에서 레이어를 병합하여 성능을 향상시키고 레이어 스택을 단순화하면서 동시에 효과를 이해하는 방법을 살펴보세요.
 helpx_creative_field: ""

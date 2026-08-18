@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-sampler/filters/wear-and-finish.html"
+helpx_url: "https://helpx.adobe.com/kr/substance-3d-sampler/filters/wear-and-finish.html"
 breadcrumb-title: ''
 description: Substance 3D Sampler에서 마모와 마무리 필터를 사용하여 재료에 풍화, 에이징 및 표면 마무리 효과를 추가하는 방법을 살펴보세요.
 helpx_creative_field: ""

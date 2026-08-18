@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-sampler/filters/tools/atlas-creator.html"
+helpx_url: "https://helpx.adobe.com/kr/substance-3d-sampler/filters/tools/atlas-creator.html"
 breadcrumb-title: ''
 description: Substance 3D Sampler의 Atlas Creator 툴을 사용하여 여러 이미지에서 텍스처 아틀라스를 만들어 효율적인 질감 구성을 할 수 있습니다.
 helpx_creative_field: ""

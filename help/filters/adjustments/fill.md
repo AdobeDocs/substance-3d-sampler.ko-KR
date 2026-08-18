@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-sampler/filters/adjustments/fill.html"
+helpx_url: "https://helpx.adobe.com/kr/substance-3d-sampler/filters/adjustments/fill.html"
 breadcrumb-title: ''
 description: Substance 3D Sampler에서 칠 필터를 사용하여 텍스처 영역을 단색 또는 패턴으로 칠해 재질 제작 워크플로우를 향상시킵니다.
 helpx_creative_field: ""

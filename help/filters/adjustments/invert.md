@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-sampler/filters/adjustments/invert.html"
+helpx_url: "https://helpx.adobe.com/kr/substance-3d-sampler/filters/adjustments/invert.html"
 breadcrumb-title: ''
 description: Substance 3D Sampler의 반전 필터를 사용하여 색상 값을 반전하고 텍스처 및 재질에서 부정적인 이미지 효과를 만들 수 있습니다.
 helpx_creative_field: ""

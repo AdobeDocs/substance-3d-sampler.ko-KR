@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-sampler/features-and-workflows/texture-import.html"
+helpx_url: "https://helpx.adobe.com/kr/substance-3d-sampler/features-and-workflows/texture-import.html"
 breadcrumb-title: ''
 description: 텍스처를 Substance 3D Sampler으로 가져와 재질 제작 워크플로우에서 기존 이미지 파일을 사용하는 방법에 대해 알아봅니다.
 helpx_creative_field: ""

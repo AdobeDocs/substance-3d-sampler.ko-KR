@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-sampler/filters/tools/make-it-tile.html"
+helpx_url: "https://helpx.adobe.com/kr/substance-3d-sampler/filters/tools/make-it-tile.html"
 breadcrumb-title: ''
 description: Substance 3D Sampler에서 타일링 만들기 도구를 사용하여 타일링이 아닌 텍스처에서 매끄러운 타일링 패턴을 자동으로 만들 수 있습니다.
 helpx_creative_field: ""

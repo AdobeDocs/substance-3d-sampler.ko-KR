@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-sampler/filters/hdri-tools/exposure-preview.html"
+helpx_url: "https://helpx.adobe.com/kr/substance-3d-sampler/filters/hdri-tools/exposure-preview.html"
 breadcrumb-title: ''
 description: 변경 사항을 적용하기 전에 Substance 3D Sampler의 노출 미리 보기 도구를 사용하여 HDRI 이미지의 노출 조정을 미리 볼 수 있습니다.
 helpx_creative_field: ""

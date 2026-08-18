@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-sampler/filters/generators/pattern.html"
+helpx_url: "https://helpx.adobe.com/kr/substance-3d-sampler/filters/generators/pattern.html"
 breadcrumb-title: ''
 description: Substance 3D Sampler의 패턴 생성기를 사용하여 절차적 패턴을 만들고 재료 텍스처에 대한 반복 디자인을 만듭니다.
 helpx_creative_field: ""

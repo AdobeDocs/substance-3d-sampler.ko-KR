@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-sampler/filters/wear-and-finish/discarded-gums.html"
+helpx_url: "https://helpx.adobe.com/kr/substance-3d-sampler/filters/wear-and-finish/discarded-gums.html"
 breadcrumb-title: ''
 description: Substance 3D Sampler에서 버려진 잇몸 필터를 사용하면 잇몸 잔류물과 끈적이는 표면 효과를 소재에 추가할 수 있습니다.
 helpx_creative_field: ""

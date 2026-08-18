@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-sampler/filters/wear-and-finish/dirt.html"
+helpx_url: "https://helpx.adobe.com/kr/substance-3d-sampler/filters/wear-and-finish/dirt.html"
 breadcrumb-title: ''
 description: Substance 3D Sampler의 Dirt 필터를 사용하여 실제 Dirt 축적과 그림 효과를 재질과 텍스처에 추가할 수 있습니다.
 helpx_creative_field: ""

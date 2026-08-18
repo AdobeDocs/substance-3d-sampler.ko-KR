@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-sampler/filters/adjustments.html"
+helpx_url: "https://helpx.adobe.com/kr/substance-3d-sampler/filters/adjustments.html"
 breadcrumb-title: ''
 description: Substance 3D Sampler에서 조정 필터를 사용하여 색상, 명도, 대비 및 기타 재질 속성을 수정하는 방법을 살펴봅니다.
 helpx_creative_field: ""

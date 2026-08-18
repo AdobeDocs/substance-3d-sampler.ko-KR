@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-sampler/filters/generators/embossing.html"
+helpx_url: "https://helpx.adobe.com/kr/substance-3d-sampler/filters/generators/embossing.html"
 breadcrumb-title: ''
 description: Substance 3D Sampler의 엠보싱 생성기를 사용하여 엠보싱 패턴을 만들고 재료의 표면 부조 효과를 높입니다.
 helpx_creative_field: ""

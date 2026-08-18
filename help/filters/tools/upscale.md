@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-sampler/filters/tools/upscale.html"
+helpx_url: "https://helpx.adobe.com/kr/substance-3d-sampler/filters/tools/upscale.html"
 breadcrumb-title: ''
 description: Substance 3D Sampler의 [크기 조절] 도구를 사용하여 AI 기반 크기 조절 기술을 사용하여 텍스처 해상도를 높입니다.
 helpx_creative_field: ""

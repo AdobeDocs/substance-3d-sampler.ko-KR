@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-sampler/filters/tools.html"
+helpx_url: "https://helpx.adobe.com/kr/substance-3d-sampler/filters/tools.html"
 breadcrumb-title: ''
 description: Substance 3D Sampler에서 도구 필터를 사용하여 기술 문제를 수정하고 재질 제작 워크플로우를 향상시키는 방법을 알아봅니다.
 helpx_creative_field: ""
@@ -51,7 +51,7 @@ Sampler에는 다음과 같은 도구가 포함되어 있습니다.
 * [일치](match.md)
 * [다중 각도를 자료로](multiangle-to-material.md)
 * [Height에 표준](normal-to-height.md)
-* [페인트 뒤틀기](https://helpx.adobe.com/substance-3d/unlisted/documentation/sadoc/paint-warp-255426602.html)
+* [페인트 뒤틀기](https://helpx.adobe.com/kr/substance-3d/unlisted/documentation/sadoc/paint-warp-255426602.html)
 * [PBR 유효성 검사](pbr-validate.md)
 * [원근 교정](perspective-correction.md)
 * [타일링](tiling.md)

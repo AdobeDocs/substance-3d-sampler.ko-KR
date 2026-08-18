@@ -1,5 +1,5 @@
 ---
-helpx_url: 'https://helpx.adobe.com/substance-3d-sampler/filters.html'
+helpx_url: 'https://helpx.adobe.com/kr/substance-3d-sampler/filters.html'
 breadcrumb-title: ''
 description: Substance 3D Sampler에서 필터를 사용하여 절차 및 이미지 기반 효과로 재질을 수정, 개선 및 만드는 방법을 살펴보세요.
 helpx_creative_field: ''

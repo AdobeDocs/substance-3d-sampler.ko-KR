@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-sampler/filters/adjustments/hue-saturation.html"
+helpx_url: "https://helpx.adobe.com/kr/substance-3d-sampler/filters/adjustments/hue-saturation.html"
 breadcrumb-title: ''
 description: Substance 3D Sampler의 [색조/채도] 필터를 사용하여 텍스처와 재질의 색조, 채도 및 밝기 값을 조정할 수 있습니다.
 helpx_creative_field: ""

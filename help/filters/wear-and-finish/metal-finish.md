@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-sampler/filters/wear-and-finish/metal-finish.html"
+helpx_url: "https://helpx.adobe.com/kr/substance-3d-sampler/filters/wear-and-finish/metal-finish.html"
 breadcrumb-title: ''
 description: Substance 3D Sampler의 금속 마감 필터를 사용하면 다양한 금속 표면 마감과 텍스처를 재료에 적용할 수 있습니다.
 helpx_creative_field: ""

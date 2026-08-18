@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-sampler/filters/adjustments/brightness-contrast.html"
+helpx_url: "https://helpx.adobe.com/kr/substance-3d-sampler/filters/adjustments/brightness-contrast.html"
 breadcrumb-title: ''
 description: Substance 3D Sampler의 명도/대비 필터를 사용하여 텍스처 및 재질 레이어의 명도 및 대비 수준을 조정합니다.
 helpx_creative_field: ""

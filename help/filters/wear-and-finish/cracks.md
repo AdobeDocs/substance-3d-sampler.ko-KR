@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-sampler/filters/wear-and-finish/cracks.html"
+helpx_url: "https://helpx.adobe.com/kr/substance-3d-sampler/filters/wear-and-finish/cracks.html"
 breadcrumb-title: ''
 description: Substance 3D Sampler의 균열 필터를 사용하여 사실적인 균열 패턴과 재료의 표면 손상 효과를 추가하십시오.
 helpx_creative_field: ""

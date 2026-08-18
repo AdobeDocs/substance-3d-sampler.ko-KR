@@ -1,5 +1,5 @@
 ---
-helpx_url: 'https://helpx.adobe.com/substance-3d-sampler/filters/custom-filters.html'
+helpx_url: 'https://helpx.adobe.com/kr/substance-3d-sampler/filters/custom-filters.html'
 breadcrumb-title: ''
 description: Substance 3D Sampler에서 사용자 정의 필터를 사용하여 Substance Designer 필터 및 사용자 정의 효과와 함께 기능을 확장하는 방법을 알아봅니다.
 helpx_creative_field: ''

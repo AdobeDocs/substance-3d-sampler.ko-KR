@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-sampler/filters/generators/floor-tiles.html"
+helpx_url: "https://helpx.adobe.com/kr/substance-3d-sampler/filters/generators/floor-tiles.html"
 breadcrumb-title: ''
 description: Substance 3D Sampler의 Floor Tiles Generator를 사용하여 바닥 타일 패턴과 재질의 세라믹 텍스처를 사실적으로 만들 수 있습니다.
 helpx_creative_field: ""

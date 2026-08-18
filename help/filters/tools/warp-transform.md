@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-sampler/filters/tools/warp-transform.html"
+helpx_url: "https://helpx.adobe.com/kr/substance-3d-sampler/filters/tools/warp-transform.html"
 breadcrumb-title: ''
 description: Substance 3D Sampler의 뒤틀기 변형 도구를 사용하여 텍스처와 재질에 비선형 뒤틀기 및 왜곡 효과를 적용할 수 있습니다.
 helpx_creative_field: ""

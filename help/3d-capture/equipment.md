@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-sampler/3d-capture/equipment.html"
+helpx_url: "https://helpx.adobe.com/kr/substance-3d-sampler/3d-capture/equipment.html"
 breadcrumb-title: ''
 description: 고품질 재질 및 오브젝트 디지털화를 달성하기 위한 Substance 3D Sampler 권장 3D 캡처 장비에 대해 알아봅니다.
 helpx_creative_field: ""

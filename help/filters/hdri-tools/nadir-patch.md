@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-sampler/filters/hdri-tools/nadir-patch.html"
+helpx_url: "https://helpx.adobe.com/kr/substance-3d-sampler/filters/hdri-tools/nadir-patch.html"
 breadcrumb-title: ''
 description: Substance 3D Sampler의 Nadir Patch 툴을 사용하여 HDRI 이미지의 기본 영역을 패치하여 매끄러운 환경 맵을 만들 수 있습니다.
 helpx_creative_field: ""

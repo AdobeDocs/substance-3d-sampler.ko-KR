@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-sampler/filters/tools/atlas-splitter.html"
+helpx_url: "https://helpx.adobe.com/kr/substance-3d-sampler/filters/tools/atlas-splitter.html"
 breadcrumb-title: ''
 description: Substance 3D Sampler의 Atlas Splitter 툴을 사용하여 텍스처 아틀라스를 재질 편집을 위해 개별 텍스처 맵으로 분할합니다.
 helpx_creative_field: ""

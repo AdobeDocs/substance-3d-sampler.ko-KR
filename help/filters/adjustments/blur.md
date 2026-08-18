@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-sampler/filters/adjustments/blur.html"
+helpx_url: "https://helpx.adobe.com/kr/substance-3d-sampler/filters/adjustments/blur.html"
 breadcrumb-title: ''
 description: Substance 3D Sampler의 흐림 효과 필터를 사용하면 흐림 효과를 적용하고 텍스처 및 재질 레이어에서 이미지의 선명도를 줄일 수 있습니다.
 helpx_creative_field: ""

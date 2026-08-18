@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-sampler/filters/hdri-tools/hdr-merge.html"
+helpx_url: "https://helpx.adobe.com/kr/substance-3d-sampler/filters/hdri-tools/hdr-merge.html"
 breadcrumb-title: ''
 description: Substance 3D Sampler의 HDR 병합 도구를 사용하여 여러 노출 이미지를 단일 High Dynamic Range 이미지로 병합합니다.
 helpx_creative_field: ""

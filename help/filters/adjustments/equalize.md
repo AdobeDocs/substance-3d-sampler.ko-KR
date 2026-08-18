@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-sampler/filters/adjustments/equalize.html"
+helpx_url: "https://helpx.adobe.com/kr/substance-3d-sampler/filters/adjustments/equalize.html"
 breadcrumb-title: ''
 description: Substance 3D Sampler의 균일화 필터를 사용하여 명도 값을 다시 분포하고 이미지 대비를 자동으로 향상합니다.
 helpx_creative_field: ""

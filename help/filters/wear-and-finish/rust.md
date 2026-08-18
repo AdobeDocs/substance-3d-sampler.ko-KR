@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-sampler/filters/wear-and-finish/rust.html"
+helpx_url: "https://helpx.adobe.com/kr/substance-3d-sampler/filters/wear-and-finish/rust.html"
 breadcrumb-title: ''
 description: Substance 3D Sampler의 녹 필터를 사용하여 금속 재질과 표면에 사실적인 녹 및 부식 효과를 추가할 수 있습니다.
 helpx_creative_field: ""

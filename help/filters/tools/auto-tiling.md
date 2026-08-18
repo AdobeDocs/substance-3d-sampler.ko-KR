@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-sampler/filters/tools/auto-tiling.html"
+helpx_url: "https://helpx.adobe.com/kr/substance-3d-sampler/filters/tools/auto-tiling.html"
 breadcrumb-title: ''
 description: Substance 3D Sampler의 자동 타일링 도구를 사용하면 AI 기술을 사용하여 텍스처에서 매끄러운 타일링 패턴을 자동으로 만들 수 있습니다.
 helpx_creative_field: ""

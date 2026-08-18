@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-sampler/features-and-workflows.html"
+helpx_url: "https://helpx.adobe.com/kr/substance-3d-sampler/features-and-workflows.html"
 breadcrumb-title: ''
 description: Substance 3D Sampler의 기능과 워크플로우를 탐색하여 기존 에셋에서 세부 재질을 만들고 환경 조명을 편집합니다.
 helpx_creative_field: ""

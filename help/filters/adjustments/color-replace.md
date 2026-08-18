@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-sampler/filters/adjustments/color-replace.html"
+helpx_url: "https://helpx.adobe.com/kr/substance-3d-sampler/filters/adjustments/color-replace.html"
 breadcrumb-title: ''
 description: Substance 3D Sampler의 색상 대체 필터를 사용하여 텍스처의 특정 색상을 새 색상 값으로 대체합니다.
 helpx_creative_field: ""

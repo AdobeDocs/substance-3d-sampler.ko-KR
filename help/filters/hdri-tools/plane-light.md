@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-sampler/filters/hdri-tools/plane-light.html"
+helpx_url: "https://helpx.adobe.com/kr/substance-3d-sampler/filters/hdri-tools/plane-light.html"
 breadcrumb-title: ''
 description: Substance 3D Sampler의 평면 조명 도구를 사용하여 영역 조명 효과를 위해 HDRI 환경에 평면 광원을 추가합니다.
 helpx_creative_field: ""

@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-sampler/filters/wear-and-finish/paint.html"
+helpx_url: "https://helpx.adobe.com/kr/substance-3d-sampler/filters/wear-and-finish/paint.html"
 breadcrumb-title: ''
 description: Substance 3D Sampler의 [페인트] 필터를 사용해서 페인트 레이어, 코팅 및 페인팅된 표면 효과를 재질에 추가합니다.
 helpx_creative_field: ""

@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-sampler/filters/tools/multiangle-to-material.html"
+helpx_url: "https://helpx.adobe.com/kr/substance-3d-sampler/filters/tools/multiangle-to-material.html"
 breadcrumb-title: ''
 description: Substance 3D Sampler의 다중 각도를 자료로 툴을 사용하여 표면에 대한 여러 각도 사진으로 재질을 만들 수 있습니다.
 helpx_creative_field: ""

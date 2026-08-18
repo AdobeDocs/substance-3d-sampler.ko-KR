@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-sampler/filters/wear-and-finish/scratch.html"
+helpx_url: "https://helpx.adobe.com/kr/substance-3d-sampler/filters/wear-and-finish/scratch.html"
 breadcrumb-title: ''
 description: Substance 3D Sampler의 스크래치 필터를 사용하여 사실적인 스크래치 자국과 표면 손상 효과를 재질에 추가합니다.
 helpx_creative_field: ""

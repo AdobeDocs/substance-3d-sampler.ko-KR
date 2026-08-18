@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-sampler/filters/generators/panel.html"
+helpx_url: "https://helpx.adobe.com/kr/substance-3d-sampler/filters/generators/panel.html"
 breadcrumb-title: ''
 description: Substance 3D Sampler의 패널 생성기를 사용하여 재질에 대한 패널 패턴 및 분할된 표면 텍스처를 만듭니다.
 helpx_creative_field: ""

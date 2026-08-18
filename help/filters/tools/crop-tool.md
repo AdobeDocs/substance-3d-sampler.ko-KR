@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-sampler/filters/tools/crop-tool.html"
+helpx_url: "https://helpx.adobe.com/kr/substance-3d-sampler/filters/tools/crop-tool.html"
 breadcrumb-title: ''
 description: Substance 3D Sampler의 자르기 도구를 사용하여 크기를 세밀하게 제어하여 텍스처 및 재질 레이어를 자르고 크기를 조정합니다.
 helpx_creative_field: ""

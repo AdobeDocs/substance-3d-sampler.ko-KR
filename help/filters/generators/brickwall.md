@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-sampler/filters/generators/brickwall.html"
+helpx_url: "https://helpx.adobe.com/kr/substance-3d-sampler/filters/generators/brickwall.html"
 breadcrumb-title: ''
 description: Substance 3D Sampler의 벽돌 벽면 생성기를 사용하여 사실적인 벽돌 벽 패턴과 재질을 위한 석조 텍스처를 만들 수 있습니다.
 helpx_creative_field: ""

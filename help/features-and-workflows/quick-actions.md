@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-sampler/features-and-workflows/quick-actions.html"
+helpx_url: "https://helpx.adobe.com/kr/substance-3d-sampler/features-and-workflows/quick-actions.html"
 breadcrumb-title: ''
 description: Substance 3D Sampler에서 빠른 작업을 사용하여 바로 가기 도구로 일반적인 재질 편집 작업을 효율적으로 수행하는 방법을 알아봅니다.
 helpx_creative_field: ""

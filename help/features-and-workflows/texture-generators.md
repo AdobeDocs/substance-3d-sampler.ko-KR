@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-sampler/features-and-workflows/texture-generators.html"
+helpx_url: "https://helpx.adobe.com/kr/substance-3d-sampler/features-and-workflows/texture-generators.html"
 breadcrumb-title: ''
 description: Substance 3D Sampler에서 텍스처 생성기를 사용하여 점진적 텍스처 및 패턴을 만들어 질감을 만드는 방법을 살펴보세요.
 helpx_creative_field: ""
