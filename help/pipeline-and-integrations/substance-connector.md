@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-sampler/pipeline-and-integrations/substance-connector.html"
+helpx_url: "https://helpx.adobe.com/kr/substance-3d-sampler/pipeline-and-integrations/substance-connector.html"
 breadcrumb-title: ''
 description: Substance 3D Sampler에서 [Substance 보내기]를 사용하여 커넥터를 통해 다른 애플리케이션으로 에셋을 직접 보내는 방법에 대해 알아봅니다.
 helpx_creative_field: ""
@@ -37,11 +37,11 @@ ht-degree: 0%
 
 * <b>Maya 플러그인 v3.0.0+</b>
   * Maya 2025, 2024, 2023 및 2022에서 지원됨
-  * *Maya 2025부터 사용할 수 있으므로 이전 버전의 경우 플러그인은 [웹 사이트](https://www.adobe.com/products/substance3d/plugins/substance-in-maya.html "Maya 웹 페이지의 Substance")*&#x200B;에서 다운로드해야 합니다.
+  * *Maya 2025부터 사용할 수 있으므로 이전 버전의 경우 플러그인은 [웹 사이트](https://www.adobe.com/kr/products/substance3d/plugins/substance-in-maya.html "Maya 웹 페이지의 Substance")*&#x200B;에서 다운로드해야 합니다.
 
 * <b>3ds 최대 플러그인 v3.0.0+</b>
   * 3ds Max 2025, 2024, 2023 및 2022에서 지원
-  * *3ds Max 2025 이후 즉시 사용 가능하며 이전 버전의 경우 플러그인은 [웹 사이트](https://www.adobe.com/products/substance3d/plugins/substance-in-3ds-max.html "3ds Max 웹 페이지의 Substance")*&#x200B;에서 다운로드해야 합니다.
+  * *3ds Max 2025 이후 즉시 사용 가능하며 이전 버전의 경우 플러그인은 [웹 사이트](https://www.adobe.com/kr/products/substance3d/plugins/substance-in-3ds-max.html "3ds Max 웹 페이지의 Substance")*&#x200B;에서 다운로드해야 합니다.
 
 * <b>Unity 플러그인 v3.11+</b>
   * Unity 버전 2022, 2021 또는 2020
@@ -49,4 +49,4 @@ ht-degree: 0%
 
 * <b>블렌더 플러그 인 v2.1+</b>
   * Blender 버전 3.0 이상
-  * *플러그인은 [웹 사이트](https://www.adobe.com/products/substance3d/plugins/substance-in-blender.html "Blender 웹 페이지의 Substance")*&#x200B;에서 다운로드할 수 있습니다.
+  * *플러그인은 [웹 사이트](https://www.adobe.com/kr/products/substance3d/plugins/substance-in-blender.html "Blender 웹 페이지의 Substance")*&#x200B;에서 다운로드할 수 있습니다.

@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-sampler/getting-started/export/export-window.html"
+helpx_url: "https://helpx.adobe.com/kr/substance-3d-sampler/getting-started/export/export-window.html"
 breadcrumb-title: ''
 description: Substance 3D Sampler의 내보내기 창을 사용하여 다양한 형식과 사전 설정으로 재질을 구성하고 내보내는 방법을 살펴보세요.
 helpx_creative_field: ""

@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-sampler/technical-support.html"
+helpx_url: "https://helpx.adobe.com/kr/substance-3d-sampler/technical-support.html"
 breadcrumb-title: ''
 description: Substance 3D Sampler 기술 지원 리소스에 액세스하여 일반적인 질문과 문제 해결 안내서에 대한 답변을 찾아보십시오.
 helpx_creative_field: ""

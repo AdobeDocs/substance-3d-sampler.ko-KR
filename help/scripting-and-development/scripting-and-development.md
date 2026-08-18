@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-sampler/scripting-and-development.html"
+helpx_url: "https://helpx.adobe.com/kr/substance-3d-sampler/scripting-and-development.html"
 breadcrumb-title: ''
 description: Python API를 사용하여 Substance 3D Sampler용 사용자 정의 플러그인 및 스크립트를 만들고 워크플로우를 자동화하고 기능을 확장하는 방법을 알아봅니다.
 helpx_creative_field: ""

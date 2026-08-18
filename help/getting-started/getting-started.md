@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-sampler/getting-started.html"
+helpx_url: "https://helpx.adobe.com/kr/substance-3d-sampler/getting-started.html"
 breadcrumb-title: ''
 description: Substance 3D Sampler을 시작하여 재질 제작, 프로젝트 관리 및 워크플로우 최적화의 기본 사항을 알아보십시오.
 helpx_creative_field: ""

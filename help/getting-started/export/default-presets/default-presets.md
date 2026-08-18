@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-sampler/getting-started/export/default-presets.html"
+helpx_url: "https://helpx.adobe.com/kr/substance-3d-sampler/getting-started/export/default-presets.html"
 breadcrumb-title: ''
 description: 다양한 소프트웨어 애플리케이션 및 렌더링 엔진에 대한 Substance 3D Sampler의 기본 내보내기 사전 설정에 대해 알아봅니다.
 helpx_creative_field: ""
@@ -25,8 +25,8 @@ Sampler에는 가져오려는 소프트웨어에 따라 비트맵 텍스처를 �
 * [아놀드](arnold-5.md)
 * [블렌더 주기/이벤트](blender-cycles-eevee.md)
 * [Corona 렌더러](corona-renderer.md)
-* [엔스케이프 - 레빗](https://helpx.adobe.com/substance-3d/unlisted/documentation/sadoc/enscape-188976476.html)
-* [Keyshot 9+](https://helpx.adobe.com/substance-3d/unlisted/documentation/sadoc/keyshot-9-188976247.html)
+* [엔스케이프 - 레빗](https://helpx.adobe.com/kr/substance-3d/unlisted/documentation/sadoc/enscape-188976476.html)
+* [Keyshot 9+](https://helpx.adobe.com/kr/substance-3d/unlisted/documentation/sadoc/keyshot-9-188976247.html)
 * [Lens Studio](lens-studio.md)
 * [Spark AR Studio](spark-ar-studio.md)
 * [유니티 HDRP 표준](unity-hdrp-standard.md)

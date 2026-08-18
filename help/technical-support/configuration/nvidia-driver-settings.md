@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-sampler/technical-support/configuration/nvidia-driver-settings.html"
+helpx_url: "https://helpx.adobe.com/kr/substance-3d-sampler/technical-support/configuration/nvidia-driver-settings.html"
 breadcrumb-title: ''
 description: GPU 성능을 최적화하고 느린 동작을 해결하기 위해 Substance 3D Sampler에 대한 NVIDIA 드라이버 설정을 구성하는 방법에 대해 알아보십시오.
 helpx_creative_field: ""

@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-sampler/release-notes/old-versions/version-3-2.html"
+helpx_url: "https://helpx.adobe.com/kr/substance-3d-sampler/release-notes/old-versions/version-3-2.html"
 breadcrumb-title: ''
 description: 재질 디지털화 작업 과정, 새로운 필터 및 사용자 정의 메타데이터에 대해 알아보려면 Substance 3D Sampler 버전 3.2의 릴리스 정보를 검토하십시오.
 helpx_creative_field: ""

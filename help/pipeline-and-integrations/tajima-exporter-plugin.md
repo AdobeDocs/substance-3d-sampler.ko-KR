@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-sampler/pipeline-and-integrations/tajima-exporter-plugin.html"
+helpx_url: "https://helpx.adobe.com/kr/substance-3d-sampler/pipeline-and-integrations/tajima-exporter-plugin.html"
 breadcrumb-title: ''
 description: Substance 3D Sampler에서 Tajima Exporter 플러그인을 사용하여 자수 디자인을 Tajima DG17 소프트웨어로 내보내는 방법을 살펴보세요.
 helpx_creative_field: ""

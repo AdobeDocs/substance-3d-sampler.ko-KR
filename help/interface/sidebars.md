@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-sampler/interface/sidebars.html"
+helpx_url: "https://helpx.adobe.com/kr/substance-3d-sampler/interface/sidebars.html"
 breadcrumb-title: ''
 description: Substance 3D Sampler 인터페이스의 왼쪽 및 오른쪽 사이드바에서 도구, 패널 및 애플리케이션 기능을 탐색하는 방법에 대해 알아봅니다.
 helpx_creative_field: ""

@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-sampler/interface/panels/metadata-panel.html"
+helpx_url: "https://helpx.adobe.com/kr/substance-3d-sampler/interface/panels/metadata-panel.html"
 breadcrumb-title: ''
 description: Substance 3D Sampler의 메타데이터 패널을 사용하여 재질에 대한 메타데이터 정보를 추가하고 관리하는 방법을 알아봅니다.
 helpx_creative_field: ""

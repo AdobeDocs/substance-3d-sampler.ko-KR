@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-sampler/technical-support/technical-issues/interface-issues/fonts-are-not-displayed-correctly.html"
+helpx_url: "https://helpx.adobe.com/kr/substance-3d-sampler/technical-support/technical-issues/interface-issues/fonts-are-not-displayed-correctly.html"
 breadcrumb-title: ''
 description: 신뢰할 수 없는 글꼴 차단이 활성화된 Windows 엔터프라이즈 시스템의 Substance 3D Sampler에서 글꼴 표시 문제를 해결하는 방법에 대해 알아봅니다.
 helpx_creative_field: ""

@@ -1,5 +1,5 @@
 ---
-helpx_url: 'https://helpx.adobe.com/substance-3d-sampler/getting-started/system-requirements.html'
+helpx_url: 'https://helpx.adobe.com/kr/substance-3d-sampler/getting-started/system-requirements.html'
 breadcrumb-title: ''
 description: Substance 3D Sampler의 시스템 요구 사항을 검토하여 하드웨어와 소프트웨어가 호환성 표준을 충족하는지 확인하십시오.
 helpx_creative_field: ''

@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-sampler/release-notes/old-versions/version-3-0.html"
+helpx_url: "https://helpx.adobe.com/kr/substance-3d-sampler/release-notes/old-versions/version-3-0.html"
 breadcrumb-title: ''
 description: UI 재작업, 환경 조명, 필터 및 Creative Cloud 통합에 대해 알아보려면 Substance 3D Sampler 버전 3.0의 릴리스 정보를 검토하십시오.
 helpx_creative_field: ""
@@ -87,7 +87,7 @@ Sampler은 이제 프로젝트에서 작동합니다. [프로젝트 패널](../.
 ### 새로운 실시간 렌더링 엔진
 
 * ASM 재질을 지원하므로 더 많은 재질 채널이 있는 응용 프로그램 간에 일관된 모양을 만들 수 있습니다.
-* 두 [실시간 엔진](https://helpx.adobe.com/substance-3d/unlisted/documentation/sadoc/viewer-settings-188973164.html) 간 전환
+* 두 [실시간 엔진](https://helpx.adobe.com/kr/substance-3d/unlisted/documentation/sadoc/viewer-settings-188973164.html) 간 전환
 * 메시의 기본 텍스처를 제어하는 기능
 
 ### 일반적인 개선 사항

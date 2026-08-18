@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-sampler/release-notes/version-4-2.html"
+helpx_url: "https://helpx.adobe.com/kr/substance-3d-sampler/release-notes/version-4-2.html"
 breadcrumb-title: ''
 description: Substance 3D Sampler 버전 4.2의 릴리스 노트를 통해 AI 기반 Image to Material, AI 업스케일 기능 및 해상도 컨트롤에 대해 알아보십시오.
 helpx_creative_field: ""

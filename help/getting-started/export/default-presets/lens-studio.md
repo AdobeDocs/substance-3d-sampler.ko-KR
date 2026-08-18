@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-sampler/getting-started/export/default-presets/lens-studio.html"
+helpx_url: "https://helpx.adobe.com/kr/substance-3d-sampler/getting-started/export/default-presets/lens-studio.html"
 breadcrumb-title: ''
 description: Snapchat AR 렌즈 개발 워크플로우에 사용할 렌즈 스튜디오 사전 설정을 사용하여 Substance 3D Sampler에서 재질을 내보내는 방법을 알아봅니다.
 helpx_creative_field: ""

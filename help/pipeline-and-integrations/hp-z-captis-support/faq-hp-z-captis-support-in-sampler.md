@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-sampler/pipeline-and-integrations/hp-z-captis-support/faq-hp-z-captis-support-in-sampler.html"
+helpx_url: "https://helpx.adobe.com/kr/substance-3d-sampler/pipeline-and-integrations/hp-z-captis-support/faq-hp-z-captis-support-in-sampler.html"
 breadcrumb-title: ''
 description: Substance 3D Sampler의 HP Z Captis 지원에 대해 자주 묻는 질문에 액세스하여 하드웨어 통합 및 사용에 대한 답변을 찾아보십시오.
 helpx_creative_field: ""
@@ -53,7 +53,7 @@ Captis 디바이스에는 Substance 3D 구독과 동일한 조건 및 사용 약
 +++Adobe Substance 제품군과의 통합 수준은 무엇입니까?
 HP Z Captis 장치는 Adobe Substance 3D Sampler을 통해 완전히 제어되고 작동합니다. Substance 3D Sampler에서 캡처를 미리 보고 시작할 수 있으며, 캡처가 완료되면 자동으로 PBR 채널을 레이어로 로드하고 3D 재질을 만듭니다. Sampler에서 사용할 수 있는 모든 도구와 필터를 사용하여 재질을 계속 처리할 수 있습니다.
 
-캡처한 재질을 Substance 3D Sampler에 저장하면 Substance 3D 제품군(Substance 3D Designer, Painter, Stager)의 모든 애플리케이션과 3DS Max, Maya, Blender, Unreal Engine, CLO, Browzwear, VRED, Rhino, Cinema4D 등 Substance을 지원하는 타사 애플리케이션으로 내보낼 수 있습니다(전체 목록은 <https://www.adobe.com/products/substance3d/plugins.html> 참조).
+캡처한 재질을 Substance 3D Sampler에 저장하면 Substance 3D 제품군(Substance 3D Designer, Painter, Stager)의 모든 애플리케이션과 3DS Max, Maya, Blender, Unreal Engine, CLO, Browzwear, VRED, Rhino, Cinema4D 등 Substance을 지원하는 타사 애플리케이션으로 내보낼 수 있습니다(전체 목록은 <https://www.adobe.com/kr/products/substance3d/plugins.html> 참조).
 
 +++
 
@@ -100,7 +100,7 @@ Sampler 하드웨어 사양은 [여기](system-requirements-to-use-hp-z-captis.m
 +++스캔한 자료를 내보낼 수 있는 형식은 무엇입니까?
 HP Z Captis는 Adobe Substance 3D Sampler이 기본적으로 운영하고 있습니다. HP Z Captis는 64개의 raw 이미지(로컬 폴더에서 검색 가능)와 PBR 맵(Raw 캡처 한 이미지에서 처리되며 Substance 3D Sampler에 자동으로 로드됨)을 캡처합니다. Substance 3D Sampler은 캡처 후 Sampler 레이어 스택에 자동으로 로드되는 PBR 채널을 기반으로 3D 재질을 만듭니다.
 
-Adobe Substance 3D Sampler에서 디지털 재질을 Substance 3D Sampler에서 사용할 수 있는 모든 내보내기 형식으로 내보낼 수 있습니다. 즉, Substance 파일(.SBS 및 .SBSAR 파일) 또는 .PNG, .JPG, .SBSAR 파일 등 비트맵 텍스처로 내보낼 수 있습니다(Sampler 문서 웹 페이지의 세부 정보: [https://helpx.adobe.com/substance-3d-sampler/getting-started/export.html](../../getting-started/export/export.md) 참조).
+Adobe Substance 3D Sampler에서 디지털 재질을 Substance 3D Sampler에서 사용할 수 있는 모든 내보내기 형식으로 내보낼 수 있습니다. 즉, Substance 파일(.SBS 및 .SBSAR 파일) 또는 .PNG, .JPG, .SBSAR 파일 등 비트맵 텍스처로 내보낼 수 있습니다(Sampler 문서 웹 페이지의 세부 정보: [https://helpx.adobe.com/kr/substance-3d-sampler/getting-started/export.html](../../getting-started/export/export.md) 참조).
 
 +++
 
@@ -118,7 +118,7 @@ HP Z Captis는 Adobe Substance 3D Sampler이 기본적으로 운영하고 있습
 
 Substance 3D 에코시스템의 모든 응용 프로그램(다양한 내보내기 형식을 지원하는 Substance 3D Designer 또는 Substance 3D Painter 포함: https://experienceleague.adobe.com/en/docs/substance-3d/general-knowledge/ecosystem/import-and-export-formats).
 
-3DS Max, Maya, Blender, C4D, Rhino, Browzwear, CLO와 같은 Substance 파일 형식을 통합하는 모든 응용 프로그램에서...(여기 전체 목록 참조: <https://www.adobe.com/products/substance3d/plugins.html>). 여기에 나열되지 않은 응용 프로그램을 사용하는 경우 항상 PBR 텍스처 이미지를 내보내고 Substance 파일 형식을 기본적으로 지원하지 않는 모든 응용 프로그램에서 수동으로 연결할 수 있습니다.
+3DS Max, Maya, Blender, C4D, Rhino, Browzwear, CLO와 같은 Substance 파일 형식을 통합하는 모든 응용 프로그램에서...(여기 전체 목록 참조: <https://www.adobe.com/kr/products/substance3d/plugins.html>). 여기에 나열되지 않은 응용 프로그램을 사용하는 경우 항상 PBR 텍스처 이미지를 내보내고 Substance 파일 형식을 기본적으로 지원하지 않는 모든 응용 프로그램에서 수동으로 연결할 수 있습니다.
 
 +++
 

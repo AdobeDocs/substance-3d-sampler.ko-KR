@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-sampler/release-notes/version-5-0-substance-3d-sampler.html"
+helpx_url: "https://helpx.adobe.com/kr/substance-3d-sampler/release-notes/version-5-0-substance-3d-sampler.html"
 breadcrumb-title: ''
 description: 새로운 디지털화 도구, 기능 및 워크플로우 개선 사항에 대해 알아보려면 Substance 3D Sampler 버전 5.0의 릴리스 노트를 검토하십시오.
 helpx_creative_field: ""

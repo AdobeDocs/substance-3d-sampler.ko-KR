@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-sampler/release-notes/old-versions/version-0-8-0.html"
+helpx_url: "https://helpx.adobe.com/kr/substance-3d-sampler/release-notes/old-versions/version-0-8-0.html"
 breadcrumb-title: ''
 description: Substance 3D Sampler 버전 0.8.0의 릴리스 노트를 검토하여 새로운 기능, 업데이트 및 개선 사항에 대해 알아보십시오.
 helpx_creative_field: ""

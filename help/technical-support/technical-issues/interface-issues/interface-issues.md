@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-sampler/technical-support/technical-issues/interface-issues.html"
+helpx_url: "https://helpx.adobe.com/kr/substance-3d-sampler/technical-support/technical-issues/interface-issues.html"
 breadcrumb-title: ''
 description: Substance 3D Sampler 인터페이스 문제에 대한 문제 해결 안내서에 액세스하여 디스플레이 문제 및 UI 렌더링 오류를 해결합니다.
 helpx_creative_field: ""

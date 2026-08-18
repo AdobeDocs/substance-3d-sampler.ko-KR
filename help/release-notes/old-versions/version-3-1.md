@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-sampler/release-notes/old-versions/version-3-1.html"
+helpx_url: "https://helpx.adobe.com/kr/substance-3d-sampler/release-notes/old-versions/version-3-1.html"
 breadcrumb-title: ''
 description: 색상 피커, SVG 지원 및 상호 운용성 개선 사항에 대해 알아보려면 Substance 3D Sampler 버전 3.1의 릴리스 정보를 검토하십시오.
 helpx_creative_field: ""

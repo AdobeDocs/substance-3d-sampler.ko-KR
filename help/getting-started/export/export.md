@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-sampler/getting-started/export.html"
+helpx_url: "https://helpx.adobe.com/kr/substance-3d-sampler/getting-started/export.html"
 breadcrumb-title: ''
 description: Substance 3D Sampler의 재질을 다양한 형식과 사전 설정으로 내보내 다른 애플리케이션과 엔진에 사용하는 방법을 살펴보세요.
 helpx_creative_field: ""
@@ -45,5 +45,5 @@ Sampler은 에셋에 대한 주요 파일 포맷을 지원합니다.
 
 * [내보내기 창](../../getting-started/export/export-window/export-window.md)
 * [기본 사전 설정](../../getting-started/export/default-presets/default-presets.md)
-* [사용자 정의 사전 설정 관리](https://helpx.adobe.com/substance-3d/unlisted/documentation/sadoc/creating-and-importing-custom-presets-188976295.html)
+* [사용자 정의 사전 설정 관리](https://helpx.adobe.com/kr/substance-3d/unlisted/documentation/sadoc/creating-and-importing-custom-presets-188976295.html)
 * [사전 설정 관리](managing-presets.md)

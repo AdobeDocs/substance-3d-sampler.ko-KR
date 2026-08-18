@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-sampler/getting-started/export/default-presets/spark-ar-studio.html"
+helpx_url: "https://helpx.adobe.com/kr/substance-3d-sampler/getting-started/export/default-presets/spark-ar-studio.html"
 breadcrumb-title: ''
 description: Spark AR Studio 사전 설정을 사용하여 증강 현실 워크플로우에 사용할 재료를 Substance 3D Sampler에서 내보내는 방법을 알아봅니다.
 helpx_creative_field: ""

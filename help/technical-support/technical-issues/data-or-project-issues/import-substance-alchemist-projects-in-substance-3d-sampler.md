@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-sampler/technical-support/technical-issues/data-or-project-issues/import-substance-alchemist-projects-in-substance-3d-sampler.html"
+helpx_url: "https://helpx.adobe.com/kr/substance-3d-sampler/technical-support/technical-issues/data-or-project-issues/import-substance-alchemist-projects-in-substance-3d-sampler.html"
 breadcrumb-title: ''
 description: Substance Alchemist 프로젝트를 Substance 3D Sampler으로 가져와 기존 재질 프로젝트 및 워크플로우를 마이그레이션하는 방법에 대해 알아봅니다.
 helpx_creative_field: ""

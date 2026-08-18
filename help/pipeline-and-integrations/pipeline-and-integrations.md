@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-sampler/pipeline-and-integrations.html"
+helpx_url: "https://helpx.adobe.com/kr/substance-3d-sampler/pipeline-and-integrations.html"
 breadcrumb-title: ''
 description: Substance 3D Sampler이 다른 애플리케이션과 연결하고 워크플로우를 자동화하는 파이프라인 및 통합 옵션에 대해 알아봅니다.
 helpx_creative_field: ""

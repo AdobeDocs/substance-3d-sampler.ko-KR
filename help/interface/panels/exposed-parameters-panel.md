@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-sampler/interface/panels/exposed-parameters-panel.html"
+helpx_url: "https://helpx.adobe.com/kr/substance-3d-sampler/interface/panels/exposed-parameters-panel.html"
 breadcrumb-title: ''
 description: Substance 3D Sampler의 노출된 파라미터 패널을 사용하여 외부 편집을 위한 필터 매개 변수를 표시하는 방법을 알아봅니다.
 helpx_creative_field: ""

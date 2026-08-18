@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-sampler/interface/panels/quick-actions-panel.html"
+helpx_url: "https://helpx.adobe.com/kr/substance-3d-sampler/interface/panels/quick-actions-panel.html"
 breadcrumb-title: ''
 description: Substance 3D Sampler의 빠른 작업 패널을 사용하여 일반적인 재질 편집 작업 및 단축키에 액세스하는 방법을 알아봅니다.
 helpx_creative_field: ""

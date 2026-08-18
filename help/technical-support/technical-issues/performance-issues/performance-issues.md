@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-sampler/technical-support/technical-issues/performance-issues.html"
+helpx_url: "https://helpx.adobe.com/kr/substance-3d-sampler/technical-support/technical-issues/performance-issues.html"
 breadcrumb-title: ''
 description: Substance 3D Sampler 성능 문제에 대한 문제 해결 안내서에 액세스하여 애플리케이션 속도와 응답성을 최적화합니다.
 helpx_creative_field: ""

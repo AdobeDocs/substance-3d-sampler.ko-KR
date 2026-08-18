@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-sampler/interface/panels/layers-panel.html"
+helpx_url: "https://helpx.adobe.com/kr/substance-3d-sampler/interface/panels/layers-panel.html"
 breadcrumb-title: ''
 description: Substance 3D Sampler에서 레이어 패널을 사용하여 필터 레이어를 관리하고 복잡한 재질 스택을 빌드하는 방법을 알아봅니다.
 helpx_creative_field: ""

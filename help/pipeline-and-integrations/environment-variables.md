@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-sampler/pipeline-and-integrations/environment-variables.html"
+helpx_url: "https://helpx.adobe.com/kr/substance-3d-sampler/pipeline-and-integrations/environment-variables.html"
 breadcrumb-title: ''
 description: Substance 3D Sampler에서 환경 변수를 사용하여 기본 애플리케이션 동작을 재정의하고 설정을 구성하는 방법에 대해 알아봅니다.
 helpx_creative_field: ""

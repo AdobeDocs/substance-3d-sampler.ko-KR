@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-sampler/release-notes/old-versions/version-0-7-0.html"
+helpx_url: "https://helpx.adobe.com/kr/substance-3d-sampler/release-notes/old-versions/version-0-7-0.html"
 breadcrumb-title: ''
 description: 업데이트, 개선 및 버그 수정에 대해 알아보려면 Substance 3D Sampler 버전 0.7.0의 릴리스 정보를 검토하십시오.
 helpx_creative_field: ""

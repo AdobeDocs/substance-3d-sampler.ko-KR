@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-sampler/getting-started/export/managing-presets.html"
+helpx_url: "https://helpx.adobe.com/kr/substance-3d-sampler/getting-started/export/managing-presets.html"
 breadcrumb-title: ''
 description: Substance 3D Sampler에서 내보내기 사전 설정을 관리하여 다양한 애플리케이션 및 파이프라인에 맞게 재질을 구성하는 방법을 알아봅니다.
 helpx_creative_field: ""

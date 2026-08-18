@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-sampler/getting-started/export/default-presets/unreal-engine-4.html"
+helpx_url: "https://helpx.adobe.com/kr/substance-3d-sampler/getting-started/export/default-presets/unreal-engine-4.html"
 breadcrumb-title: ''
 description: 게임 개발 워크플로우에 사용할 Unreal Engine 4 사전 설정을 사용하여 Substance 3D Sampler에서 재질을 내보내는 방법을 알아봅니다.
 helpx_creative_field: ""

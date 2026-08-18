@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-sampler/interface/tools-and-widgets/color-picker.html"
+helpx_url: "https://helpx.adobe.com/kr/substance-3d-sampler/interface/tools-and-widgets/color-picker.html"
 breadcrumb-title: ''
 description: Substance 3D Sampler에서 색상 피커를 사용하여 재질, 필터 및 텍스처 편집에 사용할 색상을 선택하는 방법을 살펴보세요.
 helpx_creative_field: ""

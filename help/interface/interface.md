@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-sampler/interface.html"
+helpx_url: "https://helpx.adobe.com/kr/substance-3d-sampler/interface.html"
 breadcrumb-title: ''
 description: 뷰포트, 사이드바 및 패널을 포함하여 애플리케이션을 효율적으로 탐색하고 사용할 수 있는 Substance 3D Sampler 인터페이스에 대해 알아봅니다.
 helpx_creative_field: ""

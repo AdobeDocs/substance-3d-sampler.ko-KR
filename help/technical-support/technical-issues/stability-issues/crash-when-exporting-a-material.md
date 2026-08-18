@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-sampler/technical-support/technical-issues/stability-issues/crash-when-exporting-a-material.html"
+helpx_url: "https://helpx.adobe.com/kr/substance-3d-sampler/technical-support/technical-issues/stability-issues/crash-when-exporting-a-material.html"
 breadcrumb-title: ''
 description: VRAM 부족 또는 GPU 메모리 문제로 인해 Substance 3D Sampler에서 재질을 내보낼 때 충돌하는 문제를 해결하는 방법에 대해 알아봅니다.
 helpx_creative_field: ""
