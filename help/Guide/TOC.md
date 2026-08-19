@@ -4,9 +4,9 @@ breadcrumb-title: Substance 3D Sampler
 user-guide-description: Substance 3D Sampler
 hide: false
 hold: true
-source-git-commit: 6a659856172275313f25647700ef703e3daf8aba
+source-git-commit: a0034da3bee13d0d7423828a902da62cf2219474
 workflow-type: tm+mt
-source-wordcount: '623'
+source-wordcount: '627'
 ht-degree: 13%
 
 ---
@@ -188,6 +188,7 @@ ht-degree: 13%
   + HP Z Captis 지원{#hp-z-captis-support}
     + [HP Z Captis 지원 개요](/help/pipeline-and-integrations/hp-z-captis-support/hp-z-captis-support.md)
     + [단계별로 첫 번째 캡처](/help/pipeline-and-integrations/hp-z-captis-support/your-first-capture-step-by-step.md)
+    + [스캔 시 최상의 조건](/help/pipeline-and-integrations/hp-z-captis-support/scanning-best-practices.md)
     + [HP Z Captis 장치 사용을 위한 시스템 요구 사항](/help/pipeline-and-integrations/hp-z-captis-support/system-requirements-to-use-hp-z-captis.md)
     + [Sampler의 HP Z 지원에 대한 FAQ](/help/pipeline-and-integrations/hp-z-captis-support/faq-hp-z-captis-support-in-sampler.md)
     + [알려진 문제 및 제한 사항](/help/pipeline-and-integrations/hp-z-captis-support/known-issues-and-limitations-hp-z-captis-support.md)
