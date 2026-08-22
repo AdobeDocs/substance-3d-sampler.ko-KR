@@ -40,7 +40,7 @@ ht-degree: 1%
 
 >[!NOTE]
 >
-> Sampler에서 직접 필터를 제어하기 위해 필터 매개 변수를 표시할 수 있습니다. [여기](https://experienceleague.adobe.com/en/docs/substance-3d-designer/using/substance-graphs/manage-parameters/exposing-a-parameter)에서 방법 보기
+> Sampler에서 직접 필터를 제어하기 위해 필터 매개 변수를 표시할 수 있습니다. [여기](https://experienceleague.adobe.com/ko/docs/substance-3d-designer/using/substance-graphs/manage-parameters/exposing-a-parameter)에서 방법 보기
 
 #### 이미지를 수정할 필터 만들기
 

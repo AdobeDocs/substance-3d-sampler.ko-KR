@@ -29,5 +29,5 @@ ht-degree: 0%
 * 캡처 중에 창을 닫으면 입력된 메타데이터가 유실됩니다.
 * USB를 통해 Captis에서 데이터를 전송하는 동안 &quot;Browse content&quot; 또는 &quot;Shut down&quot; 버튼 중 하나를 클릭하면 전송이 중지됩니다.
 
-* TDR 문제가 있는 경우 이를 해결하는 데 도움이 되는 Sustance Painter의 [이 문서 페이지](https://experienceleague.adobe.com/en/docs/substance-3d-painter/using/technical-support/technical-issues/gpu-issues/gpu-drivers-crash-with-long-computations-tdr-crash)를 참조하세요.
+* TDR 문제가 있는 경우 이를 해결하는 데 도움이 되는 Sustance Painter의 [이 문서 페이지](https://experienceleague.adobe.com/ko/docs/substance-3d-painter/using/technical-support/technical-issues/gpu-issues/gpu-drivers-crash-with-long-computations-tdr-crash)를 참조하세요.
 * &quot;미리보기&quot; 단계가 장치 안의 라이브 피드를 보는 대신 모두 검은색인 경우 장치 콘 안쪽에서 렌즈 캡을 제거했는지 확인하십시오.
