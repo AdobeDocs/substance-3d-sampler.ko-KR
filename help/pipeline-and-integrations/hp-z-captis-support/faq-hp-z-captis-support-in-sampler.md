@@ -116,7 +116,7 @@ Sampler 및 sbsar 파일을 사용할 서드파티 앱에서 프로젝트 크기
 +++특정 파일 형식, 표준 및 사양 또는 타사 응용 프로그램을 사용하는 경우 현재 3D 파이프라인에서 Captis를 사용하려면 어떻게 해야 합니까?
 HP Z Captis는 Adobe Substance 3D Sampler이 기본적으로 운영하고 있습니다. Substance 3D Sampler에서 재질 샘플을 캡처하고 디지털화한 후에는 디지털 재질을 원활하게 내보낼 수 있습니다.
 
-Substance 3D 에코시스템의 모든 응용 프로그램(다양한 내보내기 형식을 지원하는 Substance 3D Designer 또는 Substance 3D Painter 포함: https://experienceleague.adobe.com/en/docs/substance-3d/general-knowledge/ecosystem/import-and-export-formats).
+Substance 3D 에코시스템의 모든 응용 프로그램(다양한 내보내기 형식을 지원하는 Substance 3D Designer 또는 Substance 3D Painter 포함: https://experienceleague.adobe.com/ko/docs/substance-3d/general-knowledge/ecosystem/import-and-export-formats).
 
 3DS Max, Maya, Blender, C4D, Rhino, Browzwear, CLO와 같은 Substance 파일 형식을 통합하는 모든 응용 프로그램에서...(여기 전체 목록 참조: <https://www.adobe.com/kr/products/substance3d/plugins.html>). 여기에 나열되지 않은 응용 프로그램을 사용하는 경우 항상 PBR 텍스처 이미지를 내보내고 Substance 파일 형식을 기본적으로 지원하지 않는 모든 응용 프로그램에서 수동으로 연결할 수 있습니다.
 
