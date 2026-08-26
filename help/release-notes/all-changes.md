@@ -6,9 +6,9 @@ helpx_description: Sampler > Release Notes > All Changes
 title: 모든 변경 내용
 user-guide-description: ''
 user-guide-title: ''
-source-git-commit: dc832dc546735437051226f4e1e731b55147b3ea
+source-git-commit: 0484ed7ae81bd16687abe23ac0ce8f5ad84d1888
 workflow-type: tm+mt
-source-wordcount: '24926'
+source-wordcount: '24940'
 ht-degree: 0%
 
 ---
@@ -19,6 +19,14 @@ ht-degree: 0%
 이 페이지에서는 Substance 3D Sampler에 발생한 모든 변경 사항을 새로운 기능에서 버그 수정에 이르기까지 다시 그룹화합니다.
 
 ## 버전 6
+
+### **6.0.3**
+
+*(릴리스: 2026년 8월 24일)*
+
+**고정:**
+
+[렌더링] 잘못된 NVIDIA 드라이버에 대한 임시 해결 방법을 되돌립니다.
 
 ### **6.0.2**
 
