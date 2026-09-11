@@ -1,7 +1,7 @@
 ---
 helpx_url: "https://helpx.adobe.com/kr/substance-3d-sampler/filters/generators/decal.html"
 breadcrumb-title: ''
-description: Substance 3D Sampler에서 데칼 생성기를 사용하여 재료 서피스에 대한 데칼 패턴과 오버레이 텍스처를 생성합니다.
+description: Substance 3D Sampler에서 데칼 생성기를 사용하여 재질 표면에 대한 데칼 패턴 및 오버레이 텍스처를 만듭니다.
 helpx_creative_field: ""
 helpx_description: Sampler > Filters > Generators > Decal
 helpx_experience_level: ""
@@ -65,12 +65,12 @@ ht-degree: 1%
 * **데칼 Height 위치**: 0-1\
   기본 레이어 Height을 기준으로 데칼의 Height 조정
 * **데칼 Height 비율**: 0-1\
-  데칼 재질의 Height 맵 대비 변경
+  데칼 재질의 높이 맵 대비 변경
 
 **고급 매개 변수**
 
 * **데칼 변환**:\
-  데칼의 행렬 변형 값을 조정합니다. 일반적으로 데칼의 변환을 조정하려면 **2D 보기**&#x200B;의 핸들을 사용하는 것이 더 쉽습니다.
+  데칼에 대한 매트릭스 값을 조정합니다. 일반적으로 **2D 보기**&#x200B;의 핸들을 사용하여 데칼의 변환을 조정하는 것이 더 쉽습니다.
 * **데칼** **오프셋**: -1 - 1\
   데칼의 오프셋을 조정합니다.
 

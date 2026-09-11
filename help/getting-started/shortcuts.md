@@ -20,7 +20,7 @@ ht-degree: 15%
 
 # 단축키
 
-이 페이지에는 사용 가능한 모든 키보드 단축키와 해당 동작이 나열됩니다.
+이 페이지에는 사용 가능한 모든 키보드 단축키 및 해당 동작이 나열됩니다.
 
 ## 전역 단축키
 
@@ -120,7 +120,7 @@ ht-degree: 15%
 <p> </p>
 <p> </p>
 </td>
-</tr><tr><td colspan="3" data-highlight-colour="grey" title="배경색 : 회색"><b>자르기/변형</b></td>
+</tr><tr><td colspan="3" data-highlight-colour="grey" title="배경색 : 회색"><b>자르기 /</b></td>
 </tr><tr><td>비율 유지</td>
 <td>Shift + 마우스 왼쪽</td>
 <td>Shift + 마우스 왼쪽</td>
@@ -130,7 +130,7 @@ ht-degree: 15%
 </tr><tr><td>가운데 변형 + 비율 유지</td>
 <td>Shift + CTRL + 마우스 왼쪽</td>
 <td>Shift + <span class="NormalTextRun SCXW1728708 BCX0">⌘</span> + 마우스 왼쪽</td>
-</tr><tr><td colspan="3" data-highlight-colour="grey" title="배경색 : 회색"><b>복제 도장</b></td>
+</tr><tr><td colspan="3" data-highlight-colour="grey" title="배경색 : 회색"><b>복제 스탬프</b></td>
 </tr><tr><td>새 소스</td>
 <td>CTRL + 마우스 왼쪽 버튼</td>
 <td><span class="NormalTextRun SCXW1728708 BCX0">⌘</span> + 마우스 왼쪽</td>

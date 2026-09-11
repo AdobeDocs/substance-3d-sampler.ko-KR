@@ -22,4 +22,4 @@ ht-degree: 5%
 
 | 사전 설정 | 호환성 | 패킹 출력 설명 |
 | --- | --- | --- |
-| Keyshot9+ | <ul data-preserve-html="true"> <li data-preserve-html="true">PBR 금속/거칠음</li> </ul> | <b>기본\_색상</b> <b>표준</b> <b>거칠음</b> <b>금속</b> <b>변위</b> <b>발광</b> <b>불투명도</b> <b>Specular</b> |
+| Keyshot9+ | <ul data-preserve-html="true"> <li data-preserve-html="true">PBR 금속/거칠음</li> </ul> | <b>기본\_색상</b> <b>표준</b> <b>거칠음</b> <b>금속</b> <b>변위</b> <b>방출</b> <b>불투명도</b> <b>Specular</b> |

@@ -1,7 +1,7 @@
 ---
 helpx_url: "https://helpx.adobe.com/kr/substance-3d-sampler/filters/tools/channel-switch.html"
 breadcrumb-title: ''
-description: Substance 3D Sampler의 [채널 전환] 도구를 사용하여 질감 맵의 색상 채널을 재정렬하고 바꿔 질감을 만들 수 있습니다.
+description: Substance 3D Sampler의 [채널 전환] 도구를 사용하여 질감 생성을 위해 텍스처 맵의 색상 채널을 다시 정렬하고 바꿉니다.
 helpx_creative_field: ""
 helpx_description: Sampler > Filters > Tools > Channel Switch
 helpx_experience_level: ""

@@ -42,8 +42,8 @@ ht-degree: 0%
 
 ## 안정성 문제
 
-* [재질을 내보낼 때 충돌 발생](stability-issues/crash-when-exporting-a-material.md)
-* [이미지를 재료 또는 발신자에 사용할 때 충돌 발생](stability-issues/crash-when-using-the-image-to-material-or-delighter.md)
+* [재질을 내보낼 때 충돌](stability-issues/crash-when-exporting-a-material.md)
+* [이미지를 재료 또는 섬광으로 사용할 때 충돌](stability-issues/crash-when-using-the-image-to-material-or-delighter.md)
 
 ## 시작 문제
 

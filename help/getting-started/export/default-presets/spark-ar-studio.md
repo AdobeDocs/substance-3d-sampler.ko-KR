@@ -24,4 +24,4 @@ ht-degree: 3%
 
 | 사전 설정 | 호환성 | 패킹 출력 설명 |
 | --- | --- | --- |
-| Spark AR Studio | <ul data-preserve-html="true"><li data-preserve-html="true">PBR 금속/거칠음</li></ul> | **색상**:<ul data-preserve-html="true"><li data-preserve-html="true"><strong>RGB</strong>: 기본 색</li><li data-preserve-html="true"><strong>A</strong>: 불투명도</li></ul>**형식**:<ul data-preserve-html="true"><li data-preserve-html="true"><strong>R</strong>: 주변 오클루전</li><li data-preserve-html="true"><strong>G</strong>: 거칠음</li><li data-preserve-html="true"><strong>B</strong>: 금속</li></ul>**표준**(OpenGL)**발광** |
+| Spark AR Studio | <ul data-preserve-html="true"><li data-preserve-html="true">PBR 금속/거칠음</li></ul> | **색상**:<ul data-preserve-html="true"><li data-preserve-html="true"><strong>RGB</strong>: 기본 색상</li><li data-preserve-html="true"><strong>A</strong>: 불투명도</li></ul>**형식**:<ul data-preserve-html="true"><li data-preserve-html="true"><strong>R</strong>: 앰비언트 오클루전</li><li data-preserve-html="true"><strong>G</strong>: 거칠음</li><li data-preserve-html="true"><strong>B</strong>: 금속</li></ul>**표준**(OpenGL)**방출** |

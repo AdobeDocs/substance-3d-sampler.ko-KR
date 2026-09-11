@@ -45,7 +45,7 @@ ht-degree: 0%
 
 * <b>형식</b>: 내보낸 자산에 대한 파일 형식을 선택합니다.
   * <b>SBSAR</b>: Substance 재질을 지원하는 모든 응용 프로그램에서 사용할 수 있도록 재질을 내보냅니다.
-  * <b>SBS</b>: Substance 3D Designer에서 열 수 있도록 자료를 내보냅니다.
+  * <b>SBS</b>: Substance 3D Designer에서 열 수 있도록 재질을 내보냅니다.
   * <b>EXR, JPEG, PNG, TARGA, TIFF</b>: 재질을 이미지 파일의 컬렉션으로 내보냅니다.
 
 >[!NOTE]

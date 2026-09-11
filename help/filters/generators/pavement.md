@@ -1,7 +1,7 @@
 ---
 helpx_url: "https://helpx.adobe.com/kr/substance-3d-sampler/filters/generators/pavement.html"
 breadcrumb-title: ''
-description: Substance 3D Sampler의 Painter 생성기를 사용하여 실제 포장 및 재료 노면 텍스처를 생성합니다.
+description: Substance 3D Sampler의 포장 발생기를 사용하여 사실적인 포장 및 재료의 노면 텍스처를 만듭니다.
 helpx_creative_field: ""
 helpx_description: Sampler > Filters > Generators > Pavement
 helpx_experience_level: ""
@@ -53,7 +53,7 @@ ht-degree: 1%
   벽돌 사이의 간격 수정
 * **모퉁이 원형률**: 0-1\
   벽돌의 모서리를 더 둥글게 만들거나 덜 둥글게 만듭니다.
-* **가장자리 원형률**: 0-1\
+* **모서리 둥글기**: 0-1\
   벽돌의 가장자리를 매끄럽게 하여 더 마모된 것처럼 보이게 합니다
 * **기울기 강도**: 0-1\
   각 벽돌에 적용된 무작위 기울기의 강도 변경
@@ -85,7 +85,7 @@ ht-degree: 1%
 * **표면 크기(cm)**: 0-1000\
   재질이 나타내는 물리적 크기 조정
 * **표면 Height 배율(cm)**: 0-1000\
-  Height 맵으로 표시된 물리적 공간 변경
+  높이 맵으로 표시된 물리적 공간 변경
 * **표면 Smoothness**: 0-1\
   서피스의 변형 정도와 세부 사항 제어
 * **표면 노출**: 0-1\

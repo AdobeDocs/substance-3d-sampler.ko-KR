@@ -1,7 +1,7 @@
 ---
 helpx_url: "https://helpx.adobe.com/kr/substance-3d-sampler/filters/tools/channels-generation.html"
 breadcrumb-title: ''
-description: Substance 3D Sampler의 채널 생성 도구를 사용하여 재질 생성을 위해 기존 맵에서 텍스처 채널을 생성합니다.
+description: Substance 3D Sampler의 [텍스처 생성] 도구를 사용하여 재질 생성을 위한 기존 맵에서 채널 채널을 생성합니다.
 helpx_creative_field: ""
 helpx_description: Sampler > Filters > Tools > Channels Generation
 helpx_experience_level: ""

@@ -1,7 +1,7 @@
 ---
 helpx_url: "https://helpx.adobe.com/kr/substance-3d-sampler/filters/wear-and-finish/water.html"
 breadcrumb-title: ''
-description: Substance 3D Sampler의 워터 필터를 사용하여 물과 같은 효과, 젖은 효과, 수분을 재료와 텍스처에 추가할 수 있습니다.
+description: Substance 3D Sampler의 워터 필터를 사용하여 물효과, 습윤성, 습기를 소재와 텍스처에 추가할 수 있습니다.
 helpx_creative_field: ""
 helpx_description: Sampler > Filters > Wear and Finish > Water
 helpx_experience_level: ""

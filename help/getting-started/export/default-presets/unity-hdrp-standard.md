@@ -22,4 +22,4 @@ ht-degree: 3%
 
 | 사전 설정 | 호환성 | 패킹 출력 설명 |
 | --- | --- | --- |
-| 유니티 HDRP 표준 | <ul data-preserve-html="true"><li data-preserve-html="true">PBR 금속/거칠음</li></ul> | **기본 색상:**<ul data-preserve-html="true"><li data-preserve-html="true"><strong>RGB</strong>: 기본 색</li><li data-preserve-html="true"><strong>A</strong>: 불투명도</li></ul>**MaskMap:**<ul data-preserve-html="true"><li data-preserve-html="true"><strong>R</strong>: 금속</li><li data-preserve-html="true"><strong>G</strong>: 주변 오클루전</li><li data-preserve-html="true"><strong>A</strong>: Smoothness</li></ul>**표준**(OpenGL)**발광** |
+| 유니티 HDRP 표준 | <ul data-preserve-html="true"><li data-preserve-html="true">PBR 금속/거칠음</li></ul> | **기본 색상:**<ul data-preserve-html="true"><li data-preserve-html="true"><strong>RGB</strong>: 기본 색상</li><li data-preserve-html="true"><strong>A</strong>: 불투명도</li></ul>**MaskMap:**<ul data-preserve-html="true"><li data-preserve-html="true"><strong>R</strong>: 금속</li><li data-preserve-html="true"><strong>G</strong>: 주변 오클루전</li><li data-preserve-html="true"><strong>A</strong>: Smoothness</li></ul>**표준**(OpenGL)**발광** |

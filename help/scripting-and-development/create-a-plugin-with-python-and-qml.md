@@ -28,7 +28,7 @@ Sampler 플러그인을 가져오려면 적어도 Python 및 QML 파일이 필�
 
 * **autosave.py**&#x200B;에는 플러그인의 논리가 포함되며 작동 방식을 결정합니다.
 * **autosave.qml**&#x200B;은 Sampler에서 플러그인의 모양을 정의합니다.
-* **autosave.svg**&#x200B;는 플러그인의 아이콘으로 사용되는 벡터 그래픽입니다.
+* **autosave.svg**&#x200B;는 벡터 그래픽 아이콘으로 사용되는 플러그인입니다.
 
 플러그인에 필요한 파일이 단일 폴더에 있는 경우 편집 > 환경 설정 > 플러그인 및 스크립트를 통해 Sampler에 플러그인을 추가할 수 있습니다. 플러그인 관리에 대해 자세히 알아보려면 [여기](manage-installed-plugins-and-scripts.md)로 이동하세요.
 

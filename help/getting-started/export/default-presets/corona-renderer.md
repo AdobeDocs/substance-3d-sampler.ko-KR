@@ -22,11 +22,11 @@ ht-degree: 2%
 
 | 사전 설정 | 호환성 | 패킹 출력 설명 |
 | --- | --- | --- |
-| Corona 렌더러 | <ul data-preserve-html="true"><li data-preserve-html="true">PBR 금속/거칠음</li><li data-preserve-html="true">PBR Specular/광택</li></ul> | **확산**&#x200B;**반사 매끄러움** (\*)**반사 색상** (\*\*)**프레넬IOR** (\*\*\*)**정상&#x200B;**&#x200B;**변위**&#x200B;**&#x200B;발광**&#x200B;**불투명도** |
+| Corona 렌더러 | <ul data-preserve-html="true"><li data-preserve-html="true">PBR 금속/거칠음</li><li data-preserve-html="true">PBR Specular/광택도</li></ul> | **&#x200B;**&#x200B;**반사 매끄러움** (\*)**반사 색상** (\*\*)**프레넬 색상** (\*\*\*)**표준&#x200B;**&#x200B;**변위**&#x200B;**&#x200B;방출**&#x200B;**불투명도** |
 
 >[!NOTE]
 >
-> **(\*)** 반사 광택: 광택 채널의 정사각형 버전(광택 \* 광택)
+> **(\*)** 반사 광택도: 광택도 채널의 정사각형 버전(광택도 \* 광택도)
 > 
 > **(\*\*)** 반사 색상: 흰색이 유전체 재질을 나타내고 다른 색상이 금속 재질을 나타내는 맵을 내보냅니다
 > 

@@ -1,7 +1,7 @@
 ---
 helpx_url: "https://helpx.adobe.com/kr/substance-3d-sampler/filters/adjustments/hue-saturation.html"
 breadcrumb-title: ''
-description: Substance 3D Sampler의 [색조/채도] 필터를 사용하여 텍스처와 재질의 색조, 채도 및 밝기 값을 조정할 수 있습니다.
+description: Substance 3D Sampler의 [색조/채도] 필터를 사용하여 텍스처 및 재질의 색조, 채도 및 밝기 값을 조정할 수 있습니다.
 helpx_creative_field: ""
 helpx_description: Sampler > Filters > Adjustments > HueSaturation
 helpx_experience_level: ""
@@ -33,7 +33,7 @@ ht-degree: 0%
 
 ## 설명
 
-[색조/채도] 필터를 사용하면 기본 색상과 확산 채널의 색상을 조정할 수 있습니다. 마스크를 사용하여 이미지의 일부만 색상을 수정할 수도 있습니다.
+[색조/채도] 필터를 사용하면 기본 색상 및 확산 채널의 색상을 조정할 수 있습니다. 마스크를 사용하여 이미지의 일부만 색상을 수정할 수도 있습니다.
 
 아래 이미지는 타일 재질의 색조를 조정하는 데 사용되는 **색조/채도 필터**&#x200B;를 보여줍니다.
 
@@ -65,9 +65,9 @@ ht-degree: 0%
 * **채도**: -1 - 1\
   채도를 조정하여 색상을 돋보이게 하거나 색상 강도를 줄입니다.
 * **밝기**: -1 - 1\
-  색상의 밝기를 수정합니다.
+  색상 밝기를 수정합니다.
 * **색상화**: 전환\
-  비활성화된 경우 필터는 이미 존재하는 색상을 조정합니다. 이 옵션을 활성화하면 세부 사항을 유지하면서 색조, 채도 및 명도 슬라이더를 기준으로 색상이 대체됩니다.
+  비활성화된 경우 필터는 이미 존재하는 색상을 조정합니다. 이 옵션을 활성화하면 세부 사항을 유지하면서 색조, 채도 및 밝기 슬라이더를 기준으로 색상이 대체됩니다.
 
 **마스크**
 

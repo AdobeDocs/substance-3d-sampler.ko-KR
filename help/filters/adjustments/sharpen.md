@@ -1,7 +1,7 @@
 ---
 helpx_url: "https://helpx.adobe.com/kr/substance-3d-sampler/filters/adjustments/sharpen.html"
 breadcrumb-title: ''
-description: Substance 3D Sampler의 선명 효과 필터를 사용하여 이미지의 선명도와 텍스처 및 재질 레이어의 세부 사항을 향상시킵니다.
+description: Substance 3D Sampler의 선명 효과 필터를 사용하면 텍스처 및 재질 레이어에서 이미지의 선명도와 세부 사항을 향상시킬 수 있습니다.
 helpx_creative_field: ""
 helpx_description: Sampler > Filters > Adjustments > Sharpen
 helpx_experience_level: ""

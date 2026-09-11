@@ -1,7 +1,7 @@
 ---
 helpx_url: "https://helpx.adobe.com/kr/substance-3d-sampler/interface/panels/physical-size-panel.html"
 breadcrumb-title: ''
-description: Substance 3D Sampler의 물리적 크기 패널을 사용하여 재료 및 텍스처의 실제 치수를 설정하는 방법을 알아봅니다.
+description: Substance 3D Sampler의 물리적 크기 패널을 사용하여 재질 및 텍스처의 실제 치수를 설정하는 방법을 알아봅니다.
 helpx_creative_field: ""
 helpx_description: Sampler > Interface > Panels > Physical Size Panel
 helpx_experience_level: ""

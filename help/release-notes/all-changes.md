@@ -64,7 +64,7 @@ ht-degree: 0%
 
 **추가됨:**
 
-* &lbrack;Application&rbrack; 3D 개체 또는 환경 조명이 있는 프로젝트를 열 때 사용자에게 경고합니다
+* &lbrack;Application&rbrack; 3D 개체 또는 환경 조명이 있는 프로젝트를 열 때 사용자에게 경고합니다.
 * &lbrack;Captis&rbrack; UI를 작은 화면에 맞게 조정
 * &lbrack;Captis&rbrack; Captis UI 업데이트
 * &lbrack;Channel Settings&rbrack; ASM에서 SSS 채널을 사용할 때 SSS 자동 활성화
@@ -83,10 +83,10 @@ ht-degree: 0%
 * &lbrack;응용 프로그램 &rbrack; 설정 업데이트 수정
 * &lbrack;응용 프로그램&rbrack; 스캔 채널이 자동으로 설정되어 있을 때 활성화 상태로 만듭니다.
 * 홈 화면의 &lbrack;응용 프로그램&rbrack; 새 프로젝트 단추는 더 이상 같은 이름의 이전 프로젝트를 지우지 않습니다.
-* &lbrack;응용 프로그램(&amp;r); macOS 종료 시 충돌 방지
+* &lbrack;응용 프로그램&rbrack; macOS에서 종료 시 충돌 방지
 * &lbrack;Application&rbrack; 잘못된 에셋 참조의 에셋에 액세스하지 못하도록 방지
 * &lbrack;Application&rbrack; Tweak에서 VersionedImage의 표면에 액세스할 때 충돌 방지
-* &lbrack;Application&rbrack; 스테이지가 없을 때 스테이지 삭제 시 충돌 방지
+* &lbrack;Application&rbrack; 스테이지가 없을 때 충돌 방지
 * &lbrack;Captis&rbrack; Sampler을 닫기 전에 Captis의 연결이 끊어졌는지 확인
 * &lbrack;Captis&rbrack; USB-2 경고가 두 번 표시되지 않도록 방지
 * &lbrack;채널 설정&rbrack; OpenPBR 채널 이름 수정
@@ -94,14 +94,14 @@ ht-degree: 0%
 * &lbrack;Content&rbrack; SSS 값에 대한 모든 메시 단위를 미터에서 센티미터로 업데이트합니다.
 * &lbrack;내보내기&rbrack; 기본값이 동적 필터에 연결되어 있는지 확인합니다.
 * 이제 &lbrack;Export&rbrack; 이미지가 작업자 스레드에 저장되어 성능이 향상됩니다.
-* 배율 전환 시 &lbrack;Filters&rbrack; 내용 인식 채우기가 충돌함
+* 크기 조절 전환 시 &lbrack;Filters&rbrack; 내용 인식 채우기 충돌
 * &lbrack;Filters&rbrack; 에셋 패널에서 동적 필터의 위치를 열 수 없습니다.
 * &lbrack;Filters&rbrack; 자동 타일링 조정 단계에서 모두 재설정 수정
 * &lbrack;Filters&rbrack; 복원 트리 구조 생성에서 사용 비활성화 처리
 * &lbrack;Filters&rbrack; upscale 매개 변수에 대한 올바른 기본값 설정
 * &lbrack;Filters&rbrack; 생성기가 채우기 레이어에 있는 경우에도 업데이트합니다
 * &lbrack;Layers&rbrack; 입력 레이어 헤더 또는 자리 표시자 레이어의 이름을 변경하지 못하도록 합니다.
-* &lbrack;Layers&rbrack; 매달리기 포인터로 인한 레이어 삽입 중 충돌 방지
+* &lbrack;Layers&rbrack; 매달기 포인터로 인해 레이어가 삽입되는 동안 충돌 방지
 * &lbrack;Layers&rbrack; 병합 레이어 이름에 잘못된 수의 이미지가 있습니다.
 * &lbrack;Localization&rbrack; 언어를 전환할 때 사전 설정 이름이 업데이트되었는지 확인
 * 리소스 패널의 &lbrack;Localization&rbrack; 다중 번역 문제
@@ -154,7 +154,7 @@ ht-degree: 0%
 * &lbrack;Captis&rbrack; 캡처 중 중단하면 오류가 발생할 수 있습니다.
 * &lbrack;Captis&rbrack; 캡처 끝에서 결과를 다운로드하면 많은 RAM이 사용됩니다.
 * &lbrack;Captis&rbrack; 자동 강도 직후 자동 초점을 실행하면 오류가 발생할 수 있습니다.
-* &lbrack;Captis&rbrack; HDR 디스플레이가 [요약] 패널로 표시됩니다.
+* &lbrack;Captis&rbrack; HDR이 표시되면 요약 패널이 표시됩니다.
 * &lbrack;UI&rbrack; 경우에 따라 MacOS의 폴더 대화 상자에서 올바른 폴더를 선택하지 않습니다
 
 ### **5.1.2 ÎLE FLOTTANTE**
@@ -173,9 +173,9 @@ ht-degree: 0%
 **고정:**
 
 * &lbrack;Application&rbrack; 레이어 스택에 재질을 삽입하면 macOS에서 충돌이 발생할 수 있습니다
-* &lbrack;응용 프로그램&rbrack; macOS에서 과부하 시 가능한 충돌
-* &lbrack;응용 프로그램&rbrack; 비디오 메모리가 가득 찼을 때 레이어를 추가할 때 충돌이 발생할 수 있습니다.
-* &lbrack;Application&rbrack; 프로젝트를 열 때 충돌이 발생할 수 있습니다.
+* &lbrack;Application&rbrack; macOS에서 로드가 많을 때 가능한 충돌
+* 비디오 메모리가 가득 찼을 때 레이어를 추가할 때 가능한 충돌(&lbrack;Application&rbrack;)
+* 프로젝트를 열 때 가능한 충돌 &lbrack;Application&rbrack;
 * &lbrack;Captis&rbrack; 자동 강도 보정 직후 자동 포커스가 실행되는 경우 실패
 * &lbrack;Captis&rbrack; 첫 번째 캡처 후 안정성 및 성능 문제
 * &lbrack;Captis&rbrack; 캡처 끝에서 파일 복사 시 성능 저하 및 오류 발생
@@ -183,8 +183,8 @@ ht-degree: 0%
 * &lbrack;Export&rbrack; 다중 슬라이더 노출 매개 변수는 손상된 .sbsar 파일을 생성합니다.
 * 에셋을 전환할 때 자동 타일링 패턴이 기본값으로 재설정됨(&lbrack; Layers&rbrack;)
 * &lbrack;Layers&rbrack; 기본 사용자 정의 기본 색상이 빨간색으로 표시됨
-* &lbrack;Layers&rbrack; 복제 도장 하위 레이어를 부분적으로 병합할 수 있으며 렌더링 문제가 발생합니다.
-* &lbrack;Layers&rbrack; 렌더링이 진행되는 동안 레이어 스택을 수정하면 충돌이 발생할 수 있습니다
+* &lbrack;Layers&rbrack; 복제 스탬프 하위 레이어를 부분적으로 병합할 수 있으며 렌더링 문제가 발생합니다.
+* 렌더링이 진행되는 동안 레이어 스택을 수정할 때 가능한 충돌(&lbrack;Layers&rbrack;)
 * &lbrack;Layers&rbrack; 소스 채널을 변경할 때 관심 영역 자동 타일링 단계에서 예기치 않은 오류가 발생했습니다.
 * &lbrack;프로젝트&rbrack; 새 재질을 만들 때 축소판이 잘못되는 경우가 있습니다.
 * &lbrack;빠른 작업&rbrack; 일부 빠른 작업의 입력 수가 잘못되었습니다.
@@ -217,7 +217,7 @@ ht-degree: 0%
 * &lbrack;응용 프로그램(&amp;r); 종료 시 충돌
 * &lbrack;응용 프로그램&rbrack; 잠재적 충돌
 * &lbrack;Application&rbrack; 때때로 썸네일이 잘못된 자료로 생성됩니다
-* &lbrack;Captis&rbrack; 일부 장치에서 고해상도로 스캔을 수행할 때 Height 맵이 검정색입니다
+* &lbrack;Captis&rbrack; 일부 장치에서 고해상도로 스캔을 수행할 때 높이 맵이 검정색입니다
 * &lbrack;Captis&rbrack; 캡처 이름이 설정되지 않았고 보정이 실행 중일 때 &quot;캡처 시작&quot; 버튼이 더 이상 비활성화되지 않습니다
 * &lbrack;Export&rbrack; .sbsar 파일을 내보낼 때 사용자에게 알리지 않고 내보내기가 실패할 수 있습니다
 * 매개 변수를 조정할 때 자동 타일링 필터의 [필터] (&lbrack; Filters&rbrack; Advanced parameters&rbrack; 화면이 깜박이는 경우가 있음
@@ -242,8 +242,8 @@ ht-degree: 0%
 
 **추가됨:**
 
-* &lbrack;2D 보기&rbrack; 브러시 크기가 이제 현재 텍스처 해상도에 맞게 조정됩니다.
-* &lbrack;3D 보기&rbrack; 환경 설정의 3D 렌더링을 위한 기본 표시 크기 전환
+* 이제 &lbrack;2D 보기&rbrack; 브러시 크기가 현재 텍스처 해상도에 맞게 조정됩니다.
+* &lbrack;3D 보기&rbrack; 환경 설정에서 3D 렌더링을 위한 기본 표시 크기 전환
 * &lbrack;응용 프로그램&rbrack; 렌더링 엔진 업데이트
 * &lbrack;Captis&rbrack; 미리 보기 중에 &quot;정사각형 만들기&quot; 가능성 추가
 * &lbrack;Captis&rbrack; 자동 물리적 크기 감지
@@ -254,7 +254,7 @@ ht-degree: 0%
 * &lbrack;Captis&rbrack; 기본 보정 파일이 누락된 경우 사용자에게 경고합니다
 * &lbrack;Filters&rbrack; 구조화된 재료 및 스캔을 위한 자동 타일링 필터
 * &lbrack;Filters&rbrack; 새로운 접기 제거 필터
-* &lbrack;Filters&rbrack; 복제 도장 필터 내의 새로운 기능
+* &lbrack;Filters&rbrack; 복제 스탬프 필터 내의 새로운 기능
 * &lbrack;Filters&rbrack; 균일화 필터 내의 새로운 기능
 * &lbrack;Layers&rbrack; 레이어 병합 기능
 * 레이어를 마우스 오른쪽 버튼으로 클릭하여 이름을 바꾸거나, 복제하거나, 삭제하거나, 병합할 때 &lbrack;Layers&rbrack; 컨텍스트 메뉴
@@ -327,14 +327,14 @@ ht-degree: 0%
 **고정:**
 
 * &lbrack;3D 캡처&rbrack; 메시 사후 프로세스 필터가 필요한 맵을 출력하지 않습니다.
-* &lbrack;3D View&rbrack; 3D 뷰가 셰이더 캐시 손상으로 인해 작동하지 않음
-* &lbrack;3D View&rbrack; 장면이 Z-up일 때 기준 평면 및 격자가 수직입니다.
-* &lbrack;3D View&rbrack; 메쉬가 때때로 사라집니다
-* &lbrack;Application&rbrack; 로그인 없이 시작 시 로그인 창을 닫으면 때때로 앱이 충돌합니다
-* 플러그인 구성 파일에 대한 액세스가 거부되면 &lbrack;Application&rbrack;이 충돌합니다.
+* 셰이더 캐시 손상으로 인해 &lbrack;3D 보기&rbrack; 3D 보기가 작동하지 않습니다.
+* 장면이 Z-up인 경우 &lbrack;3D 보기&rbrack; 기준 평면 및 격자가 수직입니다.
+* &lbrack;3D 보기&rbrack; 메쉬가 때때로 사라집니다
+* &lbrack;Application&rbrack; 로그인 없이 시작 시 로그인 창을 닫으면 때때로 앱이 충돌 됩니다.
+* 플러그인 구성 파일에 대한 액세스가 거부되면 &lbrack;응용 프로그램&rbrack; 충돌
 * 프로젝트가 저장되면 현재 재질이 선택 취소됨(&lbrack; Application&rbrack;)
 * &lbrack;응용 프로그램&rbrack; 기본 레이아웃으로 재설정하면 해상도가 64x64로 설정됩니다.
-* 레이어 스택을 렌더링할 때 &lbrack;Application&rbrack; Sampler이 때때로 충돌합니다
+* &lbrack;Application&rbrack; Sampler이 레이어 스택 렌더링 시 때때로 충돌
 * &lbrack;내보내기&rbrack; 내보내기 해상도가 64x64로 재설정되는 경우가 있습니다.
 * &lbrack;Export&rbrack; .sbs/.sbsar 파일을 내보낼 수 없는 경우가 있습니다.
 * 재질이 비어 있는 경우 &lbrack;Layers&rbrack; [기본 재질 추가] 버튼이 작동하지 않습니다.
@@ -357,8 +357,8 @@ ht-degree: 0%
 * &lbrack;Application&rbrack; 가져온 이미지가 뷰포트나 레이어 스택에 나타나지 않습니다
 * &lbrack;Captis&rbrack; Sampler을 다시 시작한 후에도 Captis IP 주소 필드가 비어 있습니다
 * &lbrack;Captis&rbrack; 라이브 카메라 미리 보기는 응용 프로그램 언어가 영어로 설정된 경우에만 작동합니다.
-* &lbrack;Export&rbrack; 내보내기 중 충돌 &lbrack;Layers&rbrack; 페인팅이 이전에 저장된 프로젝트에서 작동하지 않는 경우가 있습니다.
-* &lbrack;Layers&rbrack; Sampler은 한 채널만 업데이트하면 때때로 모든 텍스처를 업데이트합니다
+* &lbrack;내보내기 중 내보내기&rbrack; 충돌 &lbrack;레이어&rbrack; 페인팅이 이전에 저장된 프로젝트에서 작동하지 않는 경우가 있습니다.
+* &lbrack;Layers&rbrack; Sampler은 하나의 채널만 업데이트하면 때때로 모든 텍스처를 업데이트합니다
 * &lbrack;Layers&rbrack; 5.0.x로 업그레이드한 후 레이어 스택에서 재질 혼합을 사용할 수 없음
 * &lbrack;Layers&rbrack; 이전 Image to Material(AI) 버전으로 프로젝트를 업데이트하면 재질이 모두 검은색으로 표시됩니다
 * &lbrack;Layers&rbrack; 지원되지 않는 이미지를 가져오려고 하면 Sampler에서 끊어진 레이어를 만듭니다
@@ -374,21 +374,21 @@ ht-degree: 0%
 * &lbrack;Application&rbrack; 업데이트된 그래픽 드라이버 호환성 목록
 * &lbrack;Captis&rbrack; 운영 체제 정책에 의해 HP Z Captis 사용이 차단될 때 팝업 표시
 * &lbrack;빠른 작업&rbrack; 도구 설명에서 빠른 작업이 비활성화된 이유를 설명합니다.
-* &lbrack;UI&rbrack; 충돌 보고서 창 UI 스타일 지정
+* &lbrack;UI&rbrack; 충돌 보고서 창 UI 스타일
 * &lbrack;UI&rbrack; 클립보드에 복사할 때 완료를 알리는 토스트를 표시합니다
 
 **고정:**
 
 * &lbrack;2D 보기&rbrack; 구형 투영이 꺼져 있으면 노출 슬라이더가 작동하지 않습니다.
-* &lbrack;2D View&rbrack; 텍스처 외부에서 페인팅하면 중단된 선이 만들어집니다
+* &lbrack;2D 보기&rbrack; 텍스처 외부에서 페인트하면 중단된 선이 만들어집니다
 * &lbrack;2D 보기&rbrack; 노출 버튼에 툴팁이 없습니다.
-* &lbrack;2D View&rbrack; 정사각형이 아닌 이미지 옆을 확대/축소하면 마우스가 따라오지 않음
+* 정사각형이 아닌 이미지 옆을 확대/축소해도 마우스가 따라가지 않는 &lbrack;2D 보기&rbrack;
 * &lbrack;3D 캡처&rbrack; 3D 캡처가 Windows 11 24H2에서 작동하지 않음
-* &lbrack;3D 캡처&rbrack; 메시 재구성 단계 동안 Sampler을 종료하면 충돌이 발생합니다
-* &lbrack;3D View&rbrack; 계산 시간이 0ms로 표시되는 경우가 있습니다.
-* &lbrack;3D View&rbrack; 투영을 직교형에서 원근으로 변경하면 뷰포트가 회색으로 바뀝니다.
+* 메시 재구성 단계 중 Sampler을 종료하면 &lbrack;3D 캡처&rbrack; 충돌
+* &lbrack;3D 보기&rbrack; 계산 시간이 0ms로 표시되는 경우가 있습니다.
+* &lbrack;3D 보기&rbrack; 직교에서 원근감으로 투영을 변경하면 뷰포트가 회색으로 바뀝니다.
 * &lbrack;응용 프로그램&rbrack; GPU 기능 확인 시 시작 시 충돌 발생
-* &lbrack;Application&rbrack; 설치 중 충돌(&amp;r)
+* 설치 중 &lbrack;Application&rbrack; 충돌
 * &lbrack;응용 프로그램 &rbrack; 메타데이터 필드를 마우스 오른쪽 단추로 클릭한 후 종료할 때 충돌 발생
 * 운영 체제 파일 탐색기에서 SBSAR을 열 때 &lbrack;Application&rbrack; 환경 조명이 누락됨
 * &lbrack;응용 프로그램&rbrack; Sampler이 실행 중일 때 .sbsar을 열면 텍스처 타일링 설정이 변경됩니다
@@ -397,9 +397,9 @@ ht-degree: 0%
 * &lbrack;Content&rbrack; 샘플 프로젝트는 필터 업데이트를 요청하는 메시지를 표시하지만 이미 최신 상태입니다
 * &lbrack;Filters&rbrack; 일반/Height 조정 필터에 아이콘이 없음
 * &lbrack;Layers&rbrack; 이미지 가져오기 레이어에서 이미지를 변경할 수 없습니다.
-* 업스케일 필터를 사용할 때 &lbrack;Layers&rbrack;가 충돌합니다.
+* 업스케일 필터를 사용할 때 &lbrack;Layers&rbrack; 충돌
 * &lbrack;Layers&rbrack; 이전 이미지가 있는 프로젝트를 Material로 업데이트하면 재질이 모두 검은색으로 바뀝니다.
-* 에셋을 만든 후 즉시 레이어 스택을 수정하면 렌더링이 중단됩니다(&lbrack; Rendering&rbrack;)
+* 에셋을 만든 후 즉시 레이어 스택을 트위킹하면 렌더링이 중단됩니다.
 * &lbrack;Scripting&rbrack; 프로젝트에 에셋이 없으면 자동 저장 플러그인이 충돌합니다.
 * 브러시 도구 모음에 &lbrack;도구&rbrack; 브러시 크기 값이 없습니다.
 * &lbrack;UI&rbrack; 응용 프로그램 언어를 변경해도 홈 화면의 일부 레이블이 업데이트되지 않습니다
@@ -418,21 +418,21 @@ ht-degree: 0%
 
 * &lbrack;Onboarding&rbrack; 학습 콘텐츠, 샘플 프로젝트, 빠른 작업 및 최근 프로젝트에 빠르게 액세스할 수 있는 새 홈페이지.
 * &lbrack;Onboarding&rbrack; 홈페이지 및 전용 패널에서 액세스할 수 있는 새로운 빠른 작업으로 빠르게 시작하기
-* &lbrack;Onboarding&rbrack; &lbrack;Content&rbrack; 빠른 작업은 레이어 스택을 가장 많이 사용되는 레이어로 채우는 미리 정의된 워크플로우입니다
+* &lbrack;Onboarding&rbrack; &lbrack;Content&rbrack; 빠른 작업은 레이어 스택에 가장 많이 사용되는 레이어를 채우는 미리 정의된 워크플로우입니다
 * &lbrack;Onboarding&rbrack; 빠른 작업 또는 사용자 정의 프로젝트를 통해 새로운 빠른 시작 메뉴를 통해 새 프로젝트를 만들 수 있습니다.
 * &lbrack;Onboarding&rbrack; 전용 버튼을 통해 홈페이지에서 직접 빈 프로젝트를 만들 수 있는 가능성
-* &lbrack;3D View&rbrack; 새로운 렌더링 기능(코팅, 광택, 투명도, 표면 아래 분산 등의 속성)과 Substance 에코시스템 전반의 시각적 일관성을 제공하는 새로운 고급 래스터라이저 및 패스파트레서
+* &lbrack;3D 보기&rbrack; 새로운 렌더링 기능(코팅, 광택, 반투명도, 표면 아래 분산 등의 속성)과 Substance 에코시스템 전반의 시각적 일관성을 제공하는 새로운 고급 래스터라이저 및 패스파트레이서
 * 이제 3D 보기에서 직접 &lbrack;3D 보기&rbrack; 뷰어 설정에 액세스할 수 있습니다.
-* &lbrack;3D View&rbrack; 렌더링 스냅샷을 클립보드 또는 파일에 저장할 수 있음
-* &lbrack;3D View&rbrack; 장면 원점을 시각화하기 위한 격자 표시
-* &lbrack;3D View&rbrack; 그라운드 평면에서 그림자와 반사를 포착할 수 있도록 활성화
-* &lbrack;3D View&rbrack; 그라운드 평면의 반사 및 불투명 정도를 제어합니다
+* &lbrack;3D 보기&rbrack; 렌더링 스냅샷을 클립보드 또는 파일에 저장할 수 있음
+* &lbrack;3D 보기&rbrack; 장면 원점을 시각화하기 위한 격자 표시
+* &lbrack;3D 보기&rbrack; 그라운드 평면에서 그림자와 반사를 포착할 수 있도록 합니다.
+* &lbrack;3D 보기&rbrack; 그라운드 평면의 반사 및 불투명도를 제어합니다
 * &lbrack;3D 캡처&rbrack; 바닥에 메시 배치
 * &lbrack;Application&rbrack; 응용 프로그램 시작 시 하드웨어 호환성 확인
-* &lbrack;Application&rbrack; 충돌 발생 직후 충돌 보고 창이 열립니다
+* 이제 충돌 발생 직후 &lbrack;Application&rbrack; 충돌 보고 창이 열립니다
 * &lbrack;Content&rbrack; 샘플 프로젝트를 열어 쉽게 시작
-* &lbrack;Export&rbrack; USD 파일의 Adobe Standard 재질 셰이더 내보내기
-* &lbrack;Generative AI&rbrack; 이미지를 [텍스처] 작업 과정에 대한 입력으로 사용할 때 &quot;추론하지 않음&quot; 태그를 확인하십시오.
+* &lbrack;Export&rbrack; USD 파일의 Adobe Standard Material 셰이더 내보내기
+* &lbrack;Generative AI&rbrack; 이미지를 텍스처 워크플로우에 대한 이미지의 입력으로 사용할 때 &quot;추론하지 않음&quot; 태그를 확인합니다.
 * &lbrack;프로젝트&rbrack; 축소판은 프로젝트 열기 속도를 높이기 위해 프로젝트 파일 내에 저장됩니다.
 * &lbrack;프로젝트&rbrack; 다른 모드(캐시 없음, 라이트 캐시, 전체 캐시)로 프로젝트 파일 내에 캐시 데이터를 저장하도록 환경 설정에서 설정합니다.
 * &lbrack;Scripting&rbrack; &lbrack;Breaking change&rbrack; Qt6.15로의 Qt 마이그레이션 - 기존 플러그인의 호환성 영향
@@ -444,8 +444,8 @@ ht-degree: 0%
 
 **고정:**
 
-* &lbrack;3D 캡처&rbrack; macOS에서 개체 캡처를 시작할 수 없는 경우 충돌
-* &lbrack;응용 프로그램(&amp;r); 종료 시 충돌
+* macOS에서 개체 캡처를 시작할 수 없는 경우 &lbrack;3D 캡처&rbrack; 충돌
+* &lbrack;종료 시 응용 프로그램 &rbrack; 충돌
 * 프로젝트 패널에 에셋을 추가하는 동안 &lbrack;Application&rbrack; 종료 시 멈춤
 * &lbrack;Application&rbrack; 프로젝트 에셋의 이름을 바꾸는 작업은 enter 키를 누르지 않으면 작동하지 않습니다.
 * &lbrack;Application&rbrack; 실행 취소 및 재실행 메뉴 항목이 비활성화되어야 할 때 비활성화되지 않습니다.
@@ -480,7 +480,7 @@ ht-degree: 0%
 
 **고정:**
 
-* &lbrack;Layers&rbrack; 회색조 마스크 페인팅이 작동하지 않으며, [복제 도장], [페인트 비틀기], [내용 인식 채우기]와 같은 도구에 영향을 줍니다
+* &lbrack;Layers&rbrack; 회색조 마스크 페인팅이 작동하지 않으며, 복제 스탬프, 페인트 뒤틀기, 내용 인식 채우기와 같은 도구에 영향을 줍니다
 
 ### **4.5.0 GRUYERE**
 
@@ -489,13 +489,13 @@ ht-degree: 0%
 **추가됨**
 
 * &lbrack;Interoperability&rbrack; UE5, Blender, Maya, 3DsMax Unity로 재질 보내기
-* &lbrack;내용&rbrack; 새 텍스처 생성기 범주 - 그레이디언트
+* &lbrack;Content&rbrack; 새 텍스처 생성기 범주 - 그레이디언트
 * &lbrack;내용&rbrack; HDRI 도구 - 새 환경 회전 필터
 
 **고정:**
 
 * &lbrack;노출 매개 변수&rbrack; .sbsar 입력 값을 노출해도 작동하지 않음
-* &lbrack;Layers&rbrack; 기본 색상이 회색 음영 이미지로 빨간색으로 변합니다.
+* &lbrack;Layers&rbrack; 기본 색상이 회색 음영 이미지로 빨간색으로 변합니다
 * &lbrack;렌더링&rbrack; 색상 채널에 사용된 회색 음영 이미지의 색상 공간이 잘못되었습니다.
 * &lbrack;스크립팅&rbrack; 내보내기 사전 설정을 사용하면 원하는 채널을 내보내지 못하는 경우가 있습니다
 * &lbrack;Content&rbrack; Dirt - 이미지에 Dirt 필터를 적용하면 검은색 표준이 생성됩니다
@@ -509,7 +509,7 @@ ht-degree: 0%
 **고정:**
 
 * &lbrack;Content&rbrack; Dirt 필터가 없습니다.
-* 이미지를 텍스처로 사용할 때 &lbrack;생성형 AI&rbrack; 네트워크 오류가 발생하는 경우가 있습니다.
+* 이미지를 텍스처 상태로 사용할 때 &lbrack;Generative AI&rbrack; 네트워크 오류가 발생하는 경우가 있습니다.
 
 ### **4.4.0 FONDUE**
 
@@ -518,7 +518,7 @@ ht-degree: 0%
 **추가됨:**
 
 * 이제 &lbrack;Application&rbrack; 3D 캡처 캐시가 별도의 하위 폴더에 저장됩니다.
-* &lbrack;생성형 인공지능&rbrack; 텍스처에 이미지(베타)
+* &lbrack;생성형 인공지능(AI)&rbrack; 텍스처 이미지(Beta)
 * &lbrack;생성형 인공지능&rbrack; 텍스트 패턴(베타)
 * &lbrack;생성형 인공지능&rbrack; 텍스트-텍스처(Beta)
 * &lbrack;Scripting&rbrack; 에셋에 이제 &#39;리소스&#39; 속성이 있습니다.
@@ -526,16 +526,16 @@ ht-degree: 0%
 
 **고정:**
 
-* &lbrack;Application&rbrack; 손상된 프로젝트 파일을 열 때 충돌 발생
-* &lbrack;Application&rbrack; 프로젝트에 손상된 에셋이 포함된 경우 충돌 발생
-* &lbrack;Windows에서 모니터 플러그를 뽑으면 응용 프로그램 &rbrack;이 충돌합니다.
+* 손상된 프로젝트 파일을 열 때 &lbrack;Application&rbrack; 충돌
+* 프로젝트에 손상된 에셋이 포함된 경우 &lbrack;Application&rbrack; 충돌
+* Windows에서 모니터 플러그를 뽑을 때 &lbrack;Application&rbrack; 충돌
 * &lbrack;Application&rbrack; Windows 작업 표시줄의 잘못된 응용 프로그램 아이콘
 * &lbrack;응용 프로그램&rbrack; 기본 구성 파일 손상으로 인해 파일이 삭제될 수 있습니다.
 * &lbrack;Application&rbrack; 패널이 팝업 앞에 표시됨
-* &lbrack;내용&rbrack; 텍스처 생성기에 흐린 축소판이 있음
+* &lbrack;Content&rbrack; 텍스처 생성기에는 흐린 축소판이 있습니다.
 * .sbs/.sbsar를 내보낼 때 가져온 이미지에서 생성된 불투명도 채널(&lbrack;Export&rbrack;)
-* &lbrack;Filters&rbrack; 업스케일은 입력 레이어에 따라 충돌할 수 있습니다.
-* &lbrack;Generative AI&rbrack; 서비스에서 예기치 않은 결과를 받으면 발생할 수 있는 충돌이 발생합니다
+* &lbrack;Filters&rbrack; 업스케일은 입력 레이어에 따라 충돌 가능합니다.
+* 서비스에서 예기치 않은 결과를 받았을 때 가능한 충돌(&lbrack;Generative AI&rbrack;)가 있습니다.
 * &lbrack;Scripting&rbrack; 환경 변수에서 플러그인을 자동 로드할 때 충돌함
 * &lbrack;Scripting&rbrack; API를 사용하여 출력 사용을 할당할 때 충돌이 발생할 수 있습니다.
 
@@ -581,9 +581,9 @@ ht-degree: 0%
 
 **고정:**
 
-* &lbrack;3D 캡처&rbrack; 마스크를 일괄 생성하는 동안 이미지 파일에 액세스할 수 없게 되면 충돌이 발생합니다
+* 마스크를 일괄 생성하는 동안 이미지 파일에 액세스할 수 없을 때 &lbrack;3D 캡처&rbrack; 충돌
 * &lbrack;Export&rbrack; 자르기 또는 상대적 입력 정책 레이어가 있는 재질을 내보내면 잘못된 결과가 나옵니다
-* &lbrack;Layers&rbrack; 레이어 스택을 렌더링할 때 드물게 충돌이 발생합니다
+* 레이어 스택 렌더링 시 희귀 충돌(&lbrack; Layers&rbrack;)
 * &lbrack;Filters&rbrack; 자수 - MacOS에서 재료 입력을 사용할 때 문제 수정
 * &lbrack;Filters&rbrack; 스타일화 - 텍스처 생성기 지원
 * &lbrack;Filters&rbrack; 패턴 - 매개변수 이름 수정
@@ -595,24 +595,24 @@ ht-degree: 0%
 
 **추가됨**
 
-* &lbrack;Assets&rbrack; 새로운 에셋 유형: 텍스처 생성기
+* &lbrack;Assets&rbrack; 새 에셋 유형: 텍스처 생성기
 * &lbrack;Assets&rbrack; 스타터 에셋에 포함된 새 재질
 * &lbrack;Assets&rbrack; [속성] 패널의 이미지 매개 변수에 대한 새로운 에셋 선택기
 * &lbrack;Assets&rbrack; 에셋 패널의 텍스처 생성기를 속성 패널의 이미지 선택기로 드래그하여 놓기
-* &lbrack;Assets&rbrack; 운영 체제 파일 탐색기에서 텍스처 생성기를 드래그하여 놓기
+* &lbrack;Assets&rbrack; 운영 체제 파일 탐색기에서 텍스처 생성기 드래그 앤 드롭
 * &lbrack;Assets&rbrack; 필터는 이미지 입력의 사용자 태그를 통해 맞춤 생성기를 제안할 수 있습니다.
-* &lbrack;Assets&rbrack; Texture Generators는 사용자 태그를 통해 제안해야 할 필터를 정의할 수 있습니다.
-* &lbrack;내용&rbrack; 새로운 원근 자르기 필터
+* &lbrack;Assets&rbrack; 텍스처 생성기는 사용자 태그를 통해 제안해야 하는 필터를 정의할 수 있습니다.
+* &lbrack;내용&rbrack; 새 원근감 자르기 필터
 * &lbrack;콘텐츠&rbrack; 새로운 스타일화 필터
 * &lbrack;내용&rbrack; 칠 필터의 혼합 모드
 * &lbrack;Content&rbrack; 자수 필터 업데이트
-* &lbrack;Content&rbrack; 업데이트된 페인트 감싸기 필터
+* &lbrack;Content&rbrack; 업데이트된 페인트 줄 바꿈 필터
 * &lbrack;Content&rbrack; 텍스처 생성기를 지원하도록 모든 필터를 업데이트했습니다.
-* &lbrack;Layers&rbrack; 레이어 스택에 추가할 때 텍스처 생성기 출력 채널을 선택하는 기능
+* &lbrack;Layers&rbrack; 레이어 스택에 텍스처 생성기 출력 채널을 추가할 때 이를 선택하는 기능
 * &lbrack;Layers&rbrack; 텍스처 생성기에서 사전 설정을 쉽게 나열하고 적용할 수 있는 기능
 * &lbrack;Layers&rbrack; 이미지 피커에서 텍스처 생성기 미리 보기 표시
 * &lbrack;Layers&rbrack; 텍스처 생성기 매개 변수를 노출하고 내보낼 수 있습니다.
-* &lbrack;Layers&rbrack; 텍스처 가져오기 생성 템플릿으로 단일 이미지를 가져올 때 기본 색상 사용을 할당합니다
+* &lbrack;Layers&rbrack; 텍스처 가져오기 생성 템플릿을 사용하여 단일 이미지를 가져올 때 기본 색상 사용을 할당합니다
 * 속성 패널의 이미지 선택기에서 호환되지 않는 파일을 드래그 앤 드롭하려고 할 때 &lbrack;Layers&rbrack; 피드백
 * &lbrack;Layers&rbrack; 가져온 이미지의 알파 채널에서 불투명도 채널 생성
 * &lbrack;Layers&rbrack; Image to Material(AI) 범주를 변경할 때 계산 속도가 더 빠름
@@ -683,7 +683,7 @@ ht-degree: 0%
 * &lbrack;Layers&rbrack; 일부 출력은 [채널 설정] 패널에서 강제로 사용하지 않으면 입력에 연결되지 않습니다
 * &lbrack;물리적 크기&rbrack; 참조 레이어 드롭다운이 실수로 재설정될 수 있음
 * &lbrack;UI&rbrack; 템플릿 정보 가져오기 아이콘을 업데이트해야 합니다.
-* 뷰포트 레이아웃이 변경될 때마다 &lbrack;UI&rbrack; 뷰포트 단축키 팁이 표시됨
+* 뷰포트 레이아웃이 변경될 때마다 &lbrack;UI&rbrack; 뷰포트 단축키 팁이 나타납니다
 
 ### **4.2.1 DORAYAKI**
 
@@ -788,7 +788,7 @@ ht-degree: 0%
 
 **고정:**
 
-* &lbrack;Layers&rbrack; Substance 재질 및 필터를 수정할 때 메모리 누수가 발생하여 충돌이 발생합니다.
+* Substance 재질 및 필터를 수정하여 충돌이 발생할 때 &lbrack;Layers&rbrack; 메모리 누수
 
 ### **4.1.1 CANNOLI**
 
@@ -801,7 +801,7 @@ ht-degree: 0%
 
 **고정:**
 
-* 3D 캡처 렌더러 실패 시 3D 캡처 응용 프로그램 충돌(&lbrack;&rbrack; Applications)
+* 3D 캡처 렌더러 실패 시 3D 캡처(&lbrack;&rbrack; Applications 충돌)
 * 이미지를 로드할 수 없을 때 &lbrack;3D 캡처&rbrack; 충돌
 * 메시 재구성 단계에 도달하면 &lbrack;3D 캡처&rbrack;이 충돌합니다
 * 테두리 상자 크기를 조정할 때 &lbrack;3D 캡처&rbrack; 충돌
@@ -840,7 +840,7 @@ ht-degree: 0%
 **추가됨:**
 
 * &lbrack;Content&rbrack; 새로운 자수 필터
-* &lbrack;내용&rbrack; 새로운 페인트 뒤틀기 필터
+* &lbrack;내용&rbrack; 새 페인트 뒤틀기 필터
 * &lbrack;UI&rbrack; 파일 메뉴의 내보내기 추가 옵션
 * 이제 맞춤 단계에서 &lbrack;3D 캡처&rbrack; 뒤로 버튼을 사용할 수 있습니다.
 * &lbrack;3D 캡처&rbrack; 이미지 처리 JPEG EXIF 방향
@@ -855,18 +855,18 @@ ht-degree: 0%
 * &lbrack;3D 캡처 &rbrack; 버전 변경 시 카메라 위치 유지
 * &lbrack;3D 캡처&rbrack; 개체의 모든 그룹을 하나로 병합
 * &lbrack;3D 캡처&rbrack; 생성된 메쉬의 이름이 원래로 변경됨
-* &lbrack;Application&rbrack;이 존재하지 않는 이미지의 축소판을 생성하려고 할 때 충돌함
+* 존재하지 않는 이미지의 축소판을 생성하려고 할 때 &lbrack;Application&rbrack; 충돌
 * 에셋 패널에서 &lbrack;에셋&rbrack; 휴지통 아이콘이 아무 작업도 하지 않음
 * &lbrack;Content&rbrack; 재료 슬롯이 있는 필터 업데이트가 예상대로 작동하지 않음
-* &lbrack;Export&rbrack; 특정 필터를 사용하여 에셋을 내보낼 때 충돌이 발생할 수 있습니다
+* &lbrack;내보내기&rbrack; 특정 필터를 사용하여 에셋을 내보낼 때 가능한 충돌
 * &lbrack;Export&rbrack; SBS/SBSAR 내보내기 - 이미지 가져오기 레이어가 이미지 매개 변수보다 우선 순위가 높음
 * &lbrack;Export&rbrack; UE4 내보내기 사전 설정이 PNG에서 작동하지 않음
-* &lbrack;Layers&rbrack; OS 탐색기에서 재질과 필터를 동시에 놓을 때 충돌이 발생합니다
-* &lbrack;Layers&rbrack; 이미지 파일이 있는 SBSAR 파일을 드래그할 때 충돌함
+* OS 탐색기에서 재질과 필터를 동시에 놓을 때 &lbrack;Layers&rbrack; 충돌
+* 이미지 파일이 있는 SBSAR 파일을 드래그할 때 &lbrack;Layers&rbrack; 충돌
 * &lbrack;Layers&rbrack; 자수 불투명도 채널은 완전히 흰색일 수 있습니다.
 * Linux에서는 기본적으로 중국어(&lbrack;Localization&rbrack;)가 표시될 수 있습니다.
 * &lbrack;Performance&rbrack; 에셋에서 레이어를 제거할 때 발생하는 메모리 문제를 수정했습니다.
-* &lbrack;프로젝트&rbrack; 저장 시 충돌이 발생할 수 있음
+* &lbrack;저장 시 가능한 충돌(&amp;r)
 * &lbrack;UI&rbrack; 버전의 메뉴 버튼에 누락된 간격 추가
 * &lbrack;UI&rbrack; 취소 버튼이 제대로 표시되지 않음
 * &lbrack;UI&rbrack; 3D 캡처 후처리 매개변수에 대한 슬라이더 애니메이션 비활성화
@@ -987,7 +987,7 @@ ht-degree: 0%
 * &lbrack;Scripting&rbrack; 시작 시 플러그인 및 스크립트를 가져오기 위해 SAMPLER_PLUGIN_PATH 및 SAMPLER_SCRIPT_PATH 환경 변수를 추가했습니다
 * &lbrack;Scripting&rbrack; 재료, 환경 조명 및 3d 오브젝트에 대한 내보내기 기능 추가
 * &lbrack;스크립팅&rbrack; 식별자, 기본값, 최소값 및 최대값, 레이블, 매개 변수에 열거형 값 추가
-* &lbrack;Scripting&rbrack; 이미지를 가져오는 동안 사용자 정의된 사용을 입력하는 import_textures 함수를 추가했습니다.
+* &lbrack;Scripting&rbrack; 이미지를 가져오는 동안 사용자 정의된 사용량을 입력하는 import_users 함수가 추가되었습니다.
 
 **고정:**
 
@@ -1007,7 +1007,7 @@ ht-degree: 0%
 * &lbrack;Scripting&rbrack; JPEG 내보내기가 API에 없습니다.
 * &lbrack;스크립팅&rbrack; 로그 패널이 읽기 전용이 아닙니다.
 * &lbrack;Scripting&rbrack; image_picker 매개 변수 값이 작동하지 않음
-* &lbrack;UI&rbrack; 프로젝트 패널에 환경 조명에 대한 에셋 아이콘이 없습니다.
+* &lbrack;UI&rbrack; [프로젝트] 패널에 환경 조명에 대한 에셋 아이콘이 누락되었습니다.
 * &lbrack;UI&rbrack; 환경 설정 팝업의 Designer 형식으로 보내기 드롭다운은 비어 있을 수 있습니다.
 * &lbrack;UI&rbrack; 일부 버튼의 스타일이 잘못되었습니다.
 * &lbrack;UI&rbrack; 레이블이 버튼 그룹 위젯의 버튼과 겹침
@@ -1017,8 +1017,8 @@ ht-degree: 0%
 **알려진 문제:**
 
 * &lbrack;3D 캡처&rbrack; 마스크를 사용할 때 텍스처 투영이 깨질 수 있습니다
-* &lbrack;3D 캡처&rbrack; 메쉬 변환의 배율이 너무 작은 경우 개체에 작은 아티팩트가 나타날 수 있습니다
-* &lbrack;3D 캡처&rbrack; 내보낸 메쉬가 매우 작을 수 있습니다. 메쉬 변형의 비율을 재설정하고 다시 내보내기
+* &lbrack;3D 캡처&rbrack; 작은 아티팩트가 [메쉬] 변환에서 너무 작으면 개체에 나타날 수 있습니다
+* &lbrack;3D 캡처&rbrack; 내보낸 메쉬가 매우 작을 수 있습니다. 메시 변환의 크기를 재설정하고 다시 내보냅니다
 * &lbrack;색상 피커&rbrack; 다른 해상도의 두 번째 모니터에서 색상 선택이 작동하지 않을 수 있습니다
 * &lbrack;Content&rbrack; 모양 라이트 위젯이 구형 투영 모드에서 작동하지 않음
 * &lbrack;Interoperability&rbrack; Stager로 전송된 변위가 있는 재질은 변위 컨트롤을 잃게 됩니다.
@@ -1040,23 +1040,23 @@ ht-degree: 0%
 
 **고정:**
 
-* 누락된 이미지를 참조하는 .sbsar 파일을 내보낼 때 &lbrack;Export&rbrack;이 충돌합니다
-* &lbrack;Export&rbrack; 손상된 이미지 파일을 참조하는 에셋을 내보낼 때 충돌이 발생합니다.
+* 누락된 이미지를 참조하는 .sbsar 파일을 내보낼 때 &lbrack;Export&rbrack; 충돌
+* 손상된 이미지 파일을 참조하는 에셋을 내보낼 때 &lbrack;Export&rbrack; 충돌
 * &lbrack;Export&rbrack; 자수 레이어가 있는 .sbsar 파일을 내보내면 회색 재료가 생성됩니다
 * &lbrack;내보내기&rbrack; 재질을 .sbs/sbsar 파일로 내보내면 완전히 투명한 재질이 생성될 수 있습니다
 * &lbrack;내보내기&rbrack; 일반 형식 매개 변수가 .sbs/.sbsar 파일에 올바르게 표시되지 않음
 * &lbrack;Export&rbrack; .svg 파일을 참조하는 레이어 스택의 Sbs/sbsar 내보내기가 끊어짐
-* &lbrack;내보내기&rbrack; 변형 레이어가 제대로 내보내지지 않음 / 업데이트됨 인스케이프 - 내보내기 사전 설정 수정
-* &lbrack;Exposed Parameters&rbrack; 노출된 매개 변수가 포함된 레이어를 삭제하면 충돌이 발생합니다
+* &amp;lbrack&rbrack;변환 내보내기 레이어가 제대로 내보내지지 않음 / 업데이트된 Enscape - Revit 내보내기 사전 설정
+* 노출된 매개 변수가 포함된 레이어를 삭제할 때 &lbrack;Exposed Parameters&rbrack; 충돌
 * &lbrack;노출된 매개 변수&rbrack; 레이어 스택에서 오래된 레이어를 업데이트하면 노출된 매개 변수 목록이 손상될 수 있습니다.
 * &lbrack;노출 매개 변수&rbrack; 내보낼 수 없는 매개 변수는 계속 내보냅니다.
 * &lbrack;노출된 매개 변수&rbrack; 레이어를 삭제할 때 혼합 필터를 제거해도 매개 변수가 노출되지 않습니다
 * &lbrack;노출된 매개 변수&rbrack; 텍스트 매개 변수 나누기 .sbs/.sbsar 내보내기
-* &lbrack;Layers&rbrack; 다른 레이어 스택에서 레이어 스택을 놓을 때 충돌이 발생합니다.
-* &lbrack;Layers&rbrack; 필터 로드 실패 시 충돌
+* 다른 레이어 스택에 레이어 스택을 놓을 때 &lbrack;Layers&rbrack; 충돌
+* 필터 로드 실패 시 &lbrack;Layers&rbrack; 충돌
 * 이미지 필드를 재설정할 때 &lbrack;Layers&rbrack;에서 이전 이미지를 다시 로드할 수 없음
-* &lbrack;Layers&rbrack; 변환 도구 변경을 실행 취소/다시 실행할 수 없음
-* &quot;모든 설정 재설정&quot;을 클릭하면 &lbrack;Layers&rbrack; 복제 도장 레이어가 멈춥니다.
+* &amp;lbrack Layers&rbrack; 실행 취소/다시 실행 불가;도구 변경
+* &quot;모든 설정 재설정&quot;을 클릭하면 &lbrack;Layers&rbrack; 복제 스탬프 레이어가 멈춤
 * &lbrack;Layers&rbrack; 재설정 버튼을 사용하면 이미지 필드에 그려지지 않습니다
 * &lbrack;Layers&rbrack; 재설정 버튼을 사용하면 이미지 필드에서 드로잉 마스크가 지워지지 않습니다
 * &lbrack;Layers&rbrack; 사용자가 그림을 그렸다면 이미지 필드의 재설정 버튼은 아무것도 하지 않습니다
@@ -1064,7 +1064,7 @@ ht-degree: 0%
 * &lbrack;Layers&rbrack; 삭제된 레이어는 여전히 [속성] 패널에 표시될 수 있습니다.
 * 프로젝트 에셋 간에 전환할 때 레이어 계산이 정지될 수 있음(&lbrack;Layers&rbrack;)
 * &lbrack;프로젝트&rbrack; 때로는 Sampler이 디스크에서 프로젝트를 열 수 없는 경우가 있습니다
-* &lbrack;2D View&rbrack; 2D 보기는 항상 [재질 출력]으로 기본 설정됩니다
+* &lbrack;2D 보기&rbrack; 2D 보기의 기본값은 항상 재질 출력으로 설정됩니다
 
 **알려진 문제:**
 
@@ -1115,13 +1115,13 @@ ht-degree: 0%
 
 **고정:**
 
-* 축소판 생성이 진행 중일 때 종료 시 &lbrack;Application&rbrack; 응용 프로그램이 충돌할 수 있습니다.
-* &lbrack;종료 시 &#39;다른 이름으로 저장&#39;을 사용할 때 응용 프로그램 &rbrack; 응용 프로그램이 충돌할 수 있음
+* 축소판 생성이 진행 중일 때 종료 시 응용 프로그램(&lbrack;&rbrack;)이 충돌 가능합니다.
+* &lbrack;종료 시 &#39;다른 이름으로 저장&#39;을 사용할 때 응용 프로그램(&rBrack;)이 충돌이 될 수 있습니다.
 * macOS에서 종료하는 동안 &lbrack;응용 프로그램(&amp;r);이 중단될 수 있습니다.
 * &lbrack;응용 프로그램 &rbrack; 색상 대화 상자를 열고 저장하면 변경 사항이 저장되지 않음
 * 내보낼 때 &lbrack;Export&rbrack; 사용 명명 규칙이 올바르지 않음
-* &lbrack;Layers&rbrack; 필터 위에 재질을 놓으면 충돌이 발생할 수 있습니다
-* &lbrack;Layers&rbrack; 오래된 레이어 스택을 업데이트하면 관련되지 않은 레이어 스택이 업데이트될 수 있습니다
+* &lbrack;Layers&rbrack; 필터 위에 재질을 놓으면 충돌이 발생할 수 있습니다.
+* &lbrack;Layers&rbrack; 오래된 레이어 스택을 업데이트하면 관련되지 않은 레이어 스택이 업데이트될 수 있습니다.
 * &lbrack;Metadata&rbrack; 빈 필드를 내보냅니다.
 * &lbrack;Metadata&rbrack; 메타데이터 항목이 하나만 있는 경우 UI에서 순서를 변경할 수 있습니다
 * &lbrack;프로젝트&rbrack; 재료 복제 후 계산이 끝나지 않음
@@ -1147,9 +1147,9 @@ ht-degree: 0%
 
 * &lbrack;Application&rbrack; 프로젝트를 열 때 발생할 수 있는 충돌 수정
 * &lbrack;Export&rbrack; Sampler을 다시 시작하면 가져온 사용자 정의 내보내기 사전 설정 목록이 중단됩니다.
-* &lbrack;Interoperability&rbrack; Designer에서 보낸 자료가 삭제된 후 Designer에서 다시 전송될 때 충돌 수정
+* &lbrack;Interoperability&rbrack; Designer에서 보낸 자료를 삭제한 다음 Designer에서 다시 보낼 때 충돌 수정
 * &lbrack;프로젝트&rbrack; 프로젝트의 마지막 에셋인 경우 마지막 재질 또는 환경 조명을 삭제할 수 없습니다.
-* &lbrack;프로젝트&rbrack;환경 표시등을 마우스 오른쪽 단추로 클릭하면 &quot;저장되지 않은 수정&quot; 별표가 나타납니다
+* &lbrack;프로젝트&rbrack;환경 조명을 마우스 오른쪽 단추로 클릭하면 &quot;저장되지 않은 수정 사항&quot; 별표가 나타납니다
 
 **알려진 문제:**
 
@@ -1164,7 +1164,7 @@ ht-degree: 0%
 **추가됨:**
 
 * &lbrack;Application&rbrack; 기본 Apple silicon(M1) 지원
-* &lbrack;UI&rbrack; 2D 보기에서 채널을 순환하는 새 단축키 &quot;C&quot;
+* &lbrack;UI&rbrack; 새 단축키, &quot;C&quot; 키, 2D 보기에서 채널 순환
 * 브러시 도구 모음에서 회색 음영 색상 값을 편집하는 &lbrack;도구&rbrack; 숫자 필드
 
 **고정:**
@@ -1173,11 +1173,11 @@ ht-degree: 0%
 * &lbrack;성능&rbrack; 메모리 소비 개선
 * 이 기능을 활성화하면 &lbrack;물리적 크기&rbrack; 물리적 크기 정보가 누락될 수 있습니다.
 * &lbrack;UI&rbrack; Alt 키를 누를 때 마우스 스크롤이 예상대로 작동하지 않는 경우가 있습니다
-* 저장된 프로젝트를 열 때 &lbrack;Application&rbrack; 응용 프로그램이 충돌할 수 있습니다.
-* &lbrack;Application&rbrack;에서 여러 이미지를 드래그 앤 드롭하고 재질 생성 템플릿 창에서 텍스처 가져오기를 사용할 때 충돌이 발생합니다
-* &lbrack;Application&rbrack; 사용자 정의 필터가 포함된 프로젝트를 저장할 때 잠재적 충돌
+* 저장된 프로젝트를 열 때 &lbrack;Application&rbrack; 응용 프로그램이 충돌 가능
+* 여러 이미지를 드래그 앤 드롭하고 재료 생성 충돌 창에서 텍스처 가져오기를 사용할 때 &lbrack;Application&rbrack; 템플릿
+* 사용자 지정 필터가 포함된 프로젝트를 저장할 때 잠재적 충돌 &lbrack;Application&rbrack;
 * &lbrack;응용 프로그램&rbrack; 응용 프로그램을 전환할 때 때때로 제어 키 상태가 손실됩니다.
-* 로컬 폴더 이름 변경 시 &lbrack;Assets&rbrack; 충돌
+* 로컬 폴더 이름을 바꿀 때 &lbrack;Assets&rbrack; 충돌
 
 **알려진 문제:**
 
@@ -1192,28 +1192,28 @@ ht-degree: 0%
 **추가됨:**
 
 * &lbrack;Content&rbrack; 새로운 내용 인식 채우기 필터(Windows 및 Mac)
-* &lbrack;Content&rbrack; [내용 인식 채우기]가 이미지, PBR 재질 및 환경 조명에서 작업하고 있습니다.
+* &lbrack;Content&rbrack; Content-Aware Fill이 이미지, PBR 재질 및 환경 조명에서 작업 중입니다.
 * &lbrack;Content&rbrack; 이미지에 &quot;타일링 유지&quot; 매개 변수 추가(AI 기반)
-* &lbrack;Content&rbrack; [원근감 변형] 필터는 네 지점 사이에 격자를 표시할 수 있습니다
+* &lbrack;내용&rbrack;의 원근감 변환 필터는 4개의 점 사이에 그리드를 표시할 수 있습니다
 * &lbrack;Interoperability&rbrack; Adobe Substance 3D Stager으로 자료 보내기
-* &lbrack;도구&rbrack; 변형 또는 자르기 도구 크기를 조정할 때 Ctrl 키를 눌러 변형 가운데 맞춤
-* &lbrack;도구&rbrack; 변형 또는 자르기 도구 크기를 조정할 때 Shift 키를 눌러 비율을 정사각형으로 잠급니다
-* &lbrack;Tools&rbrack; 복제 도장 커서는 도장될 내용을 미리 볼 수 있습니다.
-* 복제 도장 사용 시 지우개 커서에서 원본 내용 미리 보기(&lbrack; Tools&rbrack;)
-* &lbrack;도구&rbrack; Ctrl+클릭으로 복제 도장 레이어에 새 도장 만들기
+* &lbrack;도구&rbrack;의 크기를 조정할 때 Ctrl 키 또는 자르기 도구 를 눌러 변환 중심을 조정합니다.
+* &amp;lbrack Tools&amp;rbrack 크기 조정 시 Shift에 대한 비율 잠금;사각형 또는 자르기 도구 를 눌러 변환
+* &lbrack;도구&rbrack; 복제 스탬프 커서는 스탬프가 찍힐 항목의 미리 보기를 제공합니다.
+* &lbrack;Tools&rbrack; 복제 스탬프를 사용할 때 지우개 커서에서 원본 내용 미리 보기
+* &lbrack;Tools&rbrack; Ctrl+Click을 사용하면 복제 스탬프 레이어에 새 스탬프가 만들어집니다
 * &lbrack;도구&rbrack; 연속 복제 스탬프가 이제 단일 레이어 내에 그룹화됩니다.
 * &lbrack;도구&rbrack; 브러시 도구 모음 UI 수정
 * &lbrack;Tools&rbrack; 브러시 도구 모음 위치는 세션 동안 유지됩니다
 * &lbrack;도구&rbrack; 축별 새로운 브러시 타일링 옵션
-* &lbrack;도구&rbrack; 페인팅 시 2D 보기 위에 오버레이를 숨기거나 표시
-* &lbrack;도구&rbrack; 새 단축키 &quot;X&quot; - 브러시와 지우개 간에 전환
-* &lbrack;도구&rbrack; 브러시 크기를 변경하기 위한 새 단축키 &quot;&lbrack;&quot; &quot;&rbrack;&quot;
-* &lbrack;도구&rbrack; 새 단축키 &quot;E&quot; - 지우개 전환
-* &lbrack;2D View&rbrack; 환경 조명을 만들 때 새 구형 투영 모드
-* &lbrack;2D View&rbrack; 브러시 도구는 구형 투영 모드에서 지원됩니다.
-* &lbrack;2D 보기&rbrack; 위치 도구가 구형 투영 모드에서 지원됩니다.
+* &lbrack;Tools&rbrack; 페인팅 시 2D 보기 위에 오버레이를 숨기거나 표시합니다
+* &lbrack;도구&rbrack; 새 단축키, &quot;X&quot; 키, 브러시와 지우개 간 전환
+* &lbrack;도구&rbrack; 브러시 크기를 변경하기 위한 새로운 단축키 &quot;&lbrack;&quot; &quot;&rbrack;&quot;
+* &lbrack;도구&rbrack; 새 단축키, &quot;E&quot; 키, 지우개 전환
+* 환경 조명 생성 시 &lbrack;2D 보기&rbrack; 새 구형 투영 모드
+* 구형 투영 모드에서는 &lbrack;2D 보기 &rbrack; 브러시 도구가 지원됩니다.
+* 구형 투영 모드에서 &lbrack;2D 보기&rbrack; 위치 도구가 지원됩니다.
 * &lbrack;2D 보기(&amp;r); 구형 투영 모드에서는 실행 취소/다시 실행이 지원됩니다.
-* &lbrack;2D View&rbrack; 구형 투영에서 환경 중심을 보도록 기본 위치를 설정합니다
+* &lbrack;2D 보기&rbrack; 구형 투영에서 환경 중심을 보도록 기본 위치를 설정합니다
 * &lbrack;2D 보기&rbrack; 새로운 노출 제어
 * &lbrack;UI&rbrack; [속성] 패널에서 이미지 조정에는 콘텐츠의 소스(이미지 또는 레이어에서)가 표시됩니다
 * &lbrack;UI&rbrack; 레이어/재질 출력 드롭다운 배경 개선
@@ -1221,20 +1221,20 @@ ht-degree: 0%
 * 3D 보기 탐색 컨트롤 단축키가 포함된 &lbrack;UI&rbrack; 새로운 도구 설명
 * &lbrack;UI&rbrack; 브러시 컨트롤을 사용한 새 도구 설명
 * &lbrack;UI&rbrack; 투영 탐색 컨트롤 단축키가 있는 새로운 도구 설명
-* &lbrack;컴파운드 필터&rbrack; 컴파운드 필터는 이미지, PBR 재질 및 환경 조명에서 작업할 수 있는 변형을 처리합니다.
+* &lbrack;컴파운드 필터&rbrack; 컴파운드 필터는 이미지, PBR 재질 및 환경 조명 작업을 위한 변형을 처리합니다.
 * &lbrack;복합 필터&rbrack; 비틀기 순서는 복합 필터의 노드 목록 순서와 일치합니다.
 * &lbrack;컴파운드 필터&rbrack; 그룹이 동일한 다른 노드의 트위크가 [속성] 패널에서 하나의 단일 그룹으로 병합됩니다.
 * &lbrack; 응용 프로그램 &rbrack;에는 에셋 유형별로 전용 뷰어 설정이 있습니다.
 
 **고정:**
 
-* &lbrack;2D 보기로 전환할 때 응용 프로그램 &rbrack; 응용 프로그램이 충돌할 수 있음
+* 2D 보기로 전환할 때 &lbrack;Application&rbrack; 응용 프로그램이 충돌 가능
 * &lbrack;Application&rbrack; 여러 번 내보낼 때 발생할 수 있는 교착 상태 또는 충돌 수정
 * &lbrack;응용 프로그램&rbrack; Substance 3D Designer과 일치하는 채널의 기본값을 만듭니다.
 * &lbrack;Application&rbrack; 프로젝트를 로드해도 재질 재계산이 트리거되지 않습니다.
-* &lbrack;Application&rbrack; 텍스처 가져오기 설명서에 대한 URL을 업데이트했습니다.
+* &lbrack;Application&rbrack; 텍스처 가져오기 설명서 URL을 업데이트했습니다.
 * &lbrack;Content&rbrack; 복합 필터를 사용할 때 다시 로드할 때 언제 업데이트해야 하는지 묻습니다
-* 불투명도 혼합을 사용하면 Height 맵의 &lbrack;Content&rbrack; 세부 정보가 사라집니다.
+* 불투명도 혼합 사용 시 높이 맵의 &lbrack;Content&rbrack; 세부 정보가 사라짐
 * 색상 대화 상자에서 슬라이더의 텍스트 필드를 사용하여 범위를 벗어날 수 있습니다.
 * &lbrack;UI&rbrack; 사용 목록에 쓸모없는 세로 스크롤 막대가 있습니다.
 
@@ -1251,7 +1251,7 @@ ht-degree: 0%
 **추가됨:**
 
 * &lbrack;내보내기&rbrack; 이미지 파일의 dpi 메타데이터 내보내기
-* &lbrack;물리적 크기&rbrack; 실제 치수를 편집할 때 정사각형이 아닌 텍스처로 비율을 유지합니다
+* &lbrack;물리적 크기&rbrack; 물리적 치수를 편집할 때 정사각형이 아닌 텍스처로 비율을 유지합니다
 * &lbrack;물리적 크기 변경 시 물리적 크기 메타데이터가 즉시 적용됩니다.&rbrack; 물리적 크기 변경 시
 * &lbrack;UI&rbrack; 물리적 크기 활성화 시 모든 종류의 재질에 영향을 줄 수 있도록 Height 배율 최대 슬라이더를 조정합니다
 * &lbrack;UI&rbrack; [에셋] 패널의 검색 필터에 대한 새로운 도구 설명
@@ -1263,14 +1263,14 @@ ht-degree: 0%
 * 자르기 및 변형 도구의 &lbrack;2D 보기&rbrack; 90도 회전 버튼이 예상대로 작동하지 않음
 * &lbrack;2D 보기&rbrack; 자르기 위젯이 가끔 누락됩니다.
 * &lbrack;응용 프로그램&rbrack;이미지 매개 변수를 지우는 경우 기본 레이어가 다시 연결되지 않습니다.
-* &lbrack;Application&rbrack; 프로젝트를 저장한 후 종료 시 충돌 발생
-* &lbrack;Application&rbrack;에서 현재 재질을 [에셋] 패널의 컬렉션으로 드래그하여 놓을 때 충돌이 발생합니다
+* 프로젝트 저장 후 끝내는 동안 &lbrack;Application&rbrack; 충돌
+* 현재 재질을 [에셋 패널]의 컬렉션으로 드래그하여 놓을 때 &lbrack;Application&rbrack; 충돌
 * &lbrack;Application&rbrack; 뷰포트에 에셋을 드래그하여 놓으면 충돌이 발생할 수 있습니다
 * &lbrack;Content&rbrack; 일반 혼합에 임의화 수정이 있습니다.
 * &lbrack;Content&rbrack; Snow 필터에 새로 나온 눈 및 녹은 눈 매개 변수 값에 따라 잘못된 일반 출력이 있습니다.
 * &lbrack;Content&rbrack; 쪽매 필터: 예기치 않은 이음새 수정
 * &lbrack;Content&rbrack; 자수 필터: 금속 맵에서 스레드 제거
-* &lbrack;Content&rbrack; 바닥 타일 필터: x 및 y 타일 수 수정
+* &lbrack;Content&rbrack; Floor 타일 필터: x 및 y 타일 수 수정
 * &lbrack;내용&rbrack; 벽돌 벽 필터: 일반 출력 및 16비트 Height
 * &lbrack;Export&rbrack; 내보내기 팝업의 기본 파일 이름이 현재 재료 이름이 아닙니다.
 * &lbrack;내보내기&rbrack; 내보내기 사전 설정을 사용하여 실제 비율로 내보내면 치수가 올바르지 않음
@@ -1307,15 +1307,15 @@ ht-degree: 0%
 * &lbrack;물리적 크기&rbrack; 물리적 크기 자동 측정 추가 도구
 * &lbrack;물리적 크기(&amp;r); 물리적 크기 진단 도구 추가
 * &lbrack;물리적 크기&rbrack; 물리적 크기의 z 값 설정을 허용합니다.
-* 2D 보기에서 확대/축소 레벨을 설정하는 &lbrack;물리적 크기&rbrack; 드롭다운 위젯
+* 2D 보기 확대/축소 수준을 설정하는 &lbrack;물리적 크기&rbrack; 드롭다운 위젯
 * &lbrack;물리적 크기&rbrack; 확대/축소 드롭다운 수준의 새로운 &quot;물리적 비율로 표시&quot; 옵션
 * &lbrack;물리적 크기&rbrack; 확대/축소 드롭다운 수준의 새로운 &quot;물리적 크기에 맞추기&quot; 옵션
-* &lbrack;물리적 크기&rbrack; 2D 보기에서 물리적 크기 표시
+* &lbrack;물리적 크기&rbrack; 2D 보기에 물리적 크기 표시
 * &lbrack;물리적 크기&rbrack; 3D 뷰포트에 물리적 크기 표시
 * &lbrack;물리적 크기&rbrack; 이미지 가져오기 대화 상자에서 가져온 물리적 크기 맵이 있는 경우 Height 깊이 표시
 * &lbrack;물리적 크기&rbrack; 에셋 컨텍스트 메뉴에 물리적 크기 표시
 * &lbrack;물리적 크기&rbrack; 환경 설정에서 길이 단위 설정
-* &lbrack;물리적 크기&rbrack; 실제 비율에 따라 텍스처를 내보냅니다
+* 물리적 비율에 대한 &lbrack;물리적 크기&rbrack; 내보내기 텍스처
 * &lbrack;Metadata&rbrack; 사용자가 작성한 에셋에 사용자 정의 메타데이터를 추가하는 기능
 * &lbrack;내보내기&rbrack; 사용자 정의 메타데이터를 .sbs(ar) 파일로 내보내기
 * &lbrack;Export&rbrack; 설명, 범주, 작성자 및 태그 메타데이터를 .sbs(ar) 파일로 내보내기
@@ -1362,16 +1362,16 @@ ht-degree: 0%
 * &lbrack;Layers&rbrack; 일부 레이어는 표시되지 않더라도 여전히 계산됩니다.
 * &lbrack;Layers&rbrack; 레이어 가시성을 전환할 때 2D 보기 도구가 깨질 수 있습니다
 * &lbrack;Layers&rbrack; Image to Material(AI)을 사용할 때 UI가 멈춤
-* &lbrack;Layers&rbrack; 변형 필터 레이어의 가시성을 전환하면 2D 보기 도구가 깨지고 충돌이 발생할 수 있습니다
-* &lbrack;Layers&rbrack; 레이어 스택에서 레이어를 제거할 때 재계산이 너무 많습니다
+* &lbrack;Layers&rbrack; 변환의 가시성 전환 및 2D 보기의 가시성 필터 레이어가 깨져 충돌이 발생할 수 있습니다
+* &lbrack;Layers&rbrack; 레이어 스택에서 레이어를 제거할 때 너무 많은 재계산
 * &lbrack;Layers&rbrack; 복합 필터에 비정상적인 또는 사용자 정의 입력/출력이 포함되어 있으면 Sampler에서 이를 계산하지 않습니다
 * &lbrack;성능&rbrack; 에셋 패널이 느리게 열립니다
-* &lbrack;성능&rbrack; 레이어 스택의 일부 불필요한 재계산 방지
+* &lbrack;성능&rbrack; 불필요한 레이어 스택 재계산 방지
 * &lbrack;성능&rbrack; 프로젝트 에셋 로드 시간이 너무 오래 걸림
 * &lbrack;성능&rbrack; 디스크의 렌더링 캐시는 사용할 수 없습니다.
 * &lbrack;성능&rbrack; 레이어 간 전환이 느립니다.
 * &lbrack;성능&rbrack; 재료 또는 필터의 트위킹이 느립니다
-* &lbrack;프로젝트&rbrack; 종료 시 프로젝트를 저장하면 충돌이 발생할 수 있습니다
+* &lbrack;프로젝트&rbrack; 종료 시 프로젝트를 저장하면 충돌이 발생할 수 있습니다.
 * &lbrack;렌더링&rbrack; 이미지 제거 시 모든 출력이 제거될 수 있음
 * &lbrack;Rendering&rbrack; 뷰포트에 표시된 렌더링 시간이 조정할 때 잘못됨
 * &lbrack;UI&rbrack; 필요할 때 내보내기 팝업에서 세로로 스크롤할 수 없습니다.
@@ -1460,10 +1460,10 @@ ht-degree: 0%
 * &lbrack;UI&rbrack; 새로운 회색 음영 슬라이더 UI
 * &lbrack;응용 프로그램&rbrack; 기본 설정에서 일반 형식 선택 추가
 * &lbrack;Application&rbrack; 이미지 가져오기 레이어의 일반 포맷은 환경 설정에 설정된 기본 일반 포맷을 따릅니다
-* &lbrack;Application&rbrack;2D 보기에서는 기본 설정에 지정된 표준 형식에 따라 표준이 표시됩니다
+* &lbrack;Application&rbrack;에서는 2D 보기에서 기본 설정에 지정된 표준 형식에 따라 표준이 표시됩니다
 * &lbrack;Application&rbrack; 일반은 환경 설정에 지정된 일반 형식으로 내보내집니다
 * &lbrack;Export&rbrack; SBS 및 SBSAR 파일 내보내기에 일반 형식 매개 변수 추가
-* &lbrack;Export&rbrack; SBS 및 SBSAR 파일 내보내기에 셰이더 설정을 추가합니다.
+* &lbrack;Export&rbrack; SBS 및 SBSAR 파일 내보내기에 셰이더 설정 추가
 * &lbrack;Export&rbrack; 내보낸 SBS 그래프의 기본 해상도 설정
 * &lbrack;컴파운드 필터&rbrack; 7z의 패키지 SSA 필터
 * &lbrack;컴파운드 필터&rbrack; 컴파운드 필터에 범주 메타데이터 추가
@@ -1479,7 +1479,7 @@ ht-degree: 0%
 * &lbrack;Application&rbrack; Sampler의 두 인스턴스를 실행할 때 충돌함
 * &lbrack;Content&rbrack; 자르기 필터에 임의화 수정이 있음
 * &lbrack;Content&rbrack; 일부 Substance 재질이 업그레이드되지 않는 경우가 있습니다.
-* &lbrack;Export&rbrack; 새로 추가된 사용자 정의 사전 설정을 사용하여 내보낼 때 충돌이 발생함
+* 새로 추가된 사용자 정의 사전 설정을 사용하여 내보낼 때 &lbrack;Export&rbrack; 충돌
 * 내보내기 팝업에서 패키지의 예상 크기가 누락됨(&lbrack; Export&rbrack;)
 * &lbrack;Export&rbrack; SBS 및 SBSAR 파일을 내보낼 때 메모리 누수 수정
 * &lbrack;컴파운드 필터&rbrack; 컴파운드 필터에는 중복 입력이 있을 수 있습니다.
@@ -1560,7 +1560,7 @@ ht-degree: 0%
 * &lbrack;Layers&rbrack; 이미지 가져오기 레이어에서 이미지를 변경할 때 실행 취소/다시 실행을 하면 프로젝트가 수정된 것으로 표시되어 저장됩니다
 * &lbrack;Layers&rbrack; 사용이 혼합 레이어에 의해 중지될 수 있음
 * &lbrack;Project&rbrack; 종속성 폴더가 누락된 레거시 프로젝트를 로드할 때 충돌 발생
-* &lbrack;프로젝트&rbrack; 저장 후 실행 취소/다시 실행을 사용할 때 충돌 발생
+* 저장 후 실행 취소/다시 실행을 사용할 때 &lbrack;프로젝트&rbrack; 충돌
 * &lbrack;프로젝트&rbrack; 환경 조명이 포함된 SBSAR 파일을 열면 재질 에셋이 만들어집니다
 * &lbrack;프로젝트&rbrack; 재료의 이름을 변경하면 축소판 생성이 트리거될 수 있습니다.
 * &lbrack;프로젝트&rbrack; 재료 이름을 바꾼 후 저장하면 프로젝트가 수정되지 않은 것으로 표시됩니다.
@@ -1609,14 +1609,14 @@ ht-degree: 0%
 * &lbrack;UI&rbrack; 패널을 고정 해제하여 같거나 다른 화면에 별도의 창을 만듭니다
 * 아이콘을 클릭하면 &lbrack;UI&rbrack; 닫힌 패널 팝업이 표시됨
 * &lbrack;UI&rbrack; 패널 아이콘을 이동하여 왼쪽 및 오른쪽 막대를 다시 정렬합니다.
-* &lbrack;UI&rbrack; 직접 특정 필터에 액세스할 수 있는 새 도구 모음(자르기, 변형, 원근감 변형, 복제 도장)
+* &amp;lbrack UI&rack; 필터 액세스를 위한 새로운 도구 모음(Crop, 복제, 변환, 원근감 스탬프, 변환 스탬프)을 선택합니다.
 * &lbrack;UI&rbrack; 왼쪽 막대의 새로운 &quot;내용 가져오기&quot; 버튼
 * &lbrack;UI&rbrack; 콘텐츠 가져오기 버튼을 사용하여 에셋에서 직접 파일 가져오기
 * &lbrack;UI&rbrack; 내용 가져오기 버튼을 사용하여 파일을 레이어에 직접 가져오기
 * &lbrack;UI&rbrack; 컨텐츠 가져오기 버튼으로 직접 Adobe Substance 3D Assets 웹 사이트에 액세스
 * 이제 뷰포트에서 &lbrack;UI&rbrack; 해상도 위젯에 직접 액세스할 수 있습니다.
 * &lbrack;UI&rbrack; 이제 모든 UI 요소가 동적으로 로드됩니다.
-* &lbrack;UI&rbrack; 단축키 - &quot;2&quot;를 사용하여 2D 보기의 가시성을 전환합니다.
+* &lbrack;UI&rbrack; 단축키 - &quot;2&quot;를 사용하여 2D 보기 가시성 켜기/끄기
 * &lbrack;UI&rbrack; 단축키 - &quot;3&quot;을 사용하여 3D 보기의 가시성을 전환합니다.
 * &lbrack;시작 화면&rbrack; 새로 만들기 버튼을 사용하여 한 번의 클릭으로 프로젝트 만들기
 * &lbrack;시작 화면&rbrack; 새 아트워크 배너
@@ -1640,12 +1640,12 @@ ht-degree: 0%
 * &lbrack;해상도&rbrack; 이제 모든 에셋에 대해 정사각형이 아닌 해상도를 설정할 수 있습니다
 * &lbrack;해상도&rbrack; 해상도 값은 프로젝트 내의 에셋에 의해 저장됩니다
 * &lbrack;환경 조명&rbrack; Substance 3D Sampler 내에서 환경 조명 만들기
-* &lbrack;환경 조명&rbrack; 환경 조명을 만들 때 이미지를 드래그하여 놓으면 환경 조명 만들기 템플릿 창이 표시됩니다
+* &lbrack;환경 조명&rbrack; 환경 조명을 생성할 때 이미지를 드래그하여 놓으면 환경 조명 생성 템플리트 창이 표시됩니다
 * &lbrack;환경 조명&rbrack; 환경 조명 생성 템플릿에서 환경 가져오기 를 선택하여 3D 보기의 환경에 이미지를 할당합니다
-* &lbrack;환경 조명&rbrack;환경 조명 생성 템플릿에서 HDR 병합 을 선택하여 노출이 다른 여러 360도 이미지에서 환경 조명을 만듭니다
-* 환경 조명을 만들기 전에 환경 조명 만들기 템플릿에서 &quot;비트맵으로 사용&quot;을 선택하여 이미지를 편집합니다.
+* &lbrack;환경 조명&rbrack; 환경 조명 생성 템플릿에서 HDR 병합 을 선택하여 노출이 다른 여러 360도 이미지에서 환경 조명을 만듭니다
+* 환경 조명 생성 템플릿에서 &quot;비트맵으로 사용&quot;을 선택하여 환경 조명을 생성하기 전에 이미지를 편집합니다.
 * &lbrack;환경 조명&rbrack; 이미지 가져오기 레이어의 환경 사용을 할당하여 3D 보기의 환경에 이미지를 직접 할당합니다
-* &lbrack;환경 조명&rbrack;환경 채널의 2D 보기에서는 3D 보기에서와 같이 렌더링이 표시되도록 자동 색상 교정이 있습니다
+* &lbrack;환경 조명&rbrack;환경 2D 보기의 채널에는 3D 보기에서와 같이 렌더링이 표시되도록 하는 자동 색상 교정이 있습니다
 * &lbrack;환경 조명&rbrack; 환경 조명 생성을 위한 새로운 전용 콘텐츠
 * &lbrack;에셋 패널(&amp;r); 리소스 및 필터 패널이 새 에셋 패널에 병합됩니다.
 * &lbrack;에셋 패널(&amp;r); 이제 에셋 패널은 재질, 필터 및 이미지 에셋 유형을 지원합니다.
@@ -1669,7 +1669,7 @@ ht-degree: 0%
 * &lbrack;에셋 패널&rbrack;마우스 오른쪽 단추 클릭 상황에 맞는 메뉴에서 에셋을 삭제합니다(읽기 전용 이외의 섹션에서만 사용 가능)
 * &lbrack;에셋 패널&rbrack; 마우스 오른쪽 단추 클릭의 상황에 맞는 메뉴에서 Adobe Bridge에서 에셋을 검색합니다
 * &lbrack;레이어 패널(&amp;r); 레이어 위에 기본 재질을 직접 추가하는 새로운 아이콘
-* &lbrack;레이어 패널&rbrack; 단축키 - Shift + B를 사용하면 레이어 위에 기본 재질이 추가됩니다.
+* &lbrack;레이어 패널&rbrack; 단축키 - Shift + B가 레이어 위에 기본 재질을 추가합니다
 * &lbrack; 레이어 패널(&amp;r); 레이어에 축소판 미리 보기(재질 축소판, 필터 아이콘 또는 이미지 미리 보기)가 있음
 * &lbrack;Properties Panel&rbrack; 에셋 이름 및 에셋 축소판이 있는 [속성] 패널 제목의 새 디자인
 * &lbrack;속성 패널(&amp;r); 필터 레이어가 이제 사전 설정을 지원합니다.
@@ -1773,7 +1773,7 @@ ht-degree: 0%
 * &lbrack;엔진&rbrack; Substance 엔진 업데이트
 * 특정 기능을 비활성화하는 &lbrack;Application&rbrack; 환경 변수
 * &lbrack;내용&rbrack; 색상 대체 - 새로운 고급 분할 옵션
-* &lbrack;Content&rbrack; 바닥 타일 - 새로운 패턴 및 옵션 사용 가능
+* &lbrack;Content&rbrack; Floor 타일 - 새로운 패턴 및 옵션 사용 가능
 * &lbrack;Content&rbrack; 자수 - 필터 전체 개조
 * &lbrack;Content&rbrack; 조정 - 새 금속성 매개변수 + 불투명도 안전 변형 교정
 
@@ -1848,7 +1848,7 @@ ht-degree: 0%
 * 애플리케이션을 닫을 때 &lbrack;Application&rbrack;가 충돌함
 * &lbrack;Application&rbrack; MacOS에서 VRAM 양 감지 수정
 * &lbrack;내보내기&rbrack; 일부 내보내기 사전 설정이 누락되는 경우가 있습니다
-* &lbrack;내용&rbrack; 유화 효과 - 변위 진폭이 높은 Height 범위 수정
+* &lbrack;Content&rbrack; 오일 페인트 효과 - 높은 변위 진폭으로 Height 범위 수정
 * &lbrack;Content&rbrack; Make It Tile Advanced - 내보낼 때 빛바랜 색상 없음
 * &lbrack;Content&rbrack; Make It Tile Advanced - AO가 너무 강할 때 기본 색상의 흰색 마스크
 * &lbrack;Content&rbrack; 조정 - 이제 이미지에서 작동합니다(scan1, ...)
@@ -1870,8 +1870,8 @@ ht-degree: 0%
 
 **고정:**
 
-* &lbrack;Layers&rbrack; Image to Material(AI 기반)이 Specular/광택 워크플로우에서 작동하지 않음
-* &lbrack;Layers&rbrack;에서 Image to Material(AI 기반)을 사용하는 동안 비디오 메모리가 부족하면 충돌합니다.
+* &lbrack;Layers&rbrack; Image to Material(AI 기반)이 Specular/광택도 워크플로우에서 작동하지 않음
+* 이미지를 재료로(AI 기반) 사용하는 동안 비디오 메모리가 부족할 때 &lbrack;Layers&rbrack; 충돌
 * 스택을 열 때 &lbrack;Layers&rbrack; 디스크 캐시가 표시에 사용되지 않음
 * &lbrack;Layers&rbrack; Nvidia RTX 8000 감지
 * &lbrack;Layers&rbrack; 스플래터 입력 외부로 레이어를 이동할 수 없는 경우가 있습니다
@@ -1879,7 +1879,7 @@ ht-degree: 0%
 * &lbrack;Layers&rbrack; 일부 채널 사용은 사용되지 않지만 계산됩니다.
 * 이미지를 가져올 때 때때로 &lbrack;Layers&rbrack; 빈 출력이 생성됩니다
 * &lbrack;2D 보기&rbrack; 그리기 모드 활성 블록 팬 및 확대/축소를 사용하여 다른 레이어로 전환
-* &lbrack;Content&rbrack; Snow - 일반 맵의 8비트 문제
+* &lbrack;Content&rbrack; Snow - 노멀 맵의 8비트 문제
 * &lbrack;Content&rbrack; 포장 패턴 - 일반 맵에서 8비트 문제
 * &lbrack;Content&rbrack; 이퀄라이저 - 일반 맵에서 8비트 문제
 * &lbrack;Content&rbrack; 자갈 생성기 - 일반 맵에서 8비트 문제
@@ -2113,7 +2113,7 @@ ht-degree: 0%
 * &lbrack;Layers&rbrack; 불필요한 비용 감소
 * 복제 패치를 사용할 때 &lbrack;Layers&rbrack;가 충돌합니다.
 * &lbrack;Layers&rbrack; 이미지 가져오기 레이어를 선택해도 더 이상 컴퓨트가 트리거되지 않습니다.
-* &lbrack;레이어&rbrack; 복제 패치 및 내용 인식 채우기 레이어가 선택되었을 때 더 이상 다시 계산되지 않음
+* &lbrack;레이어&rbrack; 복제 패치 및 내용 인식 채우기 레이어를 선택하면 더 이상 다시 계산되지 않음
 * &lbrack;채널 설정&rbrack; 이제 사용 활성화 또는 비활성화는 렌더링을 트리거합니다.
 * &lbrack;Resources&rbrack; 라이브러리의 스택을 대량 클릭할 때 멈춤 방지
 * 이전에 추가한 연결된 폴더를 다시 추가할 때 &lbrack;Resources&rbrack; Performance hit
@@ -2202,8 +2202,8 @@ ht-degree: 0%
 * &lbrack;이미지 가져오기&rbrack; 응용 프로그램 전체에서 지원되는 이미지 유형 균일화
 * &lbrack;Preset&rbrack; SBSAR에서 사전 설정을 만들 때 설명을 저장
 * &lbrack;Inspire&rbrack; 이미지 드래그 앤 드롭 수정
-* &lbrack; 응용 프로그램 &rbrack; 종료 시 충돌 수정
-* &lbrack;Application&rbrack; 자료를 내보낼 때 종료 시 충돌 수정
+* &lbrack;응용 프로그램 &rbrack; 종료 시 충돌 수정
+* &lbrack;Application&rbrack; 재료 내보내기 시 종료에서 충돌 수정
 * &lbrack;UI&rbrack; 수정 및 개선 사항
 * &lbrack;UI&rbrack; 임시 에셋 이름을 &quot;저장되지 않은 재질&quot;로 바꾸기
 * &lbrack;Content&rbrack; 전체 업데이트 및 모든 필터 정리
@@ -2213,9 +2213,9 @@ ht-degree: 0%
 * 많은 리소스를 가져오면 Substance Alchemist 속도가 느려질 수 있습니다
 * 내용 인식 채우기 필터의 고해상도는 느립니다
 * 하나의 재질에 여러 개의 흐림 효과를 사용하는 것은 권장되지 않습니다
-* 구형 NVIDIA 드라이버에서 Delighter 충돌(400.x 미만)
+* 구형 NVIDIA 드라이버로 충돌을 더 밝게 만들기(400.x 미만)
 * 슬라이더에서 특정 값을 입력할 때 혼수 또는 점을 무시할 수 있습니다
-* Height에 표준 필터가 MacOS에서 충돌할 수 있음
+* Height에 대한 일반 필터는 MacOS에서 충돌 가능
 
 ### 1.1.2 (2019.1.2) 참깨
 
@@ -2230,29 +2230,29 @@ ht-degree: 0%
 * &lbrack;Layers&rbrack; 이미지 가져오기 레이어에서 이미지를 변경할 가능성
 * &lbrack;Layers&rbrack; 이미지를 채널로 정의할 수 있는 가능성(기본 색상, 표준, Height 등) 이미지 가져오기 레이어에서
 * &lbrack;Content&rbrack; Substance Source에서 새 atlas 요소 산란을 위한 새 Atlas Scatter 필터
-* &lbrack;내용&rbrack; 새로운 유화 효과 필터
-* &lbrack;Content&rbrack; 기본 색상 및 표준 맵에서 Height, 주변 오클루전 및 거칠기를 생성하는 새로운 채널 생성 필터
+* &lbrack;Content&rbrack; 새로운 유화 페인트 효과 필터
+* &lbrack;Content&rbrack; 기본 색상 및 노멀 맵에서 Height, 앰비언트 오클루전 및 거칠기를 생성하는 새로운 채널 생성 필터
 
 **고정:**
 
 * &lbrack;UI&rbrack; 레이어 스택 도구 모음에서 도구 설명 다시 활성화
 * &lbrack;UI&rbrack; 슬라이더 값에 2개의 소수점을 입력할 때 발생하는 문제 수정
 * &lbrack;성능&rbrack; 재료 간 빠르게 전환 시 충돌 수정
-* &lbrack;내보내기&rbrack; 내보내기 종료 전에 다른 재질로 전환해도 더 이상 충돌이 발생하지 않습니다
+* &lbrack;내보내기&rbrack; 내보내기가 끝나기 전에 다른 자료로 전환하면 더 이상 충돌이 되지 않습니다.
 * &lbrack;Resources&rbrack; 컨텍스트 메뉴는 재료를 마우스 오른쪽 버튼으로 클릭하면 재료 위에 표시됩니다.
-* &lbrack;Layers&rbrack; 레이어 스택이 비어 있을 때 &#39;여기를 클릭&#39; 링크가 작동합니다.
+* &lbrack;Layers&rbrack; 레이어 스택이 비어 있으면 &#39;여기를 클릭&#39; 링크가 작동합니다.
 * Alchemist에서 만든 재질인 경우 조정 패널에서 저장 버튼을 제거합니다(&lbrack; 사전 설정&rbrack;)
 * &lbrack;Tweak&rbrack; Alchemist에서 생성된 자료일 때 표시되는 정보 메시지
 * &lbrack;뷰 포트(&amp;r); Specular level 텍스처의 기본값이 0.04로 수정됨
 * &lbrack;파일 메뉴&rbrack; 수정 후 저장 및 다른 이름으로 저장 옵션 이름 변경
 * &lbrack;Engine&rbrack; 가져오기 중 일부 SBSAR 파일의 충돌을 방지하기 위해 Substance 엔진 버전을 업데이트합니다.
-* &lbrack;Content&rbrack; 타일링 필터가 주변 오클루전 채널에서 작업 중입니다
-* &lbrack;Content&rbrack; 자르기 필터가 주변 오클루전 채널에서 작동함
-* &lbrack;Content&rbrack; 물 필터가 Height 맵의 이득을 수정합니다.
+* &lbrack;Content&rbrack; 타일링 필터가 앰비언트 오클루전 채널에서 작업 중입니다
+* &lbrack;Content&rbrack; 자르기 필터가 앰비언트 오클루전 채널에서 작동하고 있습니다.
+* &lbrack;Content&rbrack; 물 필터 높이 맵 변경
 * &lbrack;Content&rbrack; 불투명도 혼합 모드에서 위쪽 재질의 타일링 수정
 * 불투명도 혼합 모드에서는 상단 재질의 &lbrack;Content&rbrack; Height이 유지됩니다
 * &lbrack;Content&rbrack; 천공 필터에서 사용자 정의 마스크, 사용자 정의 패턴 또는 비율 맵을 추가할 수 있음
-* &lbrack;Content&rbrack; Height 변조 필터는 Height 및 표준 맵을 16비트로 강제 적용합니다.
+* &lbrack;Content&rbrack; Height 변조 필터는 Height 및 노멀 맵을 16비트로 강제 적용합니다.
 * &lbrack;Content&rbrack; 조정 필터는 Height 및 표준 맵을 16비트로 강제 적용합니다.
 
 **알려진 문제:**
@@ -2285,15 +2285,15 @@ ht-degree: 0%
 * &lbrack;Collection&rbrack; 재료 간 빠르게 전환하는 동안 충돌 수정
 * &lbrack;UI&rbrack; 값이 null이거나 뷰포트의 타일링, 변위 슬라이더에서 유효하지 않은 동안 충돌 수정
 * &lbrack;Inspire&rbrack; Inspire 탭에 액세스하는 동안 발생하는 충돌 수정
-* &lbrack;Inspire&rbrack; 방금 저장된 레이어 스택 재질에 영감을 주는 동안 충돌 수정
+* &lbrack;Inspire&rbrack; 방금 저장된 레이어 스택 재질에 영감을 주는 충돌 수정
 * &lbrack;성능&rbrack; 대용량 Substance 재질 및 필터(타일링) 계산 속도 향상
 * &lbrack;도움말&rbrack; 내보내기 로그 파일 수정
 * &lbrack;내용&rbrack; 임의화 필터는 모든 채널에서 작동합니다.
 * &lbrack;Content&rbrack; 다중 각도 워크플로는 모든 스캔을 고려합니다.
-* &lbrack;Content&rbrack; AO 혼합 교정 혼합
-* &lbrack;내용&rbrack; 곡률 혼합 교정 혼합
-* &lbrack;내용&rbrack; 색상 ID 혼합 교정 혼합
-* &lbrack;내용&rbrack; 사용자 정의 마스크 혼합 교정 혼합
+* &lbrack;Content&rbrack; AO 혼합 수정 혼합
+* &lbrack;내용&rbrack; 곡률 혼합 수정 혼합
+* &lbrack;내용&rbrack; 색상 ID 혼합 올바른 혼합
+* &lbrack;내용&rbrack; 사용자 정의 마스크 혼합 수정 혼합
 * &lbrack;Content&rbrack; 거칠기 수정을 위한 조정 필터 수정
 * &lbrack;Content&rbrack; 사용자 정의 일반 기본 재질 업로드를 위한 수정 채널 필터
 * &lbrack;Content&rbrack; 엠보싱 필터의 사용자 정의 가져오기 패턴 수정
@@ -2301,9 +2301,9 @@ ht-degree: 0%
 **알려진 문제:**
 
 * 하나의 재질에 여러 개의 흐림 효과를 사용하는 것은 권장되지 않습니다
-* 구형 NVIDIA 드라이버에서 Delighter 충돌(400.x 미만)
+* 구형 NVIDIA 드라이버로 충돌을 더 밝게 만들기(400.x 미만)
 * 슬라이더에서 특정 값을 입력할 때 혼수 또는 점을 무시할 수 있습니다
-* Height에 표준 필터가 MacOS에서 충돌할 수 있음
+* Height에 대한 일반 필터는 MacOS에서 충돌 가능
 
 ### 1.1.0 (2019.1.0) 참깨
 
@@ -2342,21 +2342,21 @@ ht-degree: 0%
 * &lbrack;Content&rbrack; Delighter 필터의 새 버전
 * &lbrack;내용&rbrack; 새 이미지 내용 인식 채우기 필터
 * &lbrack;Content&rbrack; 새로운 질감 내용 인식 채우기 필터
-* &lbrack;Content&rbrack; 변형 필터에는 안전한 변형 옵션이 있습니다.
+* &amp;lbrack&rbrack;content; 변환 필터는 안전한 변환 옵션을 가지고 있습니다.
 
 **고정:**
 
 * 새로운 UI 및 아키텍처 릴리스에서는 생성과 관련된 이전의 모든 버그가 현재 유효하지 않습니다.
 * 툴팁이 상단 표시줄의 아이콘을 숨기지 않음 (3D, 2D, 2D/3D)
-* &lbrack;Content&rbrack; 스플래터 필터는 전체 Height 맵이 있는 Atlas를 수락합니다.
-* &lbrack;Content&rbrack; 변환 필터는 이미지(scan1, scan2,...)에서 작동합니다.
+* &lbrack;Content&rbrack; 스플래터 필터는 전체 높이 맵이 있는 Atlas를 허용합니다.
+* &amp;lbrack&rbrack;content1 필터는 이미지에서 작동 (scan2, scan2,...)
 
 **알려진 문제:**
 
 * 하나의 재질에 여러 개의 흐림 효과를 사용하는 것은 권장되지 않습니다
-* 구형 NVIDIA 드라이버에서 Delighter 충돌(400.x 미만)
+* 구형 NVIDIA 드라이버로 충돌을 더 밝게 만들기(400.x 미만)
 * 슬라이더에서 특정 값을 입력할 때 혼수 또는 점을 무시할 수 있습니다
-* Height에 표준 필터가 MacOS에서 충돌할 수 있음
+* Height에 대한 일반 필터는 MacOS에서 충돌 가능
 
 ## 베타
 
@@ -2376,7 +2376,7 @@ ht-degree: 0%
 **알려진 문제:**
 
 * 하나의 재질에 여러 개의 흐림 효과를 사용하는 것은 권장되지 않습니다
-* 구형 NVIDIA 드라이버에서 Delighter 충돌(400.x 미만)
+* 구형 NVIDIA 드라이버로 충돌을 더 밝게 만들기(400.x 미만)
 * Delighter 단계의 빠른 가시성 전환은 권장하지 않습니다
 * 이미지 가져오기 레이어의 [속성] 패널에 TIF 이미지가 표시되지 않습니다
 * 슬라이더에서 특정 값을 입력할 때 혼수 또는 점을 무시할 수 있습니다
@@ -2471,9 +2471,9 @@ ht-degree: 0%
 
 **고정:**
 
-* 레이어 스택을 저장할 때 충돌 해결
+* 레이어 스택 저장 시 충돌 수정
 * 환경 회전 슬라이더에서 1보다 큰 값을 추가할 수 있습니다.
-* 블렌드 레이어가 블렌드 레이어에서 재질 레이어로 앞뒤로 변환되면 블렌드 매개 변수를 잃지 마십시오
+* 혼합 레이어가 혼합 레이어에서 재질 레이어로 왔다 갔다 할 때 혼합 레이어 매개 변수를 잃지 마십시오
 * 동일한 레이어 스택의 변형을 여러 번 생성할 때 중복 수정
 * 재질을 다시 열 때 Alchemist은 슬라이더의 수정된 범위(최소 및 최대)를 기억합니다
 
@@ -2495,7 +2495,7 @@ ht-degree: 0%
 
 * 최신 Substance Designer 버전과 호환되도록 &lbrack;엔진&rbrack; Substance 엔진 업데이트
 * &lbrack;License&rbrack; 첫 번째 설치에 대한 라이선스 폴더 업데이트
-* &lbrack;Layers&rbrack; 언제든지 레이어 스택을 다시 로드하여 사용자 정의 필터를 업데이트합니다.
+* &lbrack;레이어&rbrack; 레이어 스택에서 언제든지 다시 로드하여 사용자 정의 필터를 업데이트합니다.
 
 **고정:**
 
@@ -2776,7 +2776,7 @@ ht-degree: 0%
 * 이전 버전으로 만든 재질은 새 버전에서 사용할 수 없습니다.
 * [비트맵을 재질로]에서 [Specular/거칠음] 작업 과정을 처리하지 않음
 * 하나의 재질에 여러 개의 흐림 효과를 사용하는 것은 권장되지 않습니다
-* 구형 NVIDIA 드라이버에서 Delighter 충돌(400.x 미만)
+* 구형 NVIDIA 드라이버로 충돌을 더 밝게 만들기(400.x 미만)
 * Delighter 단계의 빠른 가시성 전환은 성능에 영향을 줍니다.
 
 ### 0.2.0 베타 Kiwi
@@ -2810,7 +2810,7 @@ ht-degree: 0%
 
 * 이전 버전으로 만든 재질은 새 버전에서 사용할 수 없습니다.
 * 하나의 재질에 여러 개의 흐림 효과를 사용하는 것은 권장되지 않습니다
-* 구형 NVIDIA 드라이버에서 Delighter 충돌(400.x 미만)
+* 구형 NVIDIA 드라이버로 충돌을 더 밝게 만들기(400.x 미만)
 * Delighter 단계의 빠른 가시성 전환은 성능에 영향을 줍니다.
 
 ### 0.1.1 베타 잼
@@ -2827,7 +2827,7 @@ ht-degree: 0%
 * 전체 화면에서 &lbrack;MacOS&rbrack; Substance Alchemist 설정 가능
 * &lbrack;Filter&rbrack; 두 재질 간의 혼합을 관리하는 사용자 정의 마스크 가져오기
 * &lbrack;Filter&rbrack; Control Moss scale
-* &lbrack;필터&rbrack; 복제 패치 업데이트
+* &lbrack;Filter&rbrack; 복제 패치 업데이트
 
 **고정:**
 

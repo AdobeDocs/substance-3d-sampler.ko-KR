@@ -186,7 +186,7 @@ with open(csv_path, newline='') as csvfile:
 
 ## 모든 색상 매개 변수 표시
 
-이 스크립트는 레이어 스택에 있는 각 레이어의 color 매개 변수를 표시합니다.
+이 스크립트는 레이어 스택 구조의 각 레이어에 대한 color 매개 변수를 표시합니다.
 
 ### expose\_all\_color\_parameters.py
 
