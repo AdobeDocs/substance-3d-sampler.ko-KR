@@ -1,7 +1,7 @@
 ---
-helpx_url: "https://helpx.adobe.com/kr/substance-3d-sampler/filters/tools/atlas-splitter.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-sampler/filters/tools/atlas-splitter.html"
 breadcrumb-title: ''
-description: Substance 3D Sampler의 Atlas Splitter 툴을 사용하여 텍스처 아틀라스를 재질 편집을 위해 개별 텍스처 맵으로 분할합니다.
+description: Substance 3D Sampler의 Atlas Splitter 툴을 사용하여 질감 편집을 위해 텍스처 아틀라스를 개별 텍스처 맵으로 분할합니다.
 helpx_creative_field: ""
 helpx_description: Sampler > Filters > Tools > Atlas Splitter
 helpx_experience_level: ""
@@ -43,7 +43,7 @@ ht-degree: 0%
 
 ![](../../assets/3d-2d-filters-cropped-0038-atlas-splitter-out.jpg)
 
-레이어 스택에 **Atlas Splitter**&#x200B;을 추가하면 잎사귀 하나 또는 아틀라스 재질의 다른 요소에 집중할 수 있습니다.
+**Atlas Splitter**&#x200B;이(가) 레이어 스택에 추가되면 단일 리프 또는 아틀라스 재질의 다른 요소에 집중할 수 있습니다.
 
 </td>
 </tr>

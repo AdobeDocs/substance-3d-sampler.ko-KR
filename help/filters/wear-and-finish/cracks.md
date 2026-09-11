@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/kr/substance-3d-sampler/filters/wear-and-finish/cracks.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-sampler/filters/wear-and-finish/cracks.html"
 breadcrumb-title: ''
 description: Substance 3D Sampler의 균열 필터를 사용하여 사실적인 균열 패턴과 재료의 표면 손상 효과를 추가하십시오.
 helpx_creative_field: ""
@@ -72,7 +72,7 @@ ht-degree: 1%
 * **사용자 지정 마스크 사용**: 전환\
   사용자 정의 마스크 사용을 활성화하거나 비활성화합니다. 활성화하면 다음 매개변수가 나타납니다.
   * **마스크**: 이미지/브러시\
-    마스크로 사용할 이미지를 선택하거나 브러시를 사용하여 2D 보기에서 직접 사용자 정의 마스크를 칠합니다.
+    마스크로 사용할 이미지를 선택하거나 브러시를 사용하여 2D 보기에서 직접 사용자 정의 마스크를 페인트 합니다.
   * **사용자 지정 마스크 - 반전**: 전환\
     마스크를 반전합니다.
 
@@ -98,4 +98,4 @@ ht-degree: 1%
 * **Height 범위**: 0-1\
   전체 재질의 Height 범위를 수정합니다. 균열의 Height을 조정하려면 **균열 > 균열 Height 강도**&#x200B;를 사용하세요.
 * **Height 위치**: 0-1\
-  전체 재질의 Height 맵을 오프셋합니다.
+  전체 재질의 높이 맵을 오프셋합니다.

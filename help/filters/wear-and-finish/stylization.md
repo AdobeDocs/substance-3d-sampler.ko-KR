@@ -1,7 +1,7 @@
 ---
-helpx_url: "https://helpx.adobe.com/kr/substance-3d-sampler/filters/wear-and-finish/stylization.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-sampler/filters/wear-and-finish/stylization.html"
 breadcrumb-title: ''
-description: Substance 3D Sampler의 스타일화 필터를 사용하여 재료 및 텍스처에 예술적 효과와 스타일화된 모양을 적용할 수 있습니다.
+description: Substance 3D Sampler의 스타일화 필터를 사용하여 재질과 텍스처에 예술적 효과와 양식화된 모양을 적용할 수 있습니다.
 helpx_creative_field: ""
 helpx_description: Substance 3D Sampler
 helpx_experience_level: ""
@@ -61,7 +61,7 @@ ht-degree: 1%
 
 <b>손으로 칠함</b>
 
-    이 사전 설정은 이전 대비 방법보다 대비를 강하게 적용하며, 구아슈 또는 유화 페인트 수동 브러시 스트로크를 모방합니다
+    이 사전 설정은 이전 대비 방법보다 대비를 강하게 적용하며, 구아슈 또는 오일 페인트 수동 브러시 스트로크를 모방합니다
 
 ## 기본 매개 변수
 
@@ -151,7 +151,7 @@ ht-degree: 1%
   추가한 그런지 맵에 적용된 변형 강도의 변형 레벨을 선택합니다
 
 * <b>그런지</b>: 이미지 \
-  Sampler 에셋 라이브러리에서 그런지 맵으로 사용할 이미지 또는 [텍스처 생성기]를 선택합니다
+  Sampler 에셋 라이브러리에서 그런지 맵으로 사용할 이미지 또는 텍스처 생성기 선택
 
 ## 기술 매개 변수
 
@@ -165,10 +165,10 @@ ht-degree: 1%
   Sampler이 재질에 적용된 변경 사항에 따라 표준을 다시 계산하도록 허용
 
 * <b>표준 강도</b>: 0-1 \
-  표준 맵의 강도 조정
+  노멀 맵 강도 조정
 
 * <b>표준 부드러움</b>: 0-1\
   재질을 더 부드럽게 만들기 위해 일반을 부드럽게 합니다
 
-* <b>주변 오클루전 강도</b>: 0-1\
+* <b>앰비언트 오클루전 강도</b>: 0-1\
   AO 맵의 대비 수준 조정

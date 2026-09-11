@@ -1,7 +1,7 @@
 ---
-helpx_url: "https://helpx.adobe.com/kr/substance-3d-sampler/filters/wear-and-finish/dust.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-sampler/filters/wear-and-finish/dust.html"
 breadcrumb-title: ''
-description: Substance 3D Sampler의 Dust 필터를 사용하여 재질과 텍스처에 사실적인 Dust 누적 효과를 추가할 수 있습니다.
+description: Substance 3D Sampler의 Dust 필터를 사용하여 재질과 텍스처에 사실적인 Dust 축적 효과를 추가할 수 있습니다.
 helpx_creative_field: ""
 helpx_description: Sampler > Filters > Wear and Finish > Dust
 helpx_experience_level: ""

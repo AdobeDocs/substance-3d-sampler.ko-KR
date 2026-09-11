@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/kr/substance-3d-sampler/filters/generators/parquet.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-sampler/filters/generators/parquet.html"
 breadcrumb-title: ''
 description: Substance 3D Sampler의 쪽매 생성기를 사용하여 사실적인 쪽매 나무 마루 패턴 및 재질의 텍스처를 만들 수 있습니다.
 helpx_creative_field: ""
@@ -35,7 +35,7 @@ ht-degree: 0%
 
 재질을 쪽매 바닥으로 변환합니다.
 
-*나무 재질이&#x200B;**쪽매 필터**&#x200B;를 사용하여 쪽매 패턴으로 변환되었습니다.*
+*나무 재질이&#x200B;**쪽매 필터**를 사용하여 쪽매 패턴으로 변환되었습니다.*
 
 <table>
 <tr style="border: 0;">

@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/kr/substance-3d-sampler/filters/generators/weave.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-sampler/filters/generators/weave.html"
 breadcrumb-title: ''
 description: Substance 3D Sampler의 직조 생성기를 사용하여 재료 생성을 위한 직물 직조 패턴 및 직물 텍스처를 생성합니다.
 helpx_creative_field: ""
@@ -101,7 +101,7 @@ ht-degree: 0%
 Weave 필터를 사용하려면 다음을 수행하십시오.
 
 1. 다음으로 이미지 드래그 앤 드롭
-1. 레이어 스택에 직조 필터를 추가합니다.
+1. 레이어 스택에 Weave 필터를 추가합니다.
 1. 색상 균형이 이미지에 맞게 보일 때까지 **기본 매개 변수 > 색상 수**&#x200B;를 조정합니다. 10가지 색상의 제한이 있는 [위브] 필터는 플랫 색상과 그림 이미지에 가장 적합합니다.
 1. 다른 매개 변수를 조정하여 패치의 모양을 세밀하게 조정합니다.
 

@@ -1,5 +1,5 @@
 ---
-helpx_url: 'https://helpx.adobe.com/kr/substance-3d-sampler/filters/custom-filters.html'
+helpx_url: 'https://helpx.adobe.com/substance-3d-sampler/filters/custom-filters.html'
 breadcrumb-title: ''
 description: Substance 3D Sampler에서 사용자 정의 필터를 사용하여 Substance Designer 필터 및 사용자 정의 효과와 함께 기능을 확장하는 방법을 알아봅니다.
 helpx_creative_field: ''
@@ -32,7 +32,7 @@ ht-degree: 1%
 
 >[!NOTE]
 >
-> **사용량** 또는 **식별자**(사용량이 우선 순위)을 사용할 수 있습니다.
+> **사용량** 또는 **식별자**&#x200B;을(를) 사용할 수 있습니다(사용량에 우선 순위가 있음).
 
 #### 형식
 
@@ -40,7 +40,7 @@ ht-degree: 1%
 
 >[!NOTE]
 >
-> Sampler에서 직접 필터를 제어하기 위해 필터 매개 변수를 표시할 수 있습니다. [여기](https://experienceleague.adobe.com/ko/docs/substance-3d-designer/using/substance-graphs/manage-parameters/exposing-a-parameter)에서 방법 보기
+> Sampler에서 직접 필터를 제어하기 위해 필터 매개 변수를 표시할 수 있습니다. [여기](https://experienceleague.adobe.com/en/docs/substance-3d-designer/using/substance-graphs/manage-parameters/exposing-a-parameter)에서 방법 보기
 
 #### 이미지를 수정할 필터 만들기
 
@@ -64,7 +64,7 @@ ht-degree: 1%
 | *Specular level* | **specularlevel** |
 | *금속* | **금속** |
 | *거칠음* | **거칠음** |
-| *광택* | **광택** |
+| *광택* | **광택도** |
 | *표준* | **표준** |
 | *Height* | **Height** |
 | *주변 오클루전* | **ambientOcclusion** |
@@ -78,7 +78,7 @@ ht-degree: 1%
 
 >[!IMPORTANT]
 >
-> 패키지에서 이미지를 처리할 그래프(scan1에서 scanX로) 하나와 재료를 처리할 그래프(PBR 채널)가 있는 경우, Sampler은 레이어 스택에서 필터가 삽입된 위치에 따라 올바른 그래프를 선택할 수 있습니다.
+> 패키지에서 이미지를 처리할 그래프(scan1에서 scanX로) 하나와 재료를 처리할 그래프(PBR 레이어 스택)가 있는 경우, Sampler은 필터에 따라 올바른 그래프를 선택할 수 있습니다.
 >
 > &quot;이미지&quot; 그래프에 다음 사용자 데이터를 추가합니다.
 >
@@ -90,7 +90,7 @@ ht-degree: 1%
 
 ### 전용 파라미터
 
-특정 매개 변수는 응용 프로그램에서 전역적으로 관리됩니다. 이는 사용자 정의 필터에서 응용 프로그램, 프로젝트 및 레이어 스택의 전역 매개 변수를 사용하는 방법입니다.
+특정 매개 변수는 응용 프로그램에서 전역적으로 관리됩니다. 사용자 정의 필터에서 응용 프로그램, 프로젝트 및 레이어 스택의 전역 매개 변수를 사용하는 방법입니다.
 
 #### 표준 포맷
 
@@ -107,10 +107,10 @@ ht-degree: 1%
 
 #### 재료 입력
 
-Atlas Scatter 또는 스플래터와 같이 레이어 스택에 재질 슬롯을 표시하려면:
+Atlas Scatter 또는 스플래터와 같은 재질 슬롯을 레이어 스택에 표시하려면:
 
-* 새 입력 노드 세트 추가(기본 색상, 표준, ... )
-* 배경의 모든 입력 노드(레이어 스택의 아래쪽 재질)는 그룹 **재질1**&#x200B;에 있어야 합니다.
+* 새 입력 노드 집합 추가(기본 색상, 표준, ... )
+* 배경의 모든 입력 노드(레이어 스택의 아래쪽 재질)는 **Material1** 그룹에 있어야 합니다.
 * 여러 재질 슬롯을 원하는 경우 맨 위에 추가하려는 첫 번째 재질의 모든 입력 노드는 그룹 **재질2** 등에 있어야 합니다.
 * 재료 입력 매개변수를 추가합니다.
   * **매개 변수 식별자**: material_input
@@ -118,7 +118,7 @@ Atlas Scatter 또는 스플래터와 같이 레이어 스택에 재질 슬롯을
 
 #### 작업 과정 유형
 
-프로젝트의 작업 과정에 따라 일부 매개 변수를 표시하거나 숨기려는 경우(PBR 금속/거칠기 또는 PBR Specular/광택) [작업 과정 유형] 매개 변수를 사용할 수 있습니다
+프로젝트의 작업 과정에 따라 일부 매개 변수를 표시하거나 숨기려는 경우(PBR 금속/거칠기 또는 PBR Specular/광택도) [작업 과정 유형] 매개 변수를 사용할 수 있습니다
 
 **매개 변수 식별자**: workflow_type
 
@@ -127,6 +127,6 @@ Atlas Scatter 또는 스플래터와 같이 레이어 스택에 재질 슬롯을
 옵션:
 
 * 0: PBR 금속/거칠음
-* 1: PBR Specular/광택
+* 1: PBR Specular/광택도
 
 ![](../assets/workflow-type.jpg){width="300px"}

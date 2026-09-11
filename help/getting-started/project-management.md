@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/kr/substance-3d-sampler/getting-started/project-management.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-sampler/getting-started/project-management.html"
 breadcrumb-title: ''
 description: 컬렉션을 사용하여 효율적인 워크플로우를 위해 에셋 및 재질을 구성하여 Substance 3D Sampler에서 프로젝트를 관리하는 방법을 알아봅니다.
 helpx_creative_field: ""
@@ -38,7 +38,7 @@ Substance 3D Sampler에서는 컬렉션을 사용하여 모든 에셋 및 재질
 
 프로젝트를 저장하려면 <b>파일 > </b> 저장 또는 <b>다른 이름으로 저장</b> 메뉴 동작을 사용하십시오. 그러면 프로젝트 파일을 저장할 위치와 사용할 이름을 선택할 수 있는 대화 상자가 열립니다.
 
-또는 바로 가기 <b>Ctrl + S</b>를 사용하여 <b>저장</b> 또는 <b>Ctrl + Shift + S</b>를 사용하여 <b>다른 이름으로 저장</b>할 수 있습니다.
+또는 단축키 <b>Ctrl + S</b>를 사용하여 <b>저장</b> 또는 <b>Ctrl + Shift + S</b>를 사용하여 <b>다른 이름으로 저장</b>할 수 있습니다.
 
 저장된 프로젝트는 <b>YourProject.ssa</b>(이)라는 파일로 표시됩니다. SSA는 프로젝트에 대한 정보와 프로젝트에 있을 수 있는 종속성을 저장하는 샘플 파일 형식입니다.
 

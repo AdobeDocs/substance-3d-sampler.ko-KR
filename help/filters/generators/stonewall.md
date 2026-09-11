@@ -1,7 +1,7 @@
 ---
-helpx_url: "https://helpx.adobe.com/kr/substance-3d-sampler/filters/generators/stonewall.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-sampler/filters/generators/stonewall.html"
 breadcrumb-title: ''
-description: Substance 3D Sampler의 돌담 생성기를 사용하여 사실적인 돌담 패턴 및 재질에 대한 조적 텍스처를 만들 수 있습니다.
+description: Substance 3D Sampler의 돌담 발생기를 사용하여 사실적인 돌담 패턴 및 재료용 석조 텍스처를 만듭니다.
 helpx_creative_field: ""
 helpx_description: Sampler > Filters > Generators > Stonewall
 helpx_experience_level: ""

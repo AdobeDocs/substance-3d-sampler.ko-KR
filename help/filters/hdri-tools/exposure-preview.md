@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/kr/substance-3d-sampler/filters/hdri-tools/exposure-preview.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-sampler/filters/hdri-tools/exposure-preview.html"
 breadcrumb-title: ''
 description: 변경 사항을 적용하기 전에 Substance 3D Sampler의 노출 미리 보기 도구를 사용하여 HDRI 이미지의 노출 조정을 미리 볼 수 있습니다.
 helpx_creative_field: ""
@@ -39,11 +39,11 @@ ht-degree: 0%
 
 ![](../../assets/3d-2d-filters-cropped-0029-exposure-preview-in.jpg)
 
-위의 이미지에서는 환경 조명이 만들어졌으며 HDR 이미지 데이터가 **2D 보기**&#x200B;에 표시됩니다.
+위의 이미지에서 환경 조명이 만들어졌으며 HDR 이미지 데이터가 **2D 보기**&#x200B;에 표시됩니다.
 
 ![](../../assets/filters-cropped-0028-exposure-preview-out.jpg)
 
-레이어 스택에 **노출 미리 보기** **필터**&#x200B;가 추가되어 다양한 노출에서 환경 빛을 표시하는 새 채널인 환경 진단 을 사용할 수 있습니다.
+**노출 미리 보기** **필터**&#x200B;이(가) 레이어 스택에 추가되면 다양한 노출에서 환경 조명을 표시하는 새 채널인 환경 진단을 사용할 수 있습니다.
 
 </td>
 </tr>
@@ -60,6 +60,6 @@ ht-degree: 0%
 
 ## 사용 안내서
 
-**노출 미리 보기 필터**&#x200B;는 다른 Sampler 필터와 약간 다르게 작동합니다. 이 도구는 환경 조명에 대한 올바른 노출을 찾는 데 도움이 되는 도구이지만 실제로 환경 채널에 영향을 미치지는 않습니다. 대신 레이어 스택에 **노출 미리 보기 필터**&#x200B;를 추가하면 **2D 보기**(환경 진단 채널)에서 볼 수 있는 추가 채널을 사용할 수 있게 됩니다.
+**노출 미리 보기 필터**&#x200B;는 다른 Sampler 필터와 약간 다르게 작동합니다. 환경 조명에 대한 올바른 노출을 찾는 데 도움이 되는 도구이지만 실제로 환경 채널에는 전혀 영향을 주지 않습니다. 대신 레이어 스택에 **노출 미리 보기 필터**&#x200B;를 추가하면 환경 진단 채널인 **2D 보기**&#x200B;에서 볼 수 있는 추가 채널을 사용할 수 있습니다.
 
 환경 진단 채널을 보는 경우 다양한 노출 값에서 2D 환경 이미지의 몇 가지 인스턴스를 볼 수 있습니다. **노출 미리 보기 필터**&#x200B;의 매개 변수를 조정하여 환경 진단 채널에서 볼 수 있는 노출 범위를 변경합니다.

@@ -1,7 +1,7 @@
 ---
-helpx_url: "https://helpx.adobe.com/kr/substance-3d-sampler/filters/tools/make-it-tile.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-sampler/filters/tools/make-it-tile.html"
 breadcrumb-title: ''
-description: Substance 3D Sampler에서 타일링 만들기 도구를 사용하여 타일링이 아닌 텍스처에서 매끄러운 타일링 패턴을 자동으로 만들 수 있습니다.
+description: Substance 3D Sampler에서 타일링으로 만들기 도구를 사용하여 타일링이 아닌 텍스처에서 매끄러운 타일링 패턴을 자동으로 만들 수 있습니다.
 helpx_creative_field: ""
 helpx_description: Sampler > Filters > Tools > Make it Tile
 helpx_experience_level: ""
@@ -64,7 +64,7 @@ ht-degree: 0%
 * **Color Equalizer**: 0-50\
   색상 값을 균일화하여 솔기의 가시성을 줄입니다.
 * **Height 일치**:\
-  필터의 맨 위 레이어와 맨 아래 레이어에 대해 Height 맵이 혼합되는 방법을 변경합니다. 결과를 더 명확하게 보려면 Height 채널을 **2D 보기**&#x200B;에서 확인하세요. Height 일치는 Height 채널 이외의 채널에는 영향을 주지 않으므로 Height 일치 변경의 영향을 받지 않으므로 정규식과 AO는 영향을 받지 않습니다.
+  필터의 위쪽 및 아래쪽 레이어에 대해 높이 맵이 혼합되는 방법을 변경합니다. 결과를 더 명확하게 보려면 **2D 보기**&#x200B;에서 Height 채널을 확인하세요. Height 일치는 Height 채널 이외의 채널에는 영향을 주지 않으므로 Height 일치 변경의 영향을 받지 않으므로 정규식과 AO는 영향을 받지 않습니다.
 
 **고급 매개 변수**
 

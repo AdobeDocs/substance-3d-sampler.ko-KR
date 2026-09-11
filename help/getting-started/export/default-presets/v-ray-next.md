@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/kr/substance-3d-sampler/getting-started/export/default-presets/v-ray-next.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-sampler/getting-started/export/default-presets/v-ray-next.html"
 breadcrumb-title: ''
 description: V-Ray 렌더링과 호환되도록 [V-Ray 다음] 사전 설정을 사용하여 Substance 3D Sampler에서 재질을 내보내는 방법을 알아봅니다.
 helpx_creative_field: ""
@@ -22,4 +22,4 @@ ht-degree: 4%
 
 | 사전 설정 | 호환성 | 패킹 출력 설명 |
 | --- | --- | --- |
-| V-레이 다음 | <ul data-preserve-html="true"><li data-preserve-html="true">PBR 금속/거칠음</li></ul> | **확산&#x200B;**&#x200B;**거칠기**&#x200B;**금속성&#x200B;**&#x200B;**보통**&#x200B;**&#x200B;**&#x200B;**자아 착시** **불투명도** |
+| V-레이 다음 | <ul data-preserve-html="true"><li data-preserve-html="true">PBR 금속/거칠음</li></ul> | **확산&#x200B;****거칠음****금속도&#x200B;****보통****변위****자아 착시** **불투명도** |

@@ -1,7 +1,7 @@
 ---
-helpx_url: "https://helpx.adobe.com/kr/substance-3d-sampler/filters/wear-and-finish/dirt.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-sampler/filters/wear-and-finish/dirt.html"
 breadcrumb-title: ''
-description: Substance 3D Sampler의 Dirt 필터를 사용하여 실제 Dirt 축적과 그림 효과를 재질과 텍스처에 추가할 수 있습니다.
+description: Substance 3D Sampler의 Dirt 필터를 사용하여 재질과 텍스처에 사실적인 Dirt 누적 및 그림 효과를 추가할 수 있습니다.
 helpx_creative_field: ""
 helpx_description: Sampler > Filters > Wear and Finish > Dirt
 helpx_experience_level: ""
@@ -74,13 +74,13 @@ ht-degree: 1%
   Dirt 표면을 얼마나 반사할지 정의합니다
 
 * <b>Dirt Height</b>: 0-1 \
-  Height 맵에 대한 Dirt 영향을 제어합니다
+  높이 맵에 대한 Dirt 영향을 제어합니다
 
 * <b>Dirt 표준 강도</b>: 0-1 \
-  Dirt 수준이 표준 맵에 미치는 영향을 제어합니다.
+  Dirt 수준이 노멀 맵에 미치는 영향을 제어합니다.
 
 * <b>표면 결함 사용</b>: 전환 \
   서피스 결함 사용을 활성화하거나 비활성화합니다. 활성화되면 추가 컨트롤이 나타납니다.
 
   <b>표면 결함</b>: 이미지 \
-  이미지를 가져와 표면 결함으로 사용하거나, Sampler 에셋 라이브러리에서 기본적으로 제공되는 &quot;Stain&quot; 또는 &quot;Bnw Spots&quot;와 같은 텍스처 생성기를 사용하십시오
+  이미지를 가져와 표면 결함으로 사용하거나, Sampler 에셋 라이브러리에서 기본적으로 사용할 수 있는 &quot;얼룩&quot; 또는 &quot;Bnw 스팟&quot;과 같은 텍스처 생성기 중 하나를 사용합니다

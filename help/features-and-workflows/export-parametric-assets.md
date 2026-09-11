@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/kr/substance-3d-sampler/features-and-workflows/export-parametric-assets.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-sampler/features-and-workflows/export-parametric-assets.html"
 breadcrumb-title: ''
 description: Substance 3D Sampler에서 파라메트릭 에셋을 내보내 Sampler으로 돌아가지 않고 다른 애플리케이션에서 매개 변수 수정을 활성화하는 방법을 알아봅니다.
 helpx_creative_field: ""
@@ -20,11 +20,11 @@ ht-degree: 1%
 
 # 파라메트릭 에셋 내보내기
 
-노출된 매개 변수는 Sampler으로 돌아가지 않고 다른 응용 프로그램에서 수정할 수 있습니다. 따라서 반복 시간이 단축되므로 애플리케이션 간에 이동할 필요 없이 최상의 모양을 찾는 데 집중할 수 있습니다.
+노출된 매개 변수는 Sampler으로 돌아가지 않고 다른 응용 프로그램에서 수정할 수 있습니다. 이렇게 하면 반복 시간이 단축되므로 애플리케이션 간에 이동할 필요 없이 최상의 모양을 찾는 데 집중할 수 있습니다.
 
 ## 매개 변수 표시 및 표시 안 함
 
-매개 변수를 표시하려면 **속성 패널**&#x200B;을 엽니다. 원하는 매개변수를 마우스로 가리키거나 마우스 오른쪽 버튼으로 클릭한 다음 핀 아이콘 또는 &quot;이 매개변수 표시&quot;를 클릭합니다.
+매개 변수를 표시하려면 **속성 패널**&#x200B;을 엽니다. 원하는 매개 변수를 마우스 가져다 대거나 마우스 오른쪽 버튼으로 클릭한 다음 핀 아이콘 또는 &quot;이 매개 변수 표시&quot;를 클릭합니다.
 
 ![](../assets/ezgif-com-gif-maker-2.gif)
 
@@ -67,7 +67,7 @@ ht-degree: 1%
 
 1. <b>내보내기 패널</b>을 엽니다.
 1. [내보내기]를 클릭합니다.
-1. SBSAR 또는 SBS를 선택합니다.
+1. SBSAR 또는 SBS을 선택합니다.
 1. &quot;내보내기&quot;를 클릭합니다.
 
 이제 SBSAR 파일 형식을 지원하는 모든 소프트웨어에서 노출된 매개 변수와 함께 재질을 사용할 수 있습니다.

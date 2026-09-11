@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/kr/substance-3d-sampler/filters/tools/multiangle-to-material.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-sampler/filters/tools/multiangle-to-material.html"
 breadcrumb-title: ''
 description: Substance 3D Sampler의 다중 각도를 자료로 툴을 사용하여 표면에 대한 여러 각도 사진으로 재질을 만들 수 있습니다.
 helpx_creative_field: ""
@@ -26,7 +26,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
-> 이 문서[&#128279;](https://www.adobe.com/products/substance3d/magazine/your-smartphone-is-a-material-scanner-vol-ii.html)에서 자체 재질 스캐너를 만드는 방법에 대한 자세한 정보를 찾을 수 있습니다.
+> 이 문서](https://www.adobe.com/products/substance3d/magazine/your-smartphone-is-a-material-scanner-vol-ii.html)에서 [자체 재질 스캐너를 만드는 방법에 대한 자세한 정보를 찾을 수 있습니다.
 
 ## 예
 

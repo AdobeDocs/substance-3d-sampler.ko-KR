@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/kr/substance-3d-sampler/features-and-workflows/end-to-end-physical-size-workflow.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-sampler/features-and-workflows/end-to-end-physical-size-workflow.html"
 breadcrumb-title: ''
 description: Substance 3D Sampler의 종단 간 물리적 크기 워크플로를 사용하여 실제 규모에 맞는 물리적으로 정확한 재질을 만드는 방법을 알아봅니다.
 helpx_creative_field: ""
@@ -41,12 +41,12 @@ ht-degree: 0%
 1. 자르기를 추가하고 샘플에 조정합니다. 2D 뷰포트의 오른쪽 하단에 표시된 물리적 크기가 업데이트된 것을 확인할 수 있습니다.
 
    작업 중인 지도를 정확하게 보기 위해 2D 뷰포트에 실제 비율과 함께 표시합니다.\
-   2D 보기를 물리적 크기에 맞게 설정하여 화면 비율의 DPI가 재질 비율과 일치하도록 할 수 있습니다. 즉, 실제 샘플을 화면 옆에 배치하여 치수를 확인할 수 있습니다.
+   화면 비율의 DPI가 재질 비율과 일치하도록 2D 보기를 물리적 크기에 맞게 설정할 수 있습니다. 즉, 실제 샘플을 화면 옆에 배치하여 치수를 확인할 수 있습니다.
 
    ![](../assets/cq5dam.web.1280.png)
 1. [균일화]를 추가하여 그레이디언트를 제거합니다.
 1. 타일링을 추가하여 바둑판식 보정이
-1. 필요한 경우 뒤틀기 변형은 맵의 일부만 다시 정렬하는 데 유용합니다.
+1. 뒤틀기 가 필요한 경우 맵의 부분만 다시 정렬하는 데 유용합니다.
 
    <b>내보낼 준비</b>
 1. 내보내기 형식

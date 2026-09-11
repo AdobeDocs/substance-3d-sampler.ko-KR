@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/kr/substance-3d-sampler/getting-started/importing-resources.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-sampler/getting-started/importing-resources.html"
 breadcrumb-title: ''
 description: 이미지 및 Substance 파일과 같은 리소스를 Substance 3D Sampler으로 가져와 재료 제작 워크플로우를 향상시키는 방법에 대해 알아봅니다.
 helpx_creative_field: ""
@@ -26,7 +26,7 @@ Sampler에서는 이미지 및 Substance 파일과 같은 외부 리소스를 �
 
 ![](../assets/importing-resources-Importwindow.png)
 
-* <b>왼쪽 막대</b>에서 <b>콘텐츠 가져오기 </b>버튼을 사용한 다음 <b>레이어 스택에서 가져오기</b> 또는 <b>에셋에서 가져오기</b>를 선택합니다. 두 옵션 모두 가져올 파일로 이동하여 선택할 수 있는 파일 탐색기를 엽니다.
+* <b>왼쪽 막대</b>에서 <b>콘텐츠 가져오기 </b>단추를 사용한 다음 <b>레이어 스택에서 가져오기</b> 또는 <b>에셋에서 가져오기</b>를 선택합니다. 두 옵션 모두 가져올 파일로 이동하여 선택할 수 있는 파일 탐색기를 엽니다.
   * <b>레이어 스택에서 가져오기</b>는 현재 프로젝트에 대한 파일을 가져옵니다.
   * <b>내 에셋에서 가져오기</b>는 모든 프로젝트에서 액세스할 수 있도록 파일을 가져옵니다.
 

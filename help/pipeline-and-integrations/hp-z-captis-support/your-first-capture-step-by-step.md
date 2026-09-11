@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/kr/substance-3d-sampler/pipeline-and-integrations/hp-z-captis-support/your-first-capture-step-by-step.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-sampler/pipeline-and-integrations/hp-z-captis-support/your-first-capture-step-by-step.html"
 breadcrumb-title: ''
 description: Substance 3D Sampler에서 HP Z Captis를 사용하여 첫 번째 3D 캡처를 수행하는 방법과 단계별 지침을 살펴보세요.
 helpx_creative_field: ""
@@ -152,7 +152,7 @@ HP Z Captis 기술 영역 덕분에 기본 색상 맵의 색상을 보정합니�
 
 * <b>캡처</b>: 모든 필수 사진 촬영
 
-* <b>처리</b>: 사진을 처리하여 PBR 채널을 생성합니다(기본 색상, 표준, Height, 불투명도).
+* <b>처리</b>: 사진을 처리하여 PBR 채널(기본 색상, 표준, Height, 불투명도)을 생성합니다.
 
 * <b>복사</b>: HP Z Captis 장치의 결과를 컴퓨터로 복사 중
 
@@ -174,12 +174,12 @@ HP Z Captis 기술 영역 덕분에 기본 색상 맵의 색상을 보정합니�
 
 ## 자료 편집
 
-HP Z Captis 창을 종료하면 채널(관련된 경우 기본 색상, 표준, Height, 거칠기 및 불투명도)이 [레이어] 패널에 레이어로 추가됩니다.
+HP Z Captis 창을 종료하면 채널(기본 색상, 표준, Height, 거칠기 및 불투명도(해당되는 경우))이 [레이어] 패널에 레이어로 추가됩니다.
 
 ![대체 텍스트](../../../help/assets/sampler_captis-imported-material.png)
 
 
-Sampler 필터(균일화, 원근 자르기, 타일링 등)를 사용하여 재질을 처리하고 청소합니다.
+Sampler 필터(균일화, 원근감 자르기, 타일링 등)를 사용하여 재질을 처리하고 청소합니다.
 
 작업을 완료하면 다음을 수행할 수 있습니다.
 

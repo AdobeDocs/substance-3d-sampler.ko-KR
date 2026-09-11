@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/kr/substance-3d-sampler/filters/hdri-tools/exposure.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-sampler/filters/hdri-tools/exposure.html"
 breadcrumb-title: ''
 description: Substance 3D Sampler의 노출 도구를 사용하여 적절한 조명 균형을 위해 HDRI 환경 이미지의 노출 수준을 조정합니다.
 helpx_creative_field: ""
@@ -33,7 +33,7 @@ ht-degree: 3%
 
 ## 설명
 
-환경 조명의 노출을 수정합니다.
+환경 조명 노출을 수정합니다.
 
 아래 이미지는 **노출 필터**&#x200B;를 사용하여 환경 조명을 조정하는 방법을 보여 줍니다.
 
@@ -54,4 +54,4 @@ ht-degree: 3%
 **기본 매개 변수**
 
 * **노출(EV)**: -8~8\
-  환경 조명의 노출을 조정합니다. EV는 노출 값을 나타내며 셔터 속도와 조리개의 조합을 나타내는 데 사용되는 사진 용어입니다.
+  환경 조명 노출을 조정합니다. EV는 노출 값을 나타내며 셔터 속도와 조리개의 조합을 나타내는 데 사용되는 사진 용어입니다.

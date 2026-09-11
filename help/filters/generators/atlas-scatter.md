@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/kr/substance-3d-sampler/filters/generators/atlas-scatter.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-sampler/filters/generators/atlas-scatter.html"
 breadcrumb-title: ''
 description: Substance 3D Sampler의 Atlas Scatter 생성기를 사용하여 재질 표면 전체에 걸쳐 텍스처 아틀라스의 요소를 산란 합니다.
 helpx_creative_field: ""
@@ -126,7 +126,7 @@ Atlas Scatter 필터는 기본 재질에 걸쳐 아틀라스 재질 내에 있�
 * **보통 무작위**: 0-1\
   각 인스턴스의 표준을 인스턴스당 임의의 값으로 회전
 * **앰비언트 오클루전 다시 계산**: 전환\
-  이 옵션을 켜면 수정된 오클루전 값을 기반으로 앰비언트 Height 값이 다시 계산됩니다
+  켜면 수정된 앰비언트 오클루전 값을 기반으로 Height 값이 다시 계산됩니다.
 
 **아틀라스 모양 감지**
 

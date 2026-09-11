@@ -1,7 +1,7 @@
 ---
-helpx_url: "https://helpx.adobe.com/kr/substance-3d-sampler/filters/tools/atlas-creator.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-sampler/filters/tools/atlas-creator.html"
 breadcrumb-title: ''
-description: Substance 3D Sampler의 Atlas Creator 툴을 사용하여 여러 이미지에서 텍스처 아틀라스를 만들어 효율적인 질감 구성을 할 수 있습니다.
+description: Substance 3D Sampler의 Atlas Creator 툴을 사용하여 여러 이미지에서 텍스처 아틀라스를 만들어 효율적인 재료 구성을 할 수 있습니다.
 helpx_creative_field: ""
 helpx_description: Sampler > Filters > Tools > Atlas Creator
 helpx_experience_level: ""
@@ -43,7 +43,7 @@ ht-degree: 0%
 
 ![](../../assets/3d-2d-filters-cropped-0040-atlas-creator-out.jpg)
 
-**Atlas Creator**&#x200B;를 실행하면 불투명도 맵이 생성되고 Atlas 요소 사이의 영역이 기본 색상 채널로 채워집니다.
+**Atlas Creator**&#x200B;를 실행하면 불투명도 맵이 생성되고 Atlas 요소 사이의 영역이 기본 색상 채널에 채워집니다.
 
 </td>
 </tr>
@@ -61,7 +61,7 @@ ht-degree: 0%
   색상 값을 기반으로 아틀라스 요소의 가장자리를 미세 조정합니다.
 * **불투명도 추가**: 이미지/브러시
 
-  마스크로 사용할 파일을 가져오거나 브러시를 사용하여 **2D 보기**&#x200B;에서 직접 불투명해야 하는 영역을 페인트합니다.
+  마스크로 사용할 파일을 가져오거나 브러시를 사용하여 **2D 보기**&#x200B;에서 직접 불투명해야 하는 영역을 페인트 합니다.
 
 사용 안내서
 
@@ -76,13 +76,13 @@ ht-degree: 0%
 **Atlas Creator**&#x200B;는 Atlas 이미지를 재질 atlas로 변환하도록 설계되었습니다.
 
 1. 소스 이미지를 레이어 스택으로 가져옵니다.
-1. 재료 생성 템플릿을 선택하라는 메시지가 표시되면 이미지를 재료로(Image to Material)를 선택합니다. 그렇지 않으면 레이어 스택에 있는 이미지를 사용하여 이미지 위에 **Image to Material(AI 지원) 필터**&#x200B;를 추가합니다.
+1. 재료 생성 템플릿을 선택하라는 메시지가 표시되면 이미지를 재료로(Image to Material)를 선택합니다. 그렇지 않으면 레이어 스택에 있는 이미지를 사용하여 이미지 위에 **이미지에 재질(AI 기반) 필터**&#x200B;를 추가합니다.
 1. **이미지를 재질로 변환** 필터가 소스 이미지를 재질로 변환할 때까지 기다립니다. 결과가 만족스러울 때까지 매개 변수를 조정합니다.
-1. 레이어 스택의 맨 위에 **Atlas Creator 필터**&#x200B;를 추가합니다.
+1. 레이어 스택 맨 위에 **Atlas Creator 필터**&#x200B;를 추가합니다.
 1. 결과가 만족스러울 때까지 **Atlas Creator**&#x200B;의 매개 변수를 조정합니다.
 
 1. 레이어 스택에 이미지를 추가합니다. 재질 제작 템플릿을 선택하라는 메시지가 표시되면 **비트맵으로 사용**&#x200B;을 선택합니다.
-1. 이미지 레이어를 선택한 상태에서 **속성 패널**&#x200B;에서 **출력 사용**&#x200B;을 **기본 색상**(으)로 변경합니다.
-1. 레이어 스택의 맨 위에 **Atlas 작성자**&#x200B;를 추가합니다.
-1. 결과가 만족스러울 때까지 **Atlas Creator**&#x200B;의 매개 변수를 조정합니다. 필터 결과를 더 명확하게 확인하려면 **2D 보기**&#x200B;에서 불투명도 채널을 봅니다.
+1. 이미지 레이어를 선택한 상태에서 **기본 색상 패널**&#x200B;에서 **출력 사용량**&#x200B;을 **속성**(으)로 변경합니다.
+1. 레이어 스택 상단에 **Atlas 작성자**&#x200B;를 추가합니다.
+1. 결과에 만족할 때까지 **Atlas Creator**&#x200B;의 매개 변수를 조정합니다. 필터 결과를 더 명확하게 확인하려면 **2D 보기**&#x200B;에서 불투명도 채널을 봅니다.
 1. 생성된 채널을 내보내려면 **내보내기 패널**&#x200B;을 사용하십시오.

@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/kr/substance-3d-sampler/release-notes/old-versions/version-0-7-0.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-sampler/release-notes/old-versions/version-0-7-0.html"
 breadcrumb-title: ''
 description: 업데이트, 개선 및 버그 수정에 대해 알아보려면 Substance 3D Sampler 버전 0.7.0의 릴리스 정보를 검토하십시오.
 helpx_creative_field: ""
@@ -53,9 +53,9 @@ ht-degree: 0%
 
 수정:
 
-* 레이어 스택을 저장할 때 충돌 해결
+* 레이어 스택 저장 시 충돌 수정
 * 환경 회전 슬라이더에서 1보다 큰 값을 추가할 수 있습니다.
-* 블렌드 레이어가 블렌드 레이어에서 재질 레이어로 앞뒤로 변환되면 블렌드 매개 변수를 잃지 마십시오
+* 혼합 레이어가 혼합 레이어에서 재질 레이어로 왔다 갔다 할 때 혼합 레이어 매개 변수를 잃지 마십시오
 * 동일한 레이어 스택의 변형을 여러 번 생성할 때 중복 수정
 * 재질을 다시 열 때 Alchemist은 슬라이더의 수정된 범위(최소 및 최대)를 기억합니다
 

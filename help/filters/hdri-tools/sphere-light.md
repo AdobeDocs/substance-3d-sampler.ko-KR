@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/kr/substance-3d-sampler/filters/hdri-tools/sphere-light.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-sampler/filters/hdri-tools/sphere-light.html"
 breadcrumb-title: ''
 description: Substance 3D Sampler의 구 모양 조명 도구를 사용하여 구형 광원을 HDRI 환경에 추가하여 포인트 조명 효과를 얻을 수 있습니다.
 helpx_creative_field: ""
@@ -53,7 +53,7 @@ ht-degree: 0%
       조명의 색상을 선택합니다.
   * **이미지 입력**
     * **모양 이미지 입력**: 이미지/브러시\
-      색상으로 사용할 이미지를 가져옵니다. 브러시 도구를 사용하여 **2D 보기**&#x200B;에서 바로 페인트할 수 있지만 이 필터를 사용하면 예기치 않은 결과가 발생할 수 있습니다.
+      색상으로 사용할 이미지를 가져옵니다. 브러시 도구를 사용하여 **2D 보기**&#x200B;에서 직접 페인트를 수행할 수 있지만, 이 필터를 사용하면 예기치 않은 결과가 발생할 수 있습니다.
   * **샘플 배경**
     * 샘플 배경은 새 매개 변수를 사용할 수 있게 하지 않습니다. 대신 배경 값을 밝은 색상으로 사용합니다.
 * **노출(EV)**: 0-10\

@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/kr/substance-3d-sampler/interface/preferences/normal-format.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-sampler/interface/preferences/normal-format.html"
 breadcrumb-title: ''
 description: Substance 3D Sampler에서 DirectX 및 OpenGL 형식 간에 전환하도록 표준 맵 포맷 환경 설정을 구성하는 방법에 대해 알아봅니다.
 helpx_creative_field: ""
@@ -20,7 +20,7 @@ ht-degree: 5%
 
 # 표준 포맷
 
-일반 맵은 <b>DirectX</b> 형식을 사용하여 처리되며, 일반 형식 기본 설정을 변경하여 OpenGL 형식을 가져오고 내보내려면 <b> OpenGL</b> 워크플로를 유지합니다.
+노멀 맵은 <b>DirectX</b> 형식을 사용하여 처리되며, 표준 형식 기본 설정을 변경하여 OpenGL 형식을 가져오고 내보내려면 <b> OpenGL</b> 워크플로를 유지합니다.
 
 *기본값: DirectX*
 
@@ -31,7 +31,7 @@ ht-degree: 5%
 
 ## 이미지 가져오기 레이어
 
-표준 텍스처를 가져오는 경우 표준 포맷은 [환경 설정]에서 선택한 포맷으로 설정됩니다.
+표준 텍스처를 가져오면 [환경 설정]에서 선택한 형식으로 표준 형식이 설정됩니다.
 
 ### 내보내기
 

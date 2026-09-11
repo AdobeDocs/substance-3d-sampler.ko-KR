@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/kr/substance-3d-sampler/interface/panels/assets-panel.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-sampler/interface/panels/assets-panel.html"
 breadcrumb-title: ''
 description: Substance 3D Sampler의 에셋 패널을 사용하여 재질 에셋 및 리소스를 검색, 구성 및 액세스하는 방법을 알아봅니다.
 helpx_creative_field: ""
@@ -39,7 +39,7 @@ ht-degree: 1%
 
 에셋 패널에서 레이어 스택으로 재질을 드래그 앤 드롭하면 추가 채널을 활성화하라는 메시지가 표시될 수 있습니다. 재질이 현재 에셋에서 활성화되지 않은 채널을 출력할 때 제공됩니다. 일부 비등방성 효과나 코팅과 같이 재질의 완전한 복잡성을 활용하려면 이 기능을 활성화해야 할 수도 있습니다.
 
-레이어 스택에 재질이 추가될 때 ![채널 활성화 팝업](../../../help/assets/sampler_assets-panel_additional-channels-activation.png)
+![레이어 스택에 재질이 추가될 때 채널 활성화 팝업](../../../help/assets/sampler_assets-panel_additional-channels-activation.png)
 
 >[!NOTE]
 >

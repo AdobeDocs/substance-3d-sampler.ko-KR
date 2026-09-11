@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/kr/substance-3d-sampler/release-notes/old-versions/version-0-6-1.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-sampler/release-notes/old-versions/version-0-6-1.html"
 breadcrumb-title: ''
 description: 업데이트, 개선 및 버그 수정에 대해 알아보려면 Substance 3D Sampler 버전 0.6.1의 릴리스 정보를 검토하십시오.
 helpx_creative_field: ""
@@ -26,7 +26,7 @@ ht-degree: 0%
 
 * [엔진] 최신 Substance Designer 버전과 호환되도록 Substance 엔진 업데이트
 * [License] 첫 번째 설치를 위한 라이선스 폴더 업데이트
-* [레이어] 언제든지 레이어 스택을 다시 로드하여 사용자 정의 필터를 업데이트합니다
+* [레이어] 레이어 스택에서 언제든지 다시 로드하여 사용자 정의 필터를 업데이트합니다
 
 수정:
 

@@ -1,7 +1,7 @@
 ---
-helpx_url: "https://helpx.adobe.com/kr/substance-3d-sampler/filters/generators/brickwall.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-sampler/filters/generators/brickwall.html"
 breadcrumb-title: ''
-description: Substance 3D Sampler의 벽돌 벽면 생성기를 사용하여 사실적인 벽돌 벽 패턴과 재질을 위한 석조 텍스처를 만들 수 있습니다.
+description: Substance 3D Sampler의 벽돌 텍스처 생성기를 사용하여 사실적인 벽돌 벽 패턴과 재료용 석조 컨테이너를 만듭니다.
 helpx_creative_field: ""
 helpx_description: Sampler > Filters > Generators > Brickwall
 helpx_experience_level: ""
@@ -121,7 +121,7 @@ ht-degree: 0%
 * **표준 강도**: 0-1\
   임계값 필터로 생성된 표준의 강도를 조정합니다. 0이라는 값은 사실상 정규식이 없음을 의미합니다.
 * **주변 오클루전 강도**: 0-1\
-  AO의 강도를 조정합니다. 값을 0으로 지정하면 사실상 앰비언트 오클루전이 없음을 의미합니다.
+  AO의 강도를 조정합니다. 값을 0으로 지정하면 앰비언트 오클루전이 없습니다.
 
 사용 안내서
 

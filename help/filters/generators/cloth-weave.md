@@ -1,7 +1,7 @@
 ---
-helpx_url: "https://helpx.adobe.com/kr/substance-3d-sampler/filters/generators/cloth-weave.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-sampler/filters/generators/cloth-weave.html"
 breadcrumb-title: ''
-description: Substance 3D Sampler의 직조 생성기를 사용하여 재료 생성을 위한 직물 직조 패턴과 섬유 텍스처를 생성합니다.
+description: Substance 3D Sampler의 직조 생성기를 사용하여 재료 생성을 위한 직물 직조 패턴 및 직물 텍스처를 생성합니다.
 helpx_creative_field: ""
 helpx_description: Sampler > Filters > Generators > Cloth Weave
 helpx_experience_level: ""
@@ -85,11 +85,11 @@ ht-degree: 0%
 
 **고급**
 
-* **혼합 모드**&#x200B;**:** 기본 색상 채널의 혼합 모드를 선택합니다. 혼합 모드를 변경하면 직물 직조의 모양이 크게 변경될 수 있습니다.
+* **혼합 모드****:** 기본 색상 채널의 혼합 모드를 선택합니다. 혼합 모드를 변경하면 직물 직조의 모양이 크게 변경될 수 있습니다.
 * **불완전 강도:** 0-1\
   스레드 결함 강도를 설정합니다.
 * **표준 강도:** 0-2\
-  표준 맵의 강도를 조정합니다.
+  노멀 맵 강도를 조정합니다.
 * **Height 위치:** 0-1\
   전체 재질의 Height을 오프셋합니다.
 

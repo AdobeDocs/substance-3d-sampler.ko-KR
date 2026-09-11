@@ -1,7 +1,7 @@
 ---
-helpx_url: "https://helpx.adobe.com/kr/substance-3d-sampler/filters/adjustments/colorize.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-sampler/filters/adjustments/colorize.html"
 breadcrumb-title: ''
-description: Substance 3D Sampler의 [색상화] 필터를 사용하여 색조와 단색 색상화 효과를 텍스처와 재질에 적용합니다.
+description: Substance 3D Sampler의 [색상화] 필터를 사용하여 텍스처 및 재질에 색조 및 단색 색상화 효과를 적용할 수 있습니다.
 helpx_creative_field: ""
 helpx_description: Sampler > Filters > Adjustments > Colorize
 helpx_experience_level: ""
@@ -67,8 +67,8 @@ ht-degree: 1%
 이 섹션에서 사용할 수 있는 매개 변수는 **채널 선택**&#x200B;을 기준으로 변경됩니다.
 
 * **채널 선택**:\
-  필터가 영향을 미치는 채널을 선택합니다. 선택한 채널을 2D 보기에서 보고 필터 결과를 직접 보는 것이 좋습니다.
-  * ***기본 색상/발광 옵션***
+  필터가 영향을 미치는 채널을 선택합니다. 2D 보기에서 선택한 채널을 보고 필터의 결과를 직접 확인하는 것이 좋습니다.
+  * ***기본 색상/방출 옵션***
     * ***채널 이름*** **- 색상**: 색상 선택\
       채널 색상을 지정하는 데 사용할 색상 선택
     * ***채널 이름*** **- 광도 유지**: 전환\

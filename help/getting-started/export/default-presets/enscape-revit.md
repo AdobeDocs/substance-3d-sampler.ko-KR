@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/kr/substance-3d-sampler/getting-started/export/default-presets/enscape-revit.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-sampler/getting-started/export/default-presets/enscape-revit.html"
 breadcrumb-title: ''
 description: 건축 시각화 워크플로우에 Enscape Revit 사전 설정을 사용하여 Substance 3D Sampler에서 재질을 내보내는 방법을 알아봅니다.
 helpx_creative_field: ""
@@ -22,4 +22,4 @@ ht-degree: 5%
 
 | 사전 설정 | 호환성 | 패킹 출력 설명 |
 | --- | --- | --- |
-| 엔스케이프 - 레빗 | <ul data-preserve-html="true"><li data-preserve-html="true">PBR 금속/거칠음</li></ul> | **알베도&#x200B;**&#x200B;**광택**&#x200B;**표준(OpenGL)**&#x200B;**투명도** |
+| 엔스케이프 - 레빗 | <ul data-preserve-html="true"><li data-preserve-html="true">PBR 금속/거칠음</li></ul> | **알베도&#x200B;****광택도****표준(OpenGL)****투명도** |

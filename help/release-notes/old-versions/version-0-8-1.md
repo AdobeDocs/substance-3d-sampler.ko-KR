@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/kr/substance-3d-sampler/release-notes/old-versions/version-0-8-1.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-sampler/release-notes/old-versions/version-0-8-1.html"
 breadcrumb-title: ''
 description: 업데이트, 개선 및 버그 수정에 대해 알아보려면 Substance 3D Sampler 버전 0.8.1의 릴리스 정보를 검토하십시오.
 helpx_creative_field: ""
@@ -27,7 +27,7 @@ ht-degree: 0%
 **고정**:
 
 * [만들기] 일부 필터가 빠른 접근자에는 표시되지만 필터 패널에는 표시되지 않습니다.
-* [MacOS] 종료 시 일부 충돌 문제 해결
+* [MacOS] 종료 시 일부 충돌 해결
 
 **알려진 문제:**
 

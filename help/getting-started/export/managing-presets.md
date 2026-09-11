@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/kr/substance-3d-sampler/getting-started/export/managing-presets.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-sampler/getting-started/export/managing-presets.html"
 breadcrumb-title: ''
 description: Substance 3D Sampler에서 내보내기 사전 설정을 관리하여 다양한 애플리케이션 및 파이프라인에 맞게 재질을 구성하는 방법을 알아봅니다.
 helpx_creative_field: ""
@@ -31,7 +31,7 @@ ht-degree: 1%
 1. <b>내보내기 </b> 창 열기:
    1. <b>오른쪽 표시줄</b>에서 <b>내보내기 패널</b>을 사용합니다.
    1. <b> 파일 > 내보내기 형식...</b> 사용
-   1. 바로 가기 <b>Ctrl + E.</b> 사용
+   1. 단축키 <b>Ctrl + E.</b> 사용
 1. <b>내보내기 </b>창의 왼쪽에서 <b>재질 설정</b>을 선택합니다.
 1. 이미지 형식(EXR, JPEG, PNG, TARGA, TIFF) 선택
 1. [사전 설정] 목록이 나타납니다.

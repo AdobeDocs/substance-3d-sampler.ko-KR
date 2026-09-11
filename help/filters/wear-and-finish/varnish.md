@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/kr/substance-3d-sampler/filters/wear-and-finish/varnish.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-sampler/filters/wear-and-finish/varnish.html"
 breadcrumb-title: ''
 description: Substance 3D Sampler의 광택 필터를 사용하여 광택 광택 효과 및 보호 코팅 마감재를 재료에 추가합니다.
 helpx_creative_field: ""
@@ -52,7 +52,7 @@ ht-degree: 1%
 * **사용자 지정 마스크 사용**: 전환\
   사용자 정의 마스크 사용을 활성화하거나 비활성화합니다. 활성화하면 다음 매개변수가 나타납니다.
   * **마스크**: 이미지/브러시\
-    마스크로 사용할 이미지를 선택하거나 브러시를 사용하여 2D 보기에서 직접 사용자 정의 마스크를 칠합니다.
+    마스크로 사용할 이미지를 선택하거나 브러시를 사용하여 2D 보기에서 직접 사용자 정의 마스크를 페인트 합니다.
   * **사용자 지정 마스크 - 흐림 효과**: 0-1\
     마스크를 흐리게 합니다.
   * **사용자 지정 마스크 - 반전**: 전환\

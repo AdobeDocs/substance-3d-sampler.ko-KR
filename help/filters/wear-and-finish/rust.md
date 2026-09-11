@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/kr/substance-3d-sampler/filters/wear-and-finish/rust.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-sampler/filters/wear-and-finish/rust.html"
 breadcrumb-title: ''
 description: Substance 3D Sampler의 녹 필터를 사용하여 금속 재질과 표면에 사실적인 녹 및 부식 효과를 추가할 수 있습니다.
 helpx_creative_field: ""
@@ -72,7 +72,7 @@ ht-degree: 0%
 * **정상 강도 제거**: 0-1\
   껍질 표준의 가시성을 조정합니다.
 * **필 Height 강도**: 0-1\
-  Height 맵에서 껍질의 영향을 조정합니다.
+  높이 맵에서 필의 영향을 조정합니다.
 
 **드립**
 
@@ -88,7 +88,7 @@ ht-degree: 0%
 * **마스크 사용**: 전환\
   사용자 정의 마스크 사용을 활성화하거나 비활성화합니다. 활성화하면 다음 매개변수가 나타납니다.
   * **마스크**: 이미지/브러시\
-    마스크로 사용할 이미지를 선택하거나 브러시를 사용하여 2D 보기에서 직접 사용자 정의 마스크를 칠합니다.
+    마스크로 사용할 이미지를 선택하거나 브러시를 사용하여 2D 보기에서 직접 사용자 정의 마스크를 페인트 합니다.
   * **사용자 지정 마스크 - 흐림 효과**: 0-1\
     마스크를 흐리게 합니다.
   * **사용자 지정 마스크 - 반전**: 전환\

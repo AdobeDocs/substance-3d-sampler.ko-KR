@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/kr/substance-3d-sampler/pipeline-and-integrations/hp-z-captis-support/faq-hp-z-captis-support-in-sampler.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-sampler/pipeline-and-integrations/hp-z-captis-support/faq-hp-z-captis-support-in-sampler.html"
 breadcrumb-title: ''
 description: Substance 3D Sampler의 HP Z Captis 지원에 대해 자주 묻는 질문에 액세스하여 하드웨어 통합 및 사용에 대한 답변을 찾아보십시오.
 helpx_creative_field: ""
@@ -53,7 +53,7 @@ Captis 디바이스에는 Substance 3D 구독과 동일한 조건 및 사용 약
 +++Adobe Substance 제품군과의 통합 수준은 무엇입니까?
 HP Z Captis 장치는 Adobe Substance 3D Sampler을 통해 완전히 제어되고 작동합니다. Substance 3D Sampler에서 캡처를 미리 보고 시작할 수 있으며, 캡처가 완료되면 자동으로 PBR 채널을 레이어로 로드하고 3D 재질을 만듭니다. Sampler에서 사용할 수 있는 모든 도구와 필터를 사용하여 재질을 계속 처리할 수 있습니다.
 
-캡처한 재질을 Substance 3D Sampler에 저장하면 Substance 3D 제품군(Substance 3D Designer, Painter, Stager)의 모든 애플리케이션과 3DS Max, Maya, Blender, Unreal Engine, CLO, Browzwear, VRED, Rhino, Cinema4D 등 Substance을 지원하는 타사 애플리케이션으로 내보낼 수 있습니다(전체 목록은 <https://www.adobe.com/kr/products/substance3d/plugins.html> 참조).
+캡처한 재질을 Substance 3D Sampler에 저장하면 Substance 3D 제품군(Substance 3D Designer, Painter, Stager)의 모든 애플리케이션과 3DS Max, Maya, Blender, Unreal Engine, CLO, Browzwear, VRED, Rhino, Cinema4D 등 Substance을 지원하는 타사 애플리케이션으로 내보낼 수 있습니다(전체 목록은 <https://www.adobe.com/products/substance3d/plugins.html> 참조).
 
 +++
 
@@ -77,34 +77,34 @@ Sampler 하드웨어 사양은 [여기](system-requirements-to-use-hp-z-captis.m
 
 * HP Z Captis 기반의 Sampler 워크플로는 현재 Windows에서만 사용할 수 있습니다.
 
-* 현재 내보내지는 다섯 개의 맵은 기본 색상, 거칠기, 표준, Height, 불투명도입니다.
+* 오늘 내보낼 5개의 맵은 [기본 색상], [거칠음], [표준], [Height], [불투명도]입니다.
 
 * 탐색기 모드가 아직 초기 버전이며 아직 최적화되지 않았습니다.
 
-* 현재의 타일링 필터를 사용하여 Sampler 레이어 스택에서 타일링을 수행합니다.
+* 타일링은 Sampler 레이어 스택에서 현재의 타일링 필터를 사용하여 수행됩니다.
 
 +++
 
 +++어떤 PBR 채널을 사용할 수 있습니까?
-2025년 8월 7일 릴리스부터 내보내지는 5개의 맵은 기본 색상, 거칠기, 표준, Height, 불투명도입니다. 현재 처리 파이프라인에서 아직 Metalness 맵을 처리하지 않습니다.
+2025년 8월 7일 릴리스부터 내보낼 5개의 맵은 기본 색상, 거칠기, 표준, Height, 불투명도입니다. 현재 처리 파이프라인에서 아직 Metalness 맵을 처리하지 않습니다.
 
 +++
 
 +++타일링은 자동으로 완료됩니까?
-현재의 타일링 필터를 사용하여 Sampler 레이어 스택에서 타일링을 수행합니다.
+타일링은 Sampler 레이어 스택에서 현재의 타일링 필터를 사용하여 수행됩니다.
 
 자동 타일링 필터는 정의된 반복 구조나 작은 패턴으로 각 방향으로 최소 3개의 패턴을 사용하여 재질을 자동으로 타일링하는 데 사용할 수 있습니다. [설명서의 전용 섹션](../../filters/tools/auto-tiling.md)에서 이 필터에 대해 자세히 알아보세요.
 
 +++
 
 +++스캔한 자료를 내보낼 수 있는 형식은 무엇입니까?
-HP Z Captis는 Adobe Substance 3D Sampler이 기본적으로 운영하고 있습니다. HP Z Captis는 64개의 raw 이미지(로컬 폴더에서 검색 가능)와 PBR 맵(Raw 캡처 한 이미지에서 처리되며 Substance 3D Sampler에 자동으로 로드됨)을 캡처합니다. Substance 3D Sampler은 캡처 후 Sampler 레이어 스택에 자동으로 로드되는 PBR 채널을 기반으로 3D 재질을 만듭니다.
+HP Z Captis는 Adobe Substance 3D Sampler이 기본적으로 운영하고 있습니다. HP Z Captis는 64개의 raw 이미지(로컬 폴더에서 검색 가능)와 PBR 맵(Raw 캡처 한 이미지에서 처리되며 Substance 3D Sampler에 자동으로 로드됨)을 캡처합니다. Substance 3D Sampler은 캡처 후 Sampler 레이어 스택에서 자동으로 로드되는 PBR 채널을 기반으로 3D 재질을 만듭니다.
 
-Adobe Substance 3D Sampler에서 디지털 재질을 Substance 3D Sampler에서 사용할 수 있는 모든 내보내기 형식으로 내보낼 수 있습니다. 즉, Substance 파일(.SBS 및 .SBSAR 파일) 또는 .PNG, .JPG, .SBSAR 파일 등 비트맵 텍스처로 내보낼 수 있습니다(Sampler 문서 웹 페이지의 세부 정보: [https://helpx.adobe.com/kr/substance-3d-sampler/getting-started/export.html](../../getting-started/export/export.md) 참조).
+Adobe Substance 3D Sampler에서 디지털 재질을 Substance 3D Sampler에서 사용할 수 있는 모든 내보내기 형식으로 내보낼 수 있습니다. 즉, Substance 파일(.SBS 및 .SBSAR 파일) 또는 .PNG, .JPG, .TIFF 등의 비트맵 텍스처로 내보낼 수 있습니다(Sampler 문서 웹 페이지의 세부 정보: [https://helpx.adobe.com/substance-3d-sampler/getting-started/export.html](../../getting-started/export/export.md) 참조).
 
 +++
 
-+++캡처 중 LDR와 HDR의 차이점은 무엇입니까?
++++캡처 중 LDR과 HDR의 차이점은 무엇입니까?
 미리 보기 중에 LDR(낮은 동적 범위)과 HDR(High Dynamic Range) 중 출력 유형을 선택할 수 있습니다.\
 LDR이 선택되더라도 HDR 맵이 캡처되고 장치에 저장됩니다.\
 Sampler 및 sbsar 파일을 사용할 서드파티 앱에서 프로젝트 크기를 더 쉽게 관리할 수 있도록 LDR을 선택하는 것이 좋습니다.
@@ -116,14 +116,14 @@ Sampler 및 sbsar 파일을 사용할 서드파티 앱에서 프로젝트 크기
 +++특정 파일 형식, 표준 및 사양 또는 타사 응용 프로그램을 사용하는 경우 현재 3D 파이프라인에서 Captis를 사용하려면 어떻게 해야 합니까?
 HP Z Captis는 Adobe Substance 3D Sampler이 기본적으로 운영하고 있습니다. Substance 3D Sampler에서 재질 샘플을 캡처하고 디지털화한 후에는 디지털 재질을 원활하게 내보낼 수 있습니다.
 
-Substance 3D 에코시스템의 모든 응용 프로그램(다양한 내보내기 형식을 지원하는 Substance 3D Designer 또는 Substance 3D Painter 포함: https://experienceleague.adobe.com/ko/docs/substance-3d/general-knowledge/ecosystem/import-and-export-formats).
+Substance 3D 에코시스템의 모든 응용 프로그램(다양한 내보내기 형식을 지원하는 Substance 3D Designer 또는 Substance 3D Painter 포함: https://experienceleague.adobe.com/en/docs/substance-3d/general-knowledge/ecosystem/import-and-export-formats).
 
-3DS Max, Maya, Blender, C4D, Rhino, Browzwear, CLO와 같은 Substance 파일 형식을 통합하는 모든 응용 프로그램에서...(여기 전체 목록 참조: <https://www.adobe.com/kr/products/substance3d/plugins.html>). 여기에 나열되지 않은 응용 프로그램을 사용하는 경우 항상 PBR 텍스처 이미지를 내보내고 Substance 파일 형식을 기본적으로 지원하지 않는 모든 응용 프로그램에서 수동으로 연결할 수 있습니다.
+3DS Max, Maya, Blender, C4D, Rhino, Browzwear, CLO와 같은 Substance 파일 형식을 통합하는 모든 응용 프로그램에서...(여기 전체 목록 참조: <https://www.adobe.com/products/substance3d/plugins.html>). 여기에 나열되지 않은 응용 프로그램을 사용하는 경우 항상 PBR 텍스처 이미지를 내보내고 Substance 파일 형식을 기본적으로 지원하지 않는 응용 프로그램에서 수동으로 연결할 수 있습니다.
 
 +++
 
 +++지도를 만들기 위해 몇 장의 사진을 촬영하고 있는가?
-[8개의 라이트 패널 + 1개의 백라이트] x [8개의 편광 상태] x [HDR에 대한 8개의 브래키팅 노출] x [4개의 중복 그리기를 통해 노이즈 감소] = 2048 + 256(백라이트의 경우)
+[8개의 라이트 패널 + 1개의 백라이트] x [8개의 편광 상태] x [HDR의 8개의 브래키팅 노출] x [노이즈를 줄이기 위해 4개의 중복 그리기] = 2048 + 256(백라이트의 경우)
 
 +++
 

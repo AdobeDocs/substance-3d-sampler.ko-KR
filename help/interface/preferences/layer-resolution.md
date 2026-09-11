@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/kr/substance-3d-sampler/interface/preferences/layer-resolution.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-sampler/interface/preferences/layer-resolution.html"
 breadcrumb-title: ''
 description: Substance 3D Sampler에서 레이어 해상도를 구성하여 재질 스택에서 개별 레이어의 해상도를 제어하는 방법을 알아봅니다.
 helpx_creative_field: ""
@@ -20,7 +20,7 @@ ht-degree: 2%
 
 # 레이어 해상도
 
-레이어 해상도 시스템을 사용하면 레이어 스택에 있는 각 레이어의 해상도를 완전히 제어할 수 있습니다. 레이어는 문서 크기의 해상도를 사용하거나 아래 레이어의 해상도를 사용할 수 있습니다.
+레이어 레이어 스택 시스템을 사용하면 해상도에 있는 각 레이어의 해상도를 완벽하게 제어할 수 있습니다. 레이어는 문서 크기의 해상도를 사용하거나 아래 레이어의 해상도를 사용할 수 있습니다.
 
 해상도는 각 레이어에 표시되어 모든 작업이 재질의 해상도에 의해 어떻게 영향을 받는지 쉽게 시각화할 수 있습니다.
 

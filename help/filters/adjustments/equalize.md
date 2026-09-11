@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/kr/substance-3d-sampler/filters/adjustments/equalize.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-sampler/filters/adjustments/equalize.html"
 breadcrumb-title: ''
 description: Substance 3D Sampler의 균일화 필터를 사용하여 명도 값을 다시 분포하고 이미지 대비를 자동으로 향상합니다.
 helpx_creative_field: ""
@@ -39,11 +39,11 @@ ht-degree: 0%
 
 ![](../../assets/3d-2d-filters-cropped-0033-equalizer-in.jpg)
 
-**균일화 필터**&#x200B;가 추가되기 전에 이 재질의 Height 맵과 기본 색상에 상당한 변형이 있습니다.
+**균일화 필터**&#x200B;가 추가되기 전에 이 재질의 높이 맵과 기본 색상에 상당한 변형이 있습니다.
 
 ![](../../assets/3d-2d-filters-cropped-0032-equalizer-out.jpg)
 
-**균일화 필터**&#x200B;가 추가된 후 Height 맵과 기본 색상 채널 모두 세부 사항의 손실 없이 더 균일해집니다.
+**균일화 필터**&#x200B;가 추가된 후 높이 맵과 기본 색상 채널 모두 세부 사항 손실 없이 더 균일해집니다.
 
 </td>
 </tr>

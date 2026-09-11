@@ -1,7 +1,7 @@
 ---
-helpx_url: "https://helpx.adobe.com/kr/substance-3d-sampler/filters/hdri-tools/plane-light.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-sampler/filters/hdri-tools/plane-light.html"
 breadcrumb-title: ''
-description: Substance 3D Sampler의 평면 조명 도구를 사용하여 영역 조명 효과를 위해 HDRI 환경에 평면 광원을 추가합니다.
+description: Substance 3D Sampler의 평면 조명 도구를 사용하여 영역 조명 효과를 위해 평면 광원을 HDRI 환경에 추가합니다.
 helpx_creative_field: ""
 helpx_description: Sampler > Filters > HDRI Tools > Plane Light
 helpx_experience_level: ""
@@ -57,7 +57,7 @@ ht-degree: 0%
       조명의 색상을 선택합니다.
   * **이미지 입력**
     * **모양 이미지 입력**: 이미지/브러시\
-      색상으로 사용할 이미지를 가져옵니다. 브러시 도구를 사용하여 **2D 보기**&#x200B;에서 바로 페인트할 수 있지만 이 필터를 사용하면 예기치 않은 결과가 발생할 수 있습니다.
+      색상으로 사용할 이미지를 가져옵니다. 브러시 도구를 사용하여 **2D 보기**&#x200B;에서 직접 페인트를 수행할 수 있지만, 이 필터를 사용하면 예기치 않은 결과가 발생할 수 있습니다.
   * **샘플 배경**
     * 샘플 배경은 새 매개 변수를 사용할 수 있게 하지 않습니다. 대신 배경 값을 밝은 색상으로 사용합니다.
 * **위치 모드**:\
@@ -76,7 +76,7 @@ ht-degree: 0%
 * **패턴 경도**: 0-1\
   빛의 가장자리 부드럽게 또는 흐리게 하기
 * **패턴 UV 모드**:\
-  [변형]을 사용하면 전체 모양을 스트레치할지, 아니면 모양의 가운데만 스트레치하여 가장자리와 모퉁이의 세부 묘사를 유지할지 선택할 수 있습니다.
+  전체 모양 또는 가장자리의 중간과 모퉁이 세부 사항만 유지할지 선택합니다.
 
 **위치 좌표**
 

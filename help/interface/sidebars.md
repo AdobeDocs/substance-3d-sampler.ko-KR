@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/kr/substance-3d-sampler/interface/sidebars.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-sampler/interface/sidebars.html"
 breadcrumb-title: ''
 description: Substance 3D Sampler 인터페이스의 왼쪽 및 오른쪽 사이드바에서 도구, 패널 및 애플리케이션 기능을 탐색하는 방법에 대해 알아봅니다.
 helpx_creative_field: ""
@@ -33,9 +33,9 @@ Sampler에는 두 개의 사이드바, 즉 **왼쪽 사이드바**&#x200B;와 **
 * **빠른 작업**&#x200B;에 액세스: 특정 목표를 빠르게 달성하기 위한 작업 컬렉션입니다. [**빠른 작업&#x200B;**](../features-and-workflows/quick-actions.md)**에 대해 자세히 알아보기**
 * 다음과 같이 레이어 스택에 필터를 빠르게 추가합니다.
   * **자르기:** **2D 보기**&#x200B;에서 핸들을 사용하여 이미지와 재질을 자릅니다.
-  * **원근 변환:** **2D 보기의 핸들로 원근 오류를 수정합니다.**
-  * **변형:** **2D 보기에서 핸들을 사용하여 이미지와 재질 크기를 조정합니다.**
-  * **복제 도장:** **2D 보기**&#x200B;에서 영역을 페인팅하여 이음새 또는 기타 문제를 해결합니다.
+  * **원근감 변환:** **2D 보기**&#x200B;에서 핸들이 있는 원근감 오류를 수정했습니다.
+  * **이미지 크기 조정:** 핸들이 있는 재질 **2D 보기**
+  * **복제 스탬프:** **2D 보기**&#x200B;의 영역을 페인트 하여 이음새 또는 기타 문제를 해결합니다.
 * 다음 패널이 닫히면 다시 엽니다.
   * [**빠른 작업 패널**.](panels/quick-actions-panel.md)
   * [**프로젝트 패널**.](panels/project-panel.md)

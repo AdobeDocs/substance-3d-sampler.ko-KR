@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/kr/substance-3d-sampler/filters/adjustments.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-sampler/filters/adjustments.html"
 breadcrumb-title: ''
 description: Substance 3D Sampler에서 조정 필터를 사용하여 색상, 명도, 대비 및 기타 재질 속성을 수정하는 방법을 살펴봅니다.
 helpx_creative_field: ""
@@ -20,7 +20,7 @@ ht-degree: 6%
 
 # 조정
 
-조정 필터를 사용하면 재질의 값을 조정할 수 있습니다. 대부분의 조정 필터를 사용하면 특정 채널을 대상으로 지정하여 재질의 모양을 완벽하게 제어할 수 있습니다. 특정 채널을 조정할 때는 **3D 보기**&#x200B;에만 의존하는 대신 **2D 보기**&#x200B;를 사용하여 수정할 채널을 보는 것이 좋습니다. **2D 보기**&#x200B;를 사용하면 채널의 오류나 문제를 쉽게 발견할 수 있습니다.
+조정 필터를 사용하면 재질의 값을 조정할 수 있습니다. 대부분의 조정 필터를 사용하면 특정 채널을 대상으로 지정하여 재질의 모양을 완벽하게 제어할 수 있습니다. 특정 채널을 조정할 때는 **3D 보기**&#x200B;에만 의존하는 대신 **2D 보기**&#x200B;을 사용하여 수정하고 있는 채널을 보는 것이 좋습니다. **2D 보기**&#x200B;을 사용하면 채널의 오류나 문제를 쉽게 발견할 수 있습니다.
 
 다음은 조정 필터 목록입니다.
 

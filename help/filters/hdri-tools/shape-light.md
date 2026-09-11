@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/kr/substance-3d-sampler/filters/hdri-tools/shape-light.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-sampler/filters/hdri-tools/shape-light.html"
 breadcrumb-title: ''
 description: Substance 3D Sampler의 모양 조명 도구를 사용하여 창의적인 조명을 위해 HDRI 환경에 사용자 정의 모양의 광원을 추가합니다.
 helpx_creative_field: ""
@@ -53,7 +53,7 @@ ht-degree: 0%
       조명의 색상을 선택합니다.
   * **이미지 입력**
     * **모양 이미지 입력**: 이미지/브러시\
-      색상으로 사용할 이미지를 가져옵니다. 브러시 도구를 사용하여 **2D 보기**&#x200B;에서 바로 페인트할 수 있지만 이 필터를 사용하면 예기치 않은 결과가 발생할 수 있습니다.
+      색상으로 사용할 이미지를 가져옵니다. 브러시 도구를 사용하여 **2D 보기**&#x200B;에서 직접 페인트를 수행할 수 있지만, 이 필터를 사용하면 예기치 않은 결과가 발생할 수 있습니다.
 * **핫스팟 노출(EV)**: 0-10\
   핫스폿의 노출을 조정합니다. 핫스폿은 때때로 보기가 어렵거나 불가능할 수 있습니다. 새로운 **모양 조명 필터**&#x200B;에서는 **모양 온도**&#x200B;를 1000으로 설정하고 **핫스팟 노출** **(EV)**&#x200B;을(를) 10으로 설정하여 모양의 중앙에서 핫스폿을 봅니다.
 * **모양**:\

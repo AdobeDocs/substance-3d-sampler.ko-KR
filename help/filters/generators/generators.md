@@ -1,7 +1,7 @@
 ---
-helpx_url: "https://helpx.adobe.com/kr/substance-3d-sampler/filters/generators.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-sampler/filters/generators.html"
 breadcrumb-title: ''
-description: Substance 3D Sampler에서 생성기 필터를 사용하여 절차 패턴과 재질 기초를 만드는 방법을 알아봅니다.
+description: Substance 3D Sampler에서 제네레이터 필터를 사용하여 프로시저 패턴 및 재질 기초를 만드는 방법을 알아봅니다.
 helpx_creative_field: ""
 helpx_description: Sampler > Filters > Generators
 helpx_experience_level: ""
@@ -30,7 +30,7 @@ ht-degree: 3%
 변환 생성기는 다음과 같습니다.
 
 * [벽돌](brickwall.md)
-* [바닥 타일](floor-tiles.md)
+* [Floor 타일](floor-tiles.md)
 * [패널](panel.md)
 * [쪽매](parquet.md)
 * [인도](pavement.md)

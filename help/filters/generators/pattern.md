@@ -1,7 +1,7 @@
 ---
-helpx_url: "https://helpx.adobe.com/kr/substance-3d-sampler/filters/generators/pattern.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-sampler/filters/generators/pattern.html"
 breadcrumb-title: ''
-description: Substance 3D Sampler의 패턴 생성기를 사용하여 절차적 패턴을 만들고 재료 텍스처에 대한 반복 디자인을 만듭니다.
+description: Substance 3D Sampler의 패턴 생성기를 사용하여 재질 텍스처에 대해 프로시저 패턴 및 반복 디자인을 만들 수 있습니다.
 helpx_creative_field: ""
 helpx_description: Sampler > Filters > Generators > Pattern
 helpx_experience_level: ""
@@ -35,7 +35,7 @@ ht-degree: 1%
 
 사용 가능한 옵션 중 하나에서 재질에 패턴을 추가하거나 이미지 또는 브러시를 사용하여 나만의 패턴을 사용자 정의합니다.
 
-*데님에 적용된&#x200B;**패턴 필터**&#x200B;의 예*
+*데님에 적용된&#x200B;**패턴 필터**의 예*
 
 <table>
 <tr style="border: 0;">
@@ -62,7 +62,7 @@ ht-degree: 1%
 
 * <b>임의 시드</b>: 0-1\
   임의식은 이 필터에서 임의성을 사용하는 다른 매개 변수의 임의값을 결정합니다.
-* <b>패턴 </b>: 이미지 피커 및/또는 페인트\
+* <b>패턴 </b>: 이미지 선택 및/또는 페인트\
   텍스처 생성기에서 패턴을 선택하거나 패턴 가져오기
 * <b>색상 모드 선택 </b>: 재질 또는 색상만\
   <b>재질</b> 모드는 모든 *PBR 채널*&#x200B;에 영향을 주고 <b>색상만</b> 모드는 재질의 *BaseColor*&#x200B;에만 영향을 줍니다.
@@ -83,6 +83,6 @@ ht-degree: 1%
 * <b>엠보스 강도: </b>0-1<b>\
   </b>선택한 색상의 엠보싱 강도를 조정합니다. <b> 색상 양에 따라 다릅니다.</b>
 * <b>엠보스 거리: </b>0-1\
-  <b> 색상 양</b>에 따라 선택한 색상의 엠보싱 영역을 늘리고 매끄럽게 합니다.
+  선택한 색상의 보정 및 보정<b> 색상 양</b>
 * <b>엠보스 그레인: </b>0-1\
   <b>색상 양</b>에 따라 선택한 색상으로 그레인을 추가합니다.

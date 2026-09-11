@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/kr/substance-3d-sampler/interface/preferences.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-sampler/interface/preferences.html"
 breadcrumb-title: ''
 description: Substance 3D Sampler에서 환경 설정을 구성하여 애플리케이션 설정을 사용자 정의하고 작업 과정을 최적화하는 방법에 대해 알아봅니다.
 helpx_creative_field: ""
@@ -59,9 +59,9 @@ ht-degree: 3%
     응용 프로그램에 사용되는 기본 해상도 전략을 설정합니다.
   * **기본 재질 모델**
     재료를 생성하거나 빠른 작업으로 재질 모델을 선택해야 하는 경우 사용할 기본 모델을 설정합니다.
-  * **기본 질감 타일링 - U**\
+  * **기본 재질 텍스처 타일링 - U**\
     기본 U 텍스처 타일링을 설정합니다.
-  * **기본 질감 타일링 - V**\
+  * **기본 재질 텍스처 타일링 - V**\
     기본 V 텍스처 타일링을 설정합니다.
   * **기본 Height 비율**\
     재질에 대한 기본 Height 비율을 설정합니다.

@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/kr/substance-3d-sampler/filters/tools/warp.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-sampler/filters/tools/warp.html"
 breadcrumb-title: ''
 description: Substance 3D Sampler의 뒤틀기 도구를 사용하여 텍스처 및 재질 레이어에 방향 뒤틀기 및 왜곡 효과를 적용합니다.
 helpx_creative_field: ""
@@ -50,7 +50,7 @@ ht-degree: 1%
 * **노이즈 비율**: 0-10\
   소스 노이즈의 비율을 조정합니다. 노이즈는 항상 바둑판식으로 표시됩니다.
 * **유형**:\
-  재질을 뒤트는 데 사용할 방법을 선택합니다. **방향 뒤틀기** 또는 **다중 방향 뒤틀기**&#x200B;를 선택하면 추가 매개 변수가 나타납니다.
+  재질을 뒤트는 데 사용할 방법을 선택합니다. **방향성 뒤틀기** 또는 **다중 방향성 뒤틀기**&#x200B;을 선택하면 추가 매개 변수가 표시됩니다.
   * **뒤틀기 각도**: 0-1\
     뒤틀기가 발생하는 방향 조정
 * **강도**: 0-1\

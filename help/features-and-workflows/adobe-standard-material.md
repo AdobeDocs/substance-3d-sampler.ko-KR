@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/kr/substance-3d-sampler/features-and-workflows/adobe-standard-material.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-sampler/features-and-workflows/adobe-standard-material.html"
 breadcrumb-title: ''
 description: Substance 3D Sampler에서 Adobe Standard Material을 사용하여 Adobe의 재질 표준과 호환되는 재질을 만드는 방법을 알아봅니다.
 helpx_creative_field: ""
@@ -22,7 +22,7 @@ ht-degree: 1%
 
 >[!NOTE]
 >
-> 이제 Substance 3D Sampler은 Adobe 표준 재질이 아닌 [OpenPBR](openpbr.md) 재질 모델으로 기본 설정됩니다.
+> 이제 Substance 3D Sampler은 Adobe Standard Material 대신 [OpenPBR](openpbr.md) 재질 모델으로 기본 설정됩니다.
 
 
 ## 표준 재질 속성
@@ -77,7 +77,7 @@ ht-degree: 1%
 
 **표준 및 Height 결합**
 
-Height 텍스처 위에 표준 텍스처를 적용합니다.
+텍스처 텍스처 맨 위에 일반 Height을 적용합니다.
 
 **Height**
 
@@ -89,11 +89,11 @@ Height 텍스처 위에 표준 텍스처를 적용합니다.
 
 **Height 수준**
 
-변위 0을 나타내는 Height 텍스처 값입니다.
+0 변위를 나타내는 Height 텍스처 값입니다.
 
-**비등방성 수준**
+**비등방성 레벨**
 
-반사하는 양이 서피스를 따라 한 방향으로 늘어납니다.
+표면을 따라 한 방향으로 반사가 일어나는 양입니다.
 
 ![](../assets/surface-anisotropy.jpg)
 
@@ -133,7 +133,7 @@ Height 텍스처 위에 표준 텍스처를 적용합니다.
 
 ## 내부 속성
 
-**투명도**
+**반투명도**
 
 표면을 투과할 수 있는 빛의 양입니다.
 
@@ -203,19 +203,19 @@ Height 텍스처 위에 표준 텍스처를 적용합니다.
 
 ## 코트 속성
 
-**코트 불투명도**
+**코팅 불투명도**
 
 재질 위의 레이어를 시뮬레이션합니다. 명확한 코트, 래커 및 바니시를 만드는 데 사용됩니다.
 
 ![](../assets/coat-coatopacity.jpg)
 
-**코트 색상**
+**코팅 색상**
 
 코트의 색상입니다.
 
 ![](../assets/coat-coatcolor.jpg)
 
-**코트 거칠음**
+**코팅 거칠기**
 
 코트 표면의 매끄럽거나 매트한 정도를 지정합니다.
 
@@ -227,18 +227,18 @@ Height 텍스처 위에 표준 텍스처를 적용합니다.
 
 ![](../assets/cooat-coatior.jpg)
 
-**코트 Specular level**
+**코팅 반사 수준**
 
 털의 반짝이는 각도에서 빛의 반사 강도입니다.
 
 ![](../assets/coat-coatspecular.jpg)
 
-**정상 외투**
+**코팅 정상**
 
 코트 표면의 범프 및 균열과 같은 표면 세부 사항을 시뮬레이션합니다.
 
 ![](../assets/coat-coatnormal.jpg)
 
-**보통 비율 적용**
+**코팅 정상 크기**
 
-코트 표준 효과의 강도입니다.
+코팅 정상 효과의 강도입니다.

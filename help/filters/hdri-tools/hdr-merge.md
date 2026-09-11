@@ -1,7 +1,7 @@
 ---
-helpx_url: "https://helpx.adobe.com/kr/substance-3d-sampler/filters/hdri-tools/hdr-merge.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-sampler/filters/hdri-tools/hdr-merge.html"
 breadcrumb-title: ''
-description: Substance 3D Sampler의 HDR 병합 도구를 사용하여 여러 노출 이미지를 단일 High Dynamic Range 이미지로 병합합니다.
+description: Substance 3D Sampler의 HDR 병합 도구를 사용하여 여러 노출 이미지를 단일 High Dynamic Range 이미지로 병합할 수 있습니다.
 helpx_creative_field: ""
 helpx_description: Sampler > Filters > HDRI Tools > HDR Merge
 helpx_experience_level: ""
@@ -39,11 +39,11 @@ ht-degree: 2%
 
 ![](../../assets/3d-2d-filters-cropped-0027-hdr-merge-in.jpg)
 
-**HDR 병합**&#x200B;이 완료되기 전에 **3D 보기**&#x200B;의 구가 기본 환경 조명을 반사합니다. **2D 보기**&#x200B;는 기본적으로 첫 번째 스캔 이미지에 대해 가져온 이미지 데이터를 표시하며, 이 경우 가장 낮은 노출 이미지입니다.
+**HDR 병합**&#x200B;이 완료되기 전에 **3D 보기**&#x200B;의 구가 기본 환경 조명을 반영합니다. **2D 보기**&#x200B;은 기본적으로 첫 번째 스캔 이미지에 대해 가져온 이미지 데이터를 표시합니다. 이 경우 가장 낮은 노출 이미지입니다.
 
 ![](../../assets/3d-2d-filters-cropped-0026-hdr-merge-out.jpg)
 
-**HDR 병합** **필터**&#x200B;이 추가되면 구는 입력 이미지에서 생성된 HDR 이미지인 새 환경 조명을 반사합니다.
+**HDR 병합** **필터**&#x200B;이 추가되면 구는 입력 이미지에서 생성된 HDR 이미지인 새 환경 조명을 반영합니다.
 
 </td>
 </tr>
@@ -62,10 +62,10 @@ ht-degree: 2%
 
 ## 사용 안내서
 
-이 영상을 보고 **HDR 병합 필터**&#x200B;와 SDR 이미지를 HDR 환경 조명으로 변환하는 데 도움이 되는 다른 필터를 사용하는 방법을 알아보십시오.
+SDR 이미지를 HDR 환경 조명으로 변환하는 데 도움이 되는 다른 필터뿐만 아니라 **HDR 병합 필터**&#x200B;를 사용하는 방법을 알아보려면 이 과정을 시청하십시오.
 
 **HDR 병합** **필터**&#x200B;를 사용하는 기본 단계는 다음과 같습니다.
 
-1. 레이어 스택으로 병합할 이미지 세트를 가져옵니다.
+1. 병합할 이미지 집합을 레이어 스택으로 가져옵니다.
 1. **HDR 병합 필터**&#x200B;를 레이어 스택에 추가합니다.
 1. 노출 값이 정확하도록 매개 변수를 수정합니다.

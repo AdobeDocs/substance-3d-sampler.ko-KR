@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/kr/substance-3d-sampler/interface/panels/properties-panel.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-sampler/interface/panels/properties-panel.html"
 breadcrumb-title: ''
 description: Substance 3D Sampler의 속성 패널을 사용하여 필터 매개 변수 및 재질 속성을 보고 편집하는 방법을 알아봅니다.
 helpx_creative_field: ""
@@ -35,7 +35,7 @@ ht-degree: 0%
 </td>
 <td style="border: 0;" valign="top">
 
-**레이어 패널**&#x200B;의 이 이미지에서 레이어 스택의 각 아이콘에는 재질의 모양을 제어하는 서로 다른 매개 변수 집합이 있습니다. 예를 들어 클레이 레이어에는 재질 아이콘과 블렌드 아이콘이 모두 있으며, 이들 아이콘 각각에는 별도의 매개 변수가 있습니다. [롤 페인트] 레이어에도 [재질] 아이콘과 [혼합] 아이콘이 모두 있지만 이 레이어는 호버 상태이므로 가시성 전환도 있습니다.
+**레이어 패널**&#x200B;의 이 이미지에서 레이어 스택의 각 아이콘에는 재질의 모양을 제어하는 서로 다른 매개 변수 집합이 있습니다. 예를 들어 클레이 레이어에는 재질 아이콘과 블렌드 아이콘이 모두 있으며, 이들 아이콘 각각에는 별도의 매개 변수가 있습니다. [롤] 레이어 페인팅에도 [재질] 및 [혼합] 아이콘이 모두 있지만 마우스로 가리키고 있기 때문에 가시성 전환도 있습니다.
 
 </td>
 </tr>

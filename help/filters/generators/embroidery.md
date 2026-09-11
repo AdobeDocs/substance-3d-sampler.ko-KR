@@ -1,7 +1,7 @@
 ---
-helpx_url: "https://helpx.adobe.com/kr/substance-3d-sampler/filters/generators/embroidery.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-sampler/filters/generators/embroidery.html"
 breadcrumb-title: ''
-description: Substance 3D Sampler의 자수 생성기를 사용하여 자수 직물 패턴과 재료의 스티칭 텍스처를 생성합니다.
+description: Substance 3D Sampler의 자수 생성기를 사용하여 자수 직물 패턴과 재질의 스티칭 텍스처를 만듭니다.
 helpx_creative_field: ""
 helpx_description: Sampler > Filters > Generators > Embroidery
 helpx_experience_level: ""
@@ -43,7 +43,7 @@ ht-degree: 0%
 
 ![](../../assets/3d-2d-filters-cropped-0034-embroidery-out.jpg)
 
-위의 이미지에서 **자수 필터**&#x200B;가 레이어 스택에 추가되어 소스 이미지를 자수 패치로 변환했습니다. 소스 이미지는 불투명했지만 **자수 필터**&#x200B;의 출력에는 투명도가 있습니다.
+위의 이미지에서 **자수 필터**&#x200B;이(가) 레이어 스택에 추가되었으며 소스 이미지를 자수 패치로 변환했습니다. 소스 이미지는 불투명했지만 **자수 필터**&#x200B;의 출력에는 투명도가 있습니다.
 
 </td>
 </tr>
@@ -61,7 +61,7 @@ ht-degree: 0%
 * <b>임의화</b>:\
   이 필터의 다른 모든 임의 매개 변수가 기반으로 하는 임의 초기값입니다.
 * <b>이미지</b>: 이미지/마스크\
-  시스템에서 이미지를 선택하거나 사용자 정의 마스크를 페인팅합니다.
+  시스템에서 이미지를 선택하거나 사용자 정의 마스크를 페인트 합니다.
 * <b>색상 수</b>: 1-8\
   자수 필터는 가져온 이미지를 개별 색상으로 분할합니다. 사용된 색상 수를 변경하려면 이 값을 수정합니다.
 * <b>밀도</b>: 80-300\
@@ -94,7 +94,7 @@ ht-degree: 0%
   [거칠음] 값을 변경하여 자수를 거칠거나 광택이 나게 합니다.
 * <b>금속: </b>0-1\
   [금속] 값을 변경하여 스레드에 금속 느낌을 추가합니다.
-* <b>비등방성 수준: </b>0-1\
+* <b>비등방성 레벨: </b>0-1\
   비등방성 레벨을 변경하여 금속성을 강조합니다.
 
 <b>고급</b>
