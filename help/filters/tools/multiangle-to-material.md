@@ -26,7 +26,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
-> 이 문서](https://www.adobe.com/products/substance3d/magazine/your-smartphone-is-a-material-scanner-vol-ii.html)에서 [자체 재질 스캐너를 만드는 방법에 대한 자세한 정보를 찾을 수 있습니다.
+> 이 문서[&#128279;](https://www.adobe.com/products/substance3d/magazine/your-smartphone-is-a-material-scanner-vol-ii.html)에서 자체 재질 스캐너를 만드는 방법에 대한 자세한 정보를 찾을 수 있습니다.
 
 ## 예
 

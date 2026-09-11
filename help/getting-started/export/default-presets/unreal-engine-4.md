@@ -22,4 +22,4 @@ ht-degree: 4%
 
 | 사전 설정 | 호환성 | 패킹 출력 설명 |
 | --- | --- | --- |
-| 언리얼 엔진 | <ul data-preserve-html="true"><li data-preserve-html="true">PBR 금속/거칠음</li></ul> | **BaseColor****OcclusionRoughnessMetallic:**<ul data-preserve-html="true"><li data-preserve-html="true"><strong>R</strong>: 앰비언트 오클루전</li><li data-preserve-html="true"><strong>G</strong>: 거칠음</li><li data-preserve-html="true"><strong>B</strong>: 금속</li></ul>**일반&#x200B;****Height****방출** |
+| 언리얼 엔진 | <ul data-preserve-html="true"><li data-preserve-html="true">PBR 금속/거칠음</li></ul> | **BaseColor**&#x200B;**OcclusionRoughnessMetallic:**<ul data-preserve-html="true"><li data-preserve-html="true"><strong>R</strong>: 앰비언트 오클루전</li><li data-preserve-html="true"><strong>G</strong>: 거칠음</li><li data-preserve-html="true"><strong>B</strong>: 금속</li></ul>**일반&#x200B;**&#x200B;**Height**&#x200B;**방출** |

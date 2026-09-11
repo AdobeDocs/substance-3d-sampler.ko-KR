@@ -22,4 +22,4 @@ ht-degree: 6%
 
 | 사전 설정 | 호환성 | 패킹 출력 설명 |
 | --- | --- | --- |
-| Redshift | <ul data-preserve-html="true"><li data-preserve-html="true">PBR 금속/거칠음</li></ul> | **확산&#x200B;****반사 거칠음****금속도&#x200B;****보통****변위&#x200B;****발광****불투명도** |
+| Redshift | <ul data-preserve-html="true"><li data-preserve-html="true">PBR 금속/거칠음</li></ul> | **확산&#x200B;**&#x200B;**반사 거칠음**&#x200B;**금속도&#x200B;**&#x200B;**보통**&#x200B;**변위&#x200B;**&#x200B;**발광**&#x200B;**불투명도** |

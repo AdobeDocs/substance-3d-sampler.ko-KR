@@ -22,7 +22,7 @@ ht-degree: 2%
 
 | 사전 설정 | 호환성 | 패킹 출력 설명 |
 | --- | --- | --- |
-| Corona 렌더러 | <ul data-preserve-html="true"><li data-preserve-html="true">PBR 금속/거칠음</li><li data-preserve-html="true">PBR Specular/광택도</li></ul> | ******반사 매끄러움** (\*)**반사 색상** (\*\*)**프레넬 색상** (\*\*\*)**표준&#x200B;****변위****&#x200B;방출****불투명도** |
+| Corona 렌더러 | <ul data-preserve-html="true"><li data-preserve-html="true">PBR 금속/거칠음</li><li data-preserve-html="true">PBR Specular/광택도</li></ul> | **&#x200B;**&#x200B;**반사 매끄러움** (\*)**반사 색상** (\*\*)**프레넬 색상** (\*\*\*)**표준&#x200B;**&#x200B;**변위**&#x200B;**&#x200B;방출**&#x200B;**불투명도** |
 
 >[!NOTE]
 >

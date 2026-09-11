@@ -141,6 +141,6 @@ ht-degree: 0%
 
 | 액션 | Windows + Linux | MacOs |
 | --- | --- | --- |
-| 브러시 크기 늘리기 | ] 또는 Ctrl + 마우스 휠 | ] 또는 Cmd + 마우스 휠 |
-| 브러시 크기 줄이기 | [ 또는 Ctrl + 마우스 휠 | [ 또는 Cmd + 마우스 휠 |
+| 브러시 크기 늘리기 | &rbrack; 또는 Ctrl + 마우스 휠 | &rbrack; 또는 Cmd + 마우스 휠 |
+| 브러시 크기 줄이기 | &lbrack; 또는 Ctrl + 마우스 휠 | &lbrack; 또는 Cmd + 마우스 휠 |
 | 소스 설정 | Ctrl + 왼쪽 클릭 | Cmd + 왼쪽 클릭 |
