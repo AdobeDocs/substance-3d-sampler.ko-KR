@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-sampler/features-and-workflows/use-as-bitmap.html"
+helpx_url: "https://helpx.adobe.com/kr/substance-3d-sampler/features-and-workflows/use-as-bitmap.html"
 breadcrumb-title: ''
 description: Substance 3D Sampler에서 [비트맵으로 사용] 기능을 사용하여 효율적인 재질 편집을 위해 레이어를 비트맵 형식으로 변환하는 방법을 알아봅니다.
 helpx_creative_field: ""

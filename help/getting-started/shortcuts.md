@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-sampler/getting-started/shortcuts.html"
+helpx_url: "https://helpx.adobe.com/kr/substance-3d-sampler/getting-started/shortcuts.html"
 breadcrumb-title: ''
 description: Substance 3D Sampler의 키보드 단축키에 액세스하여 워크플로우 속도를 높이고 재질 제작 효율성을 개선합니다.
 helpx_creative_field: ""

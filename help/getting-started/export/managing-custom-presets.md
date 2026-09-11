@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-sampler/getting-started/export/managing-custom-presets.html"
+helpx_url: "https://helpx.adobe.com/kr/substance-3d-sampler/getting-started/export/managing-custom-presets.html"
 breadcrumb-title: ''
 description: Substance 3D Sampler에서 작업 과정 최적화를 위한 Substance Designer을 사용하여 사용자 정의 내보내기 사전 설정을 만들고 편집하는 방법을 알아보십시오.
 helpx_creative_field: ""

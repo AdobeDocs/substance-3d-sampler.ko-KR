@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-sampler/filters/tools/height-to-normal.html"
+helpx_url: "https://helpx.adobe.com/kr/substance-3d-sampler/filters/tools/height-to-normal.html"
 breadcrumb-title: ''
 description: Substance 3D Sampler에서 일반 Height 도구를 사용하여 높이 맵을 재질 제작 워크플로우에 사용할 노멀 맵으로 변환할 수 있습니다.
 helpx_creative_field: ""

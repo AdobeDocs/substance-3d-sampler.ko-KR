@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-sampler/interface/panels/assets-panel.html"
+helpx_url: "https://helpx.adobe.com/kr/substance-3d-sampler/interface/panels/assets-panel.html"
 breadcrumb-title: ''
 description: Substance 3D Sampler의 에셋 패널을 사용하여 재질 에셋 및 리소스를 검색, 구성 및 액세스하는 방법을 알아봅니다.
 helpx_creative_field: ""

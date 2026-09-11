@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-sampler/home.html"
+helpx_url: "https://helpx.adobe.com/kr/substance-3d-sampler/home.html"
 breadcrumb-title: ''
 description: Substance 3D Sampler을 사용하여 이미지에서 재질을 만들고, 환경 조명을 편집하고, 재질 라이브러리를 빌드해 보세요.
 helpx_creative_field: ""

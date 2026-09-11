@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-sampler/release-notes/old-versions/version-2019-1.html"
+helpx_url: "https://helpx.adobe.com/kr/substance-3d-sampler/release-notes/old-versions/version-2019-1.html"
 breadcrumb-title: ''
 description: 프로젝트 관리, 레이어 스택 개선 사항 및 Delighter 업데이트에 대해 알아보려면 Substance 3D Sampler 버전 2019.1의 릴리스 정보를 검토하십시오.
 helpx_creative_field: ""
@@ -73,7 +73,7 @@ ht-degree: 0%
 
 ![](../../assets/sa-notes-viewport.jpg)
 
-뷰포트에 몇 가지 새로운 기능이 추가되어 사용이 개선되었습니다. 이러한 새 설정은 [뷰어 설정 패널](https://helpx.adobe.com/substance-3d/unlisted/documentation/sadoc/viewer-settings-188973164.html)에서 액세스할 수 있습니다.
+뷰포트에 몇 가지 새로운 기능이 추가되어 사용이 개선되었습니다. 이러한 새 설정은 [뷰어 설정 패널](https://helpx.adobe.com/kr/substance-3d/unlisted/documentation/sadoc/viewer-settings-188973164.html)에서 액세스할 수 있습니다.
 
 * **카메라 모드**\
   카메라 투영 모드를 통해 원근감 및 직교 중 하나를 선택할 수 있습니다.

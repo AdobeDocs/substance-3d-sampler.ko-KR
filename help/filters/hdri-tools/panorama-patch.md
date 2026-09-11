@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-sampler/filters/hdri-tools/panorama-patch.html"
+helpx_url: "https://helpx.adobe.com/kr/substance-3d-sampler/filters/hdri-tools/panorama-patch.html"
 breadcrumb-title: ''
 description: Substance 3D Sampler의 파노라마 패치 도구를 사용하여 파노라마 HDRI 환경 이미지의 영역을 패치하고 복구할 수 있습니다.
 helpx_creative_field: ""

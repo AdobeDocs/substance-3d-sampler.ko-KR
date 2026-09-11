@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-sampler/getting-started/export/default-presets/blender-cycles-eevee.html"
+helpx_url: "https://helpx.adobe.com/kr/substance-3d-sampler/getting-started/export/default-presets/blender-cycles-eevee.html"
 breadcrumb-title: ''
 description: 블렌더 호환성을 위해 [블렌더 주기/이벤트] 사전 설정을 사용하여 Substance 3D Sampler에서 재질을 내보내는 방법을 알아봅니다.
 helpx_creative_field: ""

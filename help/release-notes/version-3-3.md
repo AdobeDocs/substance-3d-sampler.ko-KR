@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-sampler/release-notes/version-3-3.html"
+helpx_url: "https://helpx.adobe.com/kr/substance-3d-sampler/release-notes/version-3-3.html"
 breadcrumb-title: ''
 description: 새로운 도구, 콘텐츠 및 재질 제작 기능에 대해 알아보려면 Substance 3D Sampler 버전 3.3의 릴리스 정보를 검토하십시오.
 helpx_creative_field: ""

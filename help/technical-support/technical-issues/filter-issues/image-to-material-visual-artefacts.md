@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-sampler/technical-support/technical-issues/filter-issues/image-to-material-visual-artefacts.html"
+helpx_url: "https://helpx.adobe.com/kr/substance-3d-sampler/technical-support/technical-issues/filter-issues/image-to-material-visual-artefacts.html"
 breadcrumb-title: ''
 description: Substance 3D Sampler에서 이미지의 시각적 아티팩트를 [재질]로 변경하여 색상 및 품질 문제를 해결하는 방법에 대해 알아봅니다.
 helpx_creative_field: ""

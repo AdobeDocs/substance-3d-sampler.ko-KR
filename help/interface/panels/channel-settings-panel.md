@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-sampler/interface/panels/channel-settings-panel.html"
+helpx_url: "https://helpx.adobe.com/kr/substance-3d-sampler/interface/panels/channel-settings-panel.html"
 breadcrumb-title: ''
 description: Substance 3D Sampler의 채널 설정 패널을 사용하여 재질 채널을 관리하고 채널 가시성을 제어하는 방법을 알아봅니다.
 helpx_creative_field: ""

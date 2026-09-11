@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-sampler/interface/tools-and-widgets/sliders.html"
+helpx_url: "https://helpx.adobe.com/kr/substance-3d-sampler/interface/tools-and-widgets/sliders.html"
 breadcrumb-title: ''
 description: Substance 3D Sampler에서 슬라이더를 사용하여 필터 매개 변수와 재질 속성을 정밀하게 제어하는 방법을 알아봅니다.
 helpx_creative_field: ""

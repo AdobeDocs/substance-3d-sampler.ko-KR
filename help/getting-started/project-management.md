@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-sampler/getting-started/project-management.html"
+helpx_url: "https://helpx.adobe.com/kr/substance-3d-sampler/getting-started/project-management.html"
 breadcrumb-title: ''
 description: 컬렉션을 사용하여 효율적인 워크플로우를 위해 에셋 및 재질을 구성하여 Substance 3D Sampler에서 프로젝트를 관리하는 방법을 알아봅니다.
 helpx_creative_field: ""

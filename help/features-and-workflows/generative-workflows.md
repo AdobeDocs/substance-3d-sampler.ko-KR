@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-sampler/features-and-workflows/generative-workflows.html"
+helpx_url: "https://helpx.adobe.com/kr/substance-3d-sampler/features-and-workflows/generative-workflows.html"
 breadcrumb-title: ''
 description: 텍스트에서 텍스처으로, 텍스트에서 패턴으로, 이미지에서 텍스처으로 기능을 제공하는 Substance 3D Sampler의 생성 워크플로우를 사용하는 방법을 살펴보세요.
 helpx_creative_field: ""

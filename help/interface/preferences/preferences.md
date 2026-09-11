@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-sampler/interface/preferences.html"
+helpx_url: "https://helpx.adobe.com/kr/substance-3d-sampler/interface/preferences.html"
 breadcrumb-title: ''
 description: Substance 3D Sampler에서 환경 설정을 구성하여 애플리케이션 설정을 사용자 정의하고 작업 과정을 최적화하는 방법에 대해 알아봅니다.
 helpx_creative_field: ""

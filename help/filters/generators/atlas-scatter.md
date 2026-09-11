@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-sampler/filters/generators/atlas-scatter.html"
+helpx_url: "https://helpx.adobe.com/kr/substance-3d-sampler/filters/generators/atlas-scatter.html"
 breadcrumb-title: ''
 description: Substance 3D Sampler의 Atlas Scatter 생성기를 사용하여 재질 표면 전체에 걸쳐 텍스처 아틀라스의 요소를 산란 합니다.
 helpx_creative_field: ""

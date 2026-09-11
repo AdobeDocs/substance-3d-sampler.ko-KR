@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-sampler/technical-support/technical-issues/interface-issues/main-interface-is-transparent.html"
+helpx_url: "https://helpx.adobe.com/kr/substance-3d-sampler/technical-support/technical-issues/interface-issues/main-interface-is-transparent.html"
 breadcrumb-title: ''
 description: GPU 드라이버 설정 및 앤티 앨리어스 옵션을 조정하여 Substance 3D Sampler에서 투명한 인터페이스 문제를 수정하는 방법에 대해 알아봅니다.
 helpx_creative_field: ""

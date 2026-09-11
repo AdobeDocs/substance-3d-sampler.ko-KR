@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-sampler/getting-started/report-a-bug.html"
+helpx_url: "https://helpx.adobe.com/kr/substance-3d-sampler/getting-started/report-a-bug.html"
 breadcrumb-title: ''
 description: Substance 3D Sampler에서 버그를 보고하여 애플리케이션을 개선하고 발생한 문제를 해결하는 방법에 대해 알아봅니다.
 helpx_creative_field: ""

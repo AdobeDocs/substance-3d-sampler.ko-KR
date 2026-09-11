@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-sampler/faq.html"
+helpx_url: "https://helpx.adobe.com/kr/substance-3d-sampler/faq.html"
 breadcrumb-title: ''
 description: Substance 3D Sampler에 관해 자주 묻는 질문에 액세스하여 기능, 설치 및 사용법에 대한 답변을 찾아보십시오.
 helpx_creative_field: ""
@@ -38,7 +38,7 @@ ht-degree: 0%
 
 ## Adobe, Firefly 및 생성형 인공지능
 
-[전체 Firefly FAQ에 액세스](https://www.adobe.com/products/firefly.html#faqs)
+[전체 Firefly FAQ에 액세스](https://www.adobe.com/kr/products/firefly.html#faqs)
 
 * **Adobe 고객인 경우 Firefly 모델의 일부로 포함된 콘텐츠 사본이 있습니까?** \
   아니요. 고객 콘텐츠의 사본은 Firefly 모델에 포함되지 않습니다.

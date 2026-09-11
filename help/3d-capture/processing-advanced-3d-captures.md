@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-sampler/3d-capture/processing-advanced-3d-captures.html"
+helpx_url: "https://helpx.adobe.com/kr/substance-3d-sampler/3d-capture/processing-advanced-3d-captures.html"
 breadcrumb-title: ''
 description: Substance 3D Sampler에서 고급 3D 캡처를 처리하여 모양, 텍스처 및 재질 품질을 최적화하는 방법을 알아봅니다.
 helpx_creative_field: ""

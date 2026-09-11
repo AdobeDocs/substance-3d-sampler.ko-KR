@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-sampler/filters/generators/surface-relief.html"
+helpx_url: "https://helpx.adobe.com/kr/substance-3d-sampler/filters/generators/surface-relief.html"
 breadcrumb-title: ''
 description: Substance 3D Sampler의 표면 부조 생성기를 사용하여 재질에 엠보싱 및 부조 표면 패턴을 만듭니다.
 helpx_creative_field: ""

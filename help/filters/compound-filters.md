@@ -1,5 +1,5 @@
 ---
-helpx_url: 'https://helpx.adobe.com/substance-3d-sampler/filters/compound-filters.html'
+helpx_url: 'https://helpx.adobe.com/kr/substance-3d-sampler/filters/compound-filters.html'
 breadcrumb-title: ''
 description: Substance 3D Sampler에서 복합 필터를 만들고 사용하여 여러 필터를 재사용 가능한 단일 레이어로 결합하는 방법을 살펴보세요.
 helpx_creative_field: ''

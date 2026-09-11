@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-sampler/filters/adjustments/colorize.html"
+helpx_url: "https://helpx.adobe.com/kr/substance-3d-sampler/filters/adjustments/colorize.html"
 breadcrumb-title: ''
 description: Substance 3D Sampler의 [색상화] 필터를 사용하여 텍스처 및 재질에 색조 및 단색 색상화 효과를 적용할 수 있습니다.
 helpx_creative_field: ""

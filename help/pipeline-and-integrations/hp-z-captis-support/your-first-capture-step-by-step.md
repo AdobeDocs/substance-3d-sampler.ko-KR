@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-sampler/pipeline-and-integrations/hp-z-captis-support/your-first-capture-step-by-step.html"
+helpx_url: "https://helpx.adobe.com/kr/substance-3d-sampler/pipeline-and-integrations/hp-z-captis-support/your-first-capture-step-by-step.html"
 breadcrumb-title: ''
 description: Substance 3D Sampler에서 HP Z Captis를 사용하여 첫 번째 3D 캡처를 수행하는 방법과 단계별 지침을 살펴보세요.
 helpx_creative_field: ""

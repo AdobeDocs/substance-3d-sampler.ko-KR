@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-sampler/filters/wear-and-finish/erode.html"
+helpx_url: "https://helpx.adobe.com/kr/substance-3d-sampler/filters/wear-and-finish/erode.html"
 breadcrumb-title: ''
 description: Substance 3D Sampler의 침식 필터를 사용하여 자연 재료 저하를 시뮬레이션하는 침식 및 풍화 효과를 추가할 수 있습니다.
 helpx_creative_field: ""

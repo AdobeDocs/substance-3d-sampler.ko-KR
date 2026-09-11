@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-sampler/interface/the-home-screen.html"
+helpx_url: "https://helpx.adobe.com/kr/substance-3d-sampler/interface/the-home-screen.html"
 breadcrumb-title: ''
 description: Substance 3D Sampler의 홈 화면을 사용하여 최근 프로젝트에 액세스하고 새 자료를 만들고 빠르게 시작하는 방법에 대해 알아봅니다.
 helpx_creative_field: ""

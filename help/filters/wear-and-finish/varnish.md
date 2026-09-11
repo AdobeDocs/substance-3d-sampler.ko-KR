@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-sampler/filters/wear-and-finish/varnish.html"
+helpx_url: "https://helpx.adobe.com/kr/substance-3d-sampler/filters/wear-and-finish/varnish.html"
 breadcrumb-title: ''
 description: Substance 3D Sampler의 광택 필터를 사용하여 광택 광택 효과 및 보호 코팅 마감재를 재료에 추가합니다.
 helpx_creative_field: ""

@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-sampler/interface/panels/properties-panel.html"
+helpx_url: "https://helpx.adobe.com/kr/substance-3d-sampler/interface/panels/properties-panel.html"
 breadcrumb-title: ''
 description: Substance 3D Sampler의 속성 패널을 사용하여 필터 매개 변수 및 재질 속성을 보고 편집하는 방법을 알아봅니다.
 helpx_creative_field: ""

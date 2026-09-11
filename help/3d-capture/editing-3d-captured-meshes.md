@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-sampler/3d-capture/editing-3d-captured-meshes.html"
+helpx_url: "https://helpx.adobe.com/kr/substance-3d-sampler/3d-capture/editing-3d-captured-meshes.html"
 breadcrumb-title: ''
 description: Substance 3D Sampler에서 3D 캡처 메시를 편집하여 형상을 미세 조정하고 문제를 해결하며 메시 품질을 최적화하는 방법을 알아봅니다.
 helpx_creative_field: ""

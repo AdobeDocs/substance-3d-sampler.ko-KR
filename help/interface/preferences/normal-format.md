@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-sampler/interface/preferences/normal-format.html"
+helpx_url: "https://helpx.adobe.com/kr/substance-3d-sampler/interface/preferences/normal-format.html"
 breadcrumb-title: ''
 description: Substance 3D Sampler에서 DirectX 및 OpenGL 형식 간에 전환하도록 표준 맵 포맷 환경 설정을 구성하는 방법에 대해 알아봅니다.
 helpx_creative_field: ""

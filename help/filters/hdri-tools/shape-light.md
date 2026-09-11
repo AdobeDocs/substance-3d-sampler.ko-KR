@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-sampler/filters/hdri-tools/shape-light.html"
+helpx_url: "https://helpx.adobe.com/kr/substance-3d-sampler/filters/hdri-tools/shape-light.html"
 breadcrumb-title: ''
 description: Substance 3D Sampler의 모양 조명 도구를 사용하여 창의적인 조명을 위해 HDRI 환경에 사용자 정의 모양의 광원을 추가합니다.
 helpx_creative_field: ""

@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-sampler/filters/generators/perforate.html"
+helpx_url: "https://helpx.adobe.com/kr/substance-3d-sampler/filters/generators/perforate.html"
 breadcrumb-title: ''
 description: Substance 3D Sampler의 천공 생성기를 사용하여 재질과 텍스처에 천공된 패턴과 구멍 배열을 만들 수 있습니다.
 helpx_creative_field: ""

@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-sampler/features-and-workflows/export-parametric-assets.html"
+helpx_url: "https://helpx.adobe.com/kr/substance-3d-sampler/features-and-workflows/export-parametric-assets.html"
 breadcrumb-title: ''
 description: Substance 3D Sampler에서 파라메트릭 에셋을 내보내 Sampler으로 돌아가지 않고 다른 애플리케이션에서 매개 변수 수정을 활성화하는 방법을 알아봅니다.
 helpx_creative_field: ""

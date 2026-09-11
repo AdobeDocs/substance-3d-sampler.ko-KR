@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-sampler/interface/tools-and-widgets.html"
+helpx_url: "https://helpx.adobe.com/kr/substance-3d-sampler/interface/tools-and-widgets.html"
 breadcrumb-title: ''
 description: 일반적으로 사용되는 필터와 인터페이스 요소에 빠르게 액세스할 수 있는 Substance 3D Sampler 인터페이스의 도구 및 위젯에 대해 알아봅니다.
 helpx_description: Sampler > Interface > Tools and Widgets

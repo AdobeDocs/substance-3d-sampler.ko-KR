@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-sampler/filters/generators/pavement.html"
+helpx_url: "https://helpx.adobe.com/kr/substance-3d-sampler/filters/generators/pavement.html"
 breadcrumb-title: ''
 description: Substance 3D Sampler의 포장 발생기를 사용하여 사실적인 포장 및 재료의 노면 텍스처를 만듭니다.
 helpx_creative_field: ""

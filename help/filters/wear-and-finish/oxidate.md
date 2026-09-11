@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-sampler/filters/wear-and-finish/oxidate.html"
+helpx_url: "https://helpx.adobe.com/kr/substance-3d-sampler/filters/wear-and-finish/oxidate.html"
 breadcrumb-title: ''
 description: Substance 3D Sampler의 옥시데이트 필터를 사용하면 오래된 외관의 금속 재료에 산화 및 변색 효과를 추가할 수 있습니다.
 helpx_creative_field: ""

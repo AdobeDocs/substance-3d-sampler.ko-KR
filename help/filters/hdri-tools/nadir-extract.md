@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-sampler/filters/hdri-tools/nadir-extract.html"
+helpx_url: "https://helpx.adobe.com/kr/substance-3d-sampler/filters/hdri-tools/nadir-extract.html"
 breadcrumb-title: ''
 description: Substance 3D Sampler의 Nadir Extract 도구를 사용하여 HDRI 환경 이미지에서 기본 영역을 추출하고 분리합니다.
 helpx_creative_field: ""

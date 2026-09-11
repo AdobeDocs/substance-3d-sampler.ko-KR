@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-sampler/filters/adjustments/color-variation.html"
+helpx_url: "https://helpx.adobe.com/kr/substance-3d-sampler/filters/adjustments/color-variation.html"
 breadcrumb-title: ''
 description: Substance 3D Sampler의 색상 변형 필터를 사용하면 색상 다양성과 변형을 텍스처에 추가하여 더욱 자연스러운 색상을 만들 수 있습니다.
 helpx_creative_field: ""

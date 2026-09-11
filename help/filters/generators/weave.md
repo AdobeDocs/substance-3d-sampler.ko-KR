@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-sampler/filters/generators/weave.html"
+helpx_url: "https://helpx.adobe.com/kr/substance-3d-sampler/filters/generators/weave.html"
 breadcrumb-title: ''
 description: Substance 3D Sampler의 직조 생성기를 사용하여 재료 생성을 위한 직물 직조 패턴 및 직물 텍스처를 생성합니다.
 helpx_creative_field: ""

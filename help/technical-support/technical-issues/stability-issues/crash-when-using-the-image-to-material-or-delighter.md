@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-sampler/technical-support/technical-issues/stability-issues/crash-when-using-the-image-to-material-or-delighter.html"
+helpx_url: "https://helpx.adobe.com/kr/substance-3d-sampler/technical-support/technical-issues/stability-issues/crash-when-using-the-image-to-material-or-delighter.html"
 breadcrumb-title: ''
 description: VRAM 부족으로 인해 Substance 3D Sampler에서 [이미지를 재료로] 또는 [밝게] 필터를 사용할 때 충돌이 발생하는 문제를 해결하는 방법을 알아봅니다.
 helpx_creative_field: ""

@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-sampler/features-and-workflows/adobe-standard-material.html"
+helpx_url: "https://helpx.adobe.com/kr/substance-3d-sampler/features-and-workflows/adobe-standard-material.html"
 breadcrumb-title: ''
 description: Substance 3D Sampler에서 Adobe Standard Material을 사용하여 Adobe의 재질 표준과 호환되는 재질을 만드는 방법을 알아봅니다.
 helpx_creative_field: ""

@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-sampler/interface/panels.html"
+helpx_url: "https://helpx.adobe.com/kr/substance-3d-sampler/interface/panels.html"
 breadcrumb-title: ''
 description: 재질 제작 작업 과정을 위한 도구, 설정 및 기능에 액세스하기 위한 Substance 3D Sampler 인터페이스의 패널에 대해 알아봅니다.
 helpx_creative_field: ""

@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-sampler/filters/generators/decal.html"
+helpx_url: "https://helpx.adobe.com/kr/substance-3d-sampler/filters/generators/decal.html"
 breadcrumb-title: ''
 description: Substance 3D Sampler에서 데칼 생성기를 사용하여 재질 표면에 대한 데칼 패턴 및 오버레이 텍스처를 만듭니다.
 helpx_creative_field: ""

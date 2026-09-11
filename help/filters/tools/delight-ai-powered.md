@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-sampler/filters/tools/delight-ai-powered.html"
+helpx_url: "https://helpx.adobe.com/kr/substance-3d-sampler/filters/tools/delight-ai-powered.html"
 breadcrumb-title: ''
 description: Substance 3D Sampler에서 AI 기반 Delight 필터를 사용하여 이미지에서 조명 정보를 제거하고 중립적인 기본 재질을 만들 수 있습니다.
 helpx_creative_field: ""

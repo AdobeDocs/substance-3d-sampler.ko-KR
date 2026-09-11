@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-sampler/filters/generators/gravel.html"
+helpx_url: "https://helpx.adobe.com/kr/substance-3d-sampler/filters/generators/gravel.html"
 breadcrumb-title: ''
 description: Substance 3D Sampler의 자갈 생성기를 사용하여 자갈과 돌 골재 텍스처를 사실적으로 만들 수 있습니다.
 helpx_creative_field: ""

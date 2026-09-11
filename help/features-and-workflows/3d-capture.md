@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-sampler/features-and-workflows/3d-capture.html"
+helpx_url: "https://helpx.adobe.com/kr/substance-3d-sampler/features-and-workflows/3d-capture.html"
 breadcrumb-title: ''
 description: Substance 3D Sampler에서 3D 캡처를 사용하여 사진 측량 기술을 사용하여 실제 개체에서 재질을 만드는 방법을 살펴보세요.
 helpx_creative_field: ""
@@ -40,7 +40,7 @@ Windows/Linux
 * 16Gb RAM. 이상적으로는 32Gb 및 64Gb입니다.
 * 최소 10GB의 디스크 공간
 
-[Linux 구성](https://helpx.adobe.com/substance-3d/unlisted/documentation/sadoc/3d-capture-set-up-on-linux-255426606.html)
+[Linux 구성](https://helpx.adobe.com/kr/substance-3d/unlisted/documentation/sadoc/3d-capture-set-up-on-linux-255426606.html)
 
 Mac
 

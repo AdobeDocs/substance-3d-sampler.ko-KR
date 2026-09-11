@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-sampler/filters/generators.html"
+helpx_url: "https://helpx.adobe.com/kr/substance-3d-sampler/filters/generators.html"
 breadcrumb-title: ''
 description: Substance 3D Sampler에서 제네레이터 필터를 사용하여 프로시저 패턴 및 재질 기초를 만드는 방법을 알아봅니다.
 helpx_creative_field: ""

@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-sampler/filters/adjustments/fold-remover.html"
+helpx_url: "https://helpx.adobe.com/kr/substance-3d-sampler/filters/adjustments/fold-remover.html"
 breadcrumb-title: ''
 description: Substance 3D Sampler의 주름 제거 필터를 사용하여 깨끗한 표면을 위해 패브릭 텍스처에서 주름과 접힘을 제거합니다.
 helpx_creative_field: ""

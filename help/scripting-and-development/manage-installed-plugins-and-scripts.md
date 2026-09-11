@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-sampler/scripting-and-development/manage-installed-plugins-and-scripts.html"
+helpx_url: "https://helpx.adobe.com/kr/substance-3d-sampler/scripting-and-development/manage-installed-plugins-and-scripts.html"
 breadcrumb-title: ''
 description: Substance 3D Sampler에서 설치된 플러그인 및 스크립트를 관리하여 사용자 정의 확장 프로그램을 설치, 수정 및 제거하는 방법을 알아봅니다.
 helpx_creative_field: ""

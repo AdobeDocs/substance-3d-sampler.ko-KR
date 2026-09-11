@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-sampler/filters/hdri-tools/exposure.html"
+helpx_url: "https://helpx.adobe.com/kr/substance-3d-sampler/filters/hdri-tools/exposure.html"
 breadcrumb-title: ''
 description: Substance 3D Sampler의 노출 도구를 사용하여 적절한 조명 균형을 위해 HDRI 환경 이미지의 노출 수준을 조정합니다.
 helpx_creative_field: ""

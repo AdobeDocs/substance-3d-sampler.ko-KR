@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-sampler/interface/panels/share-panel.html"
+helpx_url: "https://helpx.adobe.com/kr/substance-3d-sampler/interface/panels/share-panel.html"
 breadcrumb-title: ''
 description: Substance 3D Sampler의 내보내기 패널을 사용하여 재질을 파일로 내보내거나 다른 애플리케이션으로 직접 보내는 방법에 대해 알아봅니다.
 helpx_creative_field: ""

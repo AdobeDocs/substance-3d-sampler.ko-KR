@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-sampler/interface/preferences/layer-resolution.html"
+helpx_url: "https://helpx.adobe.com/kr/substance-3d-sampler/interface/preferences/layer-resolution.html"
 breadcrumb-title: ''
 description: Substance 3D Sampler에서 레이어 해상도를 구성하여 재질 스택에서 개별 레이어의 해상도를 제어하는 방법을 알아봅니다.
 helpx_creative_field: ""

@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-sampler/filters/tools/upscale.html"
+helpx_url: "https://helpx.adobe.com/kr/substance-3d-sampler/filters/tools/upscale.html"
 breadcrumb-title: ''
 description: Substance 3D Sampler의 업스케일 도구를 사용하면 AI 기반 업스케일링 기술을 통해 텍스처 해상도를 높일 수 있습니다.
 helpx_creative_field: ""

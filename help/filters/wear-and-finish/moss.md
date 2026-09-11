@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-sampler/filters/wear-and-finish/moss.html"
+helpx_url: "https://helpx.adobe.com/kr/substance-3d-sampler/filters/wear-and-finish/moss.html"
 breadcrumb-title: ''
 description: Substance 3D Sampler의 이끼 필터를 사용하면 사실적인 이끼 성장과 유기적인 표면 효과를 재료에 추가할 수 있습니다.
 helpx_creative_field: ""
