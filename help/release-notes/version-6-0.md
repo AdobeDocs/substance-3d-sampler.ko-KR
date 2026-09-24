@@ -4,13 +4,11 @@ description: Substance 3D Sampler 버전 6.0의 릴리스 노트를 통해 새�
 title: 버전 6.0
 user-guide-description: ''
 user-guide-title: ''
-source-git-commit: 56f4ac8b2b5ec271edb8338d51f8ac51e6746c6c
+source-git-commit: 275dc218870f111aa99533840a5aea4c3d22f0cf
 workflow-type: tm+mt
-source-wordcount: '1627'
+source-wordcount: '1651'
 ht-degree: 1%
-
 ---
-
 
 # 버전 6.0
 
@@ -30,7 +28,7 @@ Sampler 6.0은 업계 최고의 통합 재질 모델 [OpenPBR](../features-and-w
 
 ## 클릭 한 번으로 복잡한 재질 만들기
 
-더 풍부하고 복잡한 재질을 즉시 만들 수 있습니다. 솜털, 투명도 및 투명 코트와 같은 새로운 템플릿을 사용하면 복잡한 작업 없이 고급 물리적 효과를 추가할 수 있습니다. 템플릿을 선택하고 바로 이동하세요!
+더 풍부하고 복잡한 재질을 즉시 만들 수 있습니다. 퍼지, 반투명도, 클리어 코트와 같은 새로운 템플릿을 사용하면 복잡한 작업 없이 고급 물리적 효과를 추가할 수 있습니다. 템플릿을 선택하고 바로 이동하세요!
 
 추가 정보 *[여기](../interface/tools-and-widgets/material-creation-presets.md)*
 
@@ -60,6 +58,17 @@ Sampler 6.0은 가장 중요한 문제에 대한 전체 환경을 개선합니�
 
 ## V6.0 릴리스 노트
 
+### **6.0.4**
+
+*(릴리스: 2026년 9월 24일)*
+
+**변경됨**
+[엔진] Substance 엔진을 9.6.1로 업데이트
+
+**고정**
+엠보스 마스크에 이미지를 추가할 때 [레이어] 충돌
+[보안] 일반 수정 사항
+
 ### **6.0.3**
 
 *(릴리스: 2026년 8월 24일)*
@@ -74,29 +83,29 @@ Sampler 6.0은 가장 중요한 문제에 대한 전체 환경을 개선합니�
 
 **추가됨:**
 
-* &lbrack;Assets&rbrack; sbsar 버전을 확인하고 엔진이 너무 오래되어 읽을 수 없음을 사용자에게 경고합니다
-* &lbrack;Captis&rbrack; 환경 설정에 captis 측광을 저장하는 옵션 다시 추가
+* &amp;lbrack;Assets&amp;rbrack; sbsar 버전을 확인하고 엔진이 너무 오래되어 읽을 수 없음을 사용자에게 경고합니다
+* &amp;lbrack;Captis&amp;rbrack; 환경 설정에 captis 측광을 저장하는 옵션 다시 추가
 
 **고정:**
 
-* &lbrack;2D 보기&rbrack; 물리적 크기가 비활성화된 경우 &#39;물리적 비율로 표시&#39;하지 않음
-* &lbrack;Analytics&rbrack; 분석 이벤트 누락
-* &lbrack;Analytics&rbrack; vk devicelost에서 충돌 보고를 위한 크래시패드 방지
-* &lbrack;Application&rbrack; nvidia 드라이버에서 충돌이 발생하지 않도록 종료 시 vkdevices를 제거하지 마십시오
-* &lbrack;응용 프로그램&rbrack; 연결된 컬렉션 감시기 종료 + 채널 관리자 수정
-* &lbrack;응용 프로그램(&amp;r); 종료 시 충돌 방지
-* &lbrack;Content&rbrack; &quot;metal finish&quot; 필터는 금속에 영향을 주지 않습니다.
-* &lbrack;Content&rbrack; 누락된 동적 필터에 물리적 크기 추가
-* &lbrack;필터&rbrack; 숨겨진 에셋 목록에서 내용 인식 채우기 제거
-* &lbrack;Layers&rbrack; &#39;모든 설정 재설정&#39;을 클릭해도 &#39;적용 대상&#39; 드롭다운이 재설정되지 않습니다
-* &lbrack;레이어&rbrack; 위치 위젯의 최소 및 최대 조정 수정
-* &lbrack;Layers&rbrack; 필터 올바르게 업데이트
-* &lbrack;물리적 크기&rbrack; 물리적 크기가 어디서나 작동하는지 확인합니다. + 동적 필터로 물리적 크기를 확인합니다.
-* &lbrack;프로젝트&rbrack; 새 에셋을 만들 때 에셋 해상도가 기본 해상도(2k x2k)인지 확인합니다.
-* &lbrack;프로젝트&rbrack; 이전 버전을 여는 데 사용된 현재 프로젝트를 다시 엽니다.
-* &lbrack;Project&rbrack; Sampler은 더 이상 손상된 프로젝트의 백업을 복원하지 않습니다.
-* &lbrack;Rendering&rbrack; 최대 2k 해상도로 재질 축소판 렌더링
-* 사용자가 UI보다 빠른 경우 충돌을 방지하는 &lbrack;UI&rbrack; 방어 코드
+* &amp;lbrack;2D 보기&amp;rbrack; 물리적 크기가 비활성화된 경우 &#39;물리적 비율로 표시&#39;하지 않음
+* &amp;lbrack;Analytics&amp;rbrack; 분석 이벤트 누락
+* &amp;lbrack;Analytics&amp;rbrack; vk devicelost에서 충돌 보고를 위한 크래시패드 방지
+* &amp;lbrack;Application&amp;rbrack; nvidia 드라이버에서 충돌이 발생하지 않도록 종료 시 vkdevices를 제거하지 마십시오
+* &amp;lbrack;응용 프로그램&amp;rbrack; 연결된 컬렉션 감시기 종료 + 채널 관리자 수정
+* &amp;lbrack;응용 프로그램(&amp;r); 종료 시 충돌 방지
+* &amp;lbrack;Content&amp;rbrack; &quot;metal finish&quot; 필터는 금속에 영향을 주지 않습니다.
+* &amp;lbrack;Content&amp;rbrack; 누락된 동적 필터에 물리적 크기 추가
+* &amp;lbrack;필터&amp;rbrack; 숨겨진 에셋 목록에서 내용 인식 채우기 제거
+* &amp;lbrack;Layers&amp;rbrack; &#39;모든 설정 재설정&#39;을 클릭해도 &#39;적용 대상&#39; 드롭다운이 재설정되지 않습니다
+* &amp;lbrack;레이어&amp;rbrack; 위치 위젯의 최소 및 최대 조정 수정
+* &amp;lbrack;Layers&amp;rbrack; 필터 올바르게 업데이트
+* &amp;lbrack;물리적 크기&amp;rbrack; 물리적 크기가 어디서나 작동하는지 확인합니다. + 동적 필터로 물리적 크기를 확인합니다.
+* &amp;lbrack;프로젝트&amp;rbrack; 새 에셋을 만들 때 에셋 해상도가 기본 해상도(2k x2k)인지 확인합니다.
+* &amp;lbrack;프로젝트&amp;rbrack; 이전 버전을 여는 데 사용된 현재 프로젝트를 다시 엽니다.
+* &amp;lbrack;Project&amp;rbrack; Sampler은 더 이상 손상된 프로젝트의 백업을 복원하지 않습니다.
+* &amp;lbrack;Rendering&amp;rbrack; 최대 2k 해상도로 재질 축소판 렌더링
+* 사용자가 UI보다 빠른 경우 충돌을 방지하는 &amp;lbrack;UI&amp;rbrack; 방어 코드
 
 ### **6.0.1**
 
