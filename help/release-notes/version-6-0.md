@@ -4,13 +4,11 @@ description: Substance 3D Sampler 버전 6.0의 릴리스 노트를 통해 새�
 title: 버전 6.0
 user-guide-description: ''
 user-guide-title: ''
-source-git-commit: 56f4ac8b2b5ec271edb8338d51f8ac51e6746c6c
+source-git-commit: 275dc218870f111aa99533840a5aea4c3d22f0cf
 workflow-type: tm+mt
-source-wordcount: '1627'
+source-wordcount: '1651'
 ht-degree: 1%
-
 ---
-
 
 # 버전 6.0
 
@@ -30,7 +28,7 @@ Sampler 6.0은 업계 최고의 통합 재질 모델 [OpenPBR](../features-and-w
 
 ## 클릭 한 번으로 복잡한 재질 만들기
 
-더 풍부하고 복잡한 재질을 즉시 만들 수 있습니다. 솜털, 투명도 및 투명 코트와 같은 새로운 템플릿을 사용하면 복잡한 작업 없이 고급 물리적 효과를 추가할 수 있습니다. 템플릿을 선택하고 바로 이동하세요!
+더 풍부하고 복잡한 재질을 즉시 만들 수 있습니다. 퍼지, 반투명도, 클리어 코트와 같은 새로운 템플릿을 사용하면 복잡한 작업 없이 고급 물리적 효과를 추가할 수 있습니다. 템플릿을 선택하고 바로 이동하세요!
 
 추가 정보 *[여기](../interface/tools-and-widgets/material-creation-presets.md)*
 
@@ -59,6 +57,17 @@ Sampler 6.0은 가장 중요한 문제에 대한 전체 환경을 개선합니�
 ![대체 텍스트](../../help/assets/Captis_capture_optimization.JPG)
 
 ## V6.0 릴리스 노트
+
+### **6.0.4**
+
+*(릴리스: 2026년 9월 24일)*
+
+**변경됨**
+[엔진] Substance 엔진을 9.6.1로 업데이트
+
+**고정**
+엠보스 마스크에 이미지를 추가할 때 [레이어] 충돌
+[보안] 일반 수정 사항
 
 ### **6.0.3**
 

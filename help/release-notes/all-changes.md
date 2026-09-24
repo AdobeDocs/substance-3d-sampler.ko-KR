@@ -6,19 +6,28 @@ helpx_description: Sampler > Release Notes > All Changes
 title: 모든 변경 내용
 user-guide-description: ''
 user-guide-title: ''
-source-git-commit: 0484ed7ae81bd16687abe23ac0ce8f5ad84d1888
+source-git-commit: 275dc218870f111aa99533840a5aea4c3d22f0cf
 workflow-type: tm+mt
-source-wordcount: '24940'
+source-wordcount: '24964'
 ht-degree: 0%
-
 ---
-
 
 # 모든 변경 내용
 
 이 페이지에서는 Substance 3D Sampler에 발생한 모든 변경 사항을 새로운 기능에서 버그 수정에 이르기까지 다시 그룹화합니다.
 
 ## 버전 6
+
+### **6.0.4**
+
+*(릴리스: 2026년 9월 24일)*
+
+**변경됨**
+[엔진] Substance 엔진을 9.6.1로 업데이트
+
+**고정**
+엠보스 마스크에 이미지를 추가할 때 [레이어] 충돌
+[보안] 일반 수정 사항
 
 ### **6.0.3**
 
@@ -41,7 +50,7 @@ ht-degree: 0%
 
 * &lbrack;2D 보기&rbrack; 물리적 크기가 비활성화된 경우 &#39;물리적 비율로 표시&#39;하지 않음
 * &lbrack;Analytics&rbrack; 분석 이벤트 누락
-* &lbrack;Analytics&rbrack; vk devicelost에서 충돌 보고를 위한 크래시패드 방지
+* &lbrack;Analytics&rbrack; vk devicelost에서 충돌을 보고하는 크래시패드 방지
 * &lbrack;Application&rbrack; nvidia 드라이버에서 충돌이 발생하지 않도록 종료 시 vkdevices를 제거하지 마십시오
 * &lbrack;응용 프로그램&rbrack; 연결된 컬렉션 감시기 종료 + 채널 관리자 수정
 * &lbrack;응용 프로그램(&amp;r); 종료 시 충돌 방지
@@ -109,7 +118,7 @@ ht-degree: 0%
 * &lbrack;성능&rbrack; 열린 구역에서만 수정 영역 불러오기
 * &lbrack;환경 설정&rbrack; 환경 설정 캐시 경로를 지우면 이전 값으로 재설정됩니다.
 * 경로 추적기를 사용할 때 &lbrack;Rendering&rbrack; 메모리 누수
-* &lbrack;Rendering&rbrack; Vulkan이 계속 액세스할 수 있는 텍스처를 삭제하지 못하게 합니다.
+* &lbrack;Rendering&rbrack; Vulkan이 텍스처에 계속 액세스할 수 있는 동안 해당 콘텐츠를 삭제하지 못하도록 합니다.
 * &lbrack;렌더링&rbrack; 텍스처 회전이 0-1에서 0-360으로 변환되지 않았습니다.
 * &lbrack;Scripting&rbrack; Python 설명서에서 존재하지 않는 클래스 제거
 * &lbrack;Scripting&rbrack; selectedAsset이 선택된 에셋이 없으면 없음을 반환합니다.
@@ -174,7 +183,7 @@ ht-degree: 0%
 
 * &lbrack;Application&rbrack; 레이어 스택에 재질을 삽입하면 macOS에서 충돌이 발생할 수 있습니다
 * &lbrack;Application&rbrack; macOS에서 로드가 많을 때 가능한 충돌
-* 비디오 메모리가 가득 찼을 때 레이어를 추가할 때 가능한 충돌(&lbrack;Application&rbrack;)
+* &lbrack;응용 프로그램&rbrack; 비디오 메모리가 가득 찼을 때 레이어를 추가할 때 충돌이 발생할 수 있습니다.
 * 프로젝트를 열 때 가능한 충돌 &lbrack;Application&rbrack;
 * &lbrack;Captis&rbrack; 자동 강도 보정 직후 자동 포커스가 실행되는 경우 실패
 * &lbrack;Captis&rbrack; 첫 번째 캡처 후 안정성 및 성능 문제
@@ -206,15 +215,15 @@ ht-degree: 0%
 
 **추가됨:**
 
-* &lbrack;2D View&rbrack; 고해상도 텍스처를 위해 2D 보기에서 더 많이 축소할 수 있습니다.
+* &lbrack;2D 보기&rbrack; 고해상도 텍스처를 위해 2D 보기에서 더 많이 축소할 수 있음
 * &lbrack;Captis&rbrack; 파일 복사 시 사용자에게 경고
 * 레이어를 복제할 때 &lbrack;Layers&rbrack; 새 레이어 이름에 증분 번호를 사용합니다
 
 **고정:**
 
-* &lbrack;2D View&rbrack; 복제 도장의 모든 속성을 재설정한 후 획을 페인트할 때 이전에 생성된 획이 다시 나타납니다
+* &lbrack;2D 보기&rbrack; 복제 스탬프의 모든 속성을 재설정한 후 획을 칠할 때 이전에 만든 획이 다시 나타납니다
 * &lbrack;Application&rbrack; &quot;현재 프로젝트를 저장하시겠습니까?&quot; 팝업이 잘못된 프로젝트 이름을 사용함
-* &lbrack;응용 프로그램(&amp;r); 종료 시 충돌
+* &lbrack;종료 시 응용 프로그램 &rbrack; 충돌
 * &lbrack;응용 프로그램&rbrack; 잠재적 충돌
 * &lbrack;Application&rbrack; 때때로 썸네일이 잘못된 자료로 생성됩니다
 * &lbrack;Captis&rbrack; 일부 장치에서 고해상도로 스캔을 수행할 때 높이 맵이 검정색입니다
@@ -280,20 +289,20 @@ ht-degree: 0%
 * &lbrack;3D 보기&rbrack; 경로 추적 렌더링으로 전환하면 지원되지 않는 하드웨어에서 충돌이 발생합니다.
 * 크기를 설정하지 않고 수동 측정 팝업을 닫으면 &lbrack;응용 프로그램(&amp;r)
 * &lbrack;응용 프로그램(&amp;r); 충돌
-* &lbrack;응용 프로그램 &rbrack; 바탕 화면을 표시할 때 Windows에서 멈춤(Windows 키 + D 키보드 단축키)
-* &lbrack;응용 프로그램&rbrack; 언어를 전환할 때 충돌이 발생할 수 있습니다.
-* &lbrack;Captis&rbrack; 미리 보기 데이터가 유효하지 않으면 충돌합니다.
+* &lbrack;응용 프로그램&rbrack; 바탕 화면을 표시할 때 Windows에서 멈춤(Windows 키 + D 키보드 단축키)
+* 언어를 전환할 때 가능한 충돌(&lbrack; Application&rbrack;)
+* 미리 보기 데이터가 유효하지 않은 경우 &lbrack;Captis&rbrack; 충돌
 * &lbrack;Captis&rbrack; 확대 후 완전히 축소할 수 없음
 * &lbrack;Captis&rbrack; 일부 마법사 단계에서 지역화가 누락됨
-* &lbrack;Captis&rbrack; Captis를 사용할 때 종료 시 충돌이 발생할 수 있음
+* &lbrack;Captis&rbrack; Captis 사용 시 종료 시 가능한 충돌
 * 디바이스에 보정 파일이 없는 경우 &lbrack;Captis&rbrack; 검사가 작동하지 않음
-* 복제 도장 필터를 사용할 때 &lbrack;Filters&rbrack; 브러시 미리 보기가 텍스처 및 브러시 크기에 따라 잘못될 수 있습니다
+* 텍스처 스탬프 필터를 사용할 때 &lbrack;Filters&rbrack; 브러시 미리 보기가 복제 및 브러시 크기에 따라 잘못될 수 있습니다
 * &lbrack;Filters&rbrack; 업스케일 필터 사용 후 잘못된 출력 크기
 * &lbrack;Filters&rbrack; 환경 회전 및 스타일화 필터에 대한 누락된 아이콘
 * &lbrack;필터&rbrack; 일부 필터를 업데이트하면 렌더링이 잘못될 수 있습니다
 * &lbrack;Layers&rbrack; 두 재질을 혼합할 때 첫 번째 렌더링이 잘못됨
 * &lbrack;Layers&rbrack; 단 하나의 업데이트가 있더라도 레이어 업데이트 버튼에는 &quot;모두 업데이트&quot;가 표시됩니다
-* 레이어 스택에서 이미지를 가져올 때 불필요한 계산(&lbrack;Layers&rbrack;)
+* &lbrack;Layers&rbrack; 레이어 스택에서 이미지를 가져올 때 불필요한 계산
 * &lbrack;성능&rbrack; 렌더링 시간을 줄이기 위해 표준 맵 포맷 처리 개선
 * &lbrack;물리적 크기&rbrack; 수동 측정 팝업은 자동 측정을 수행한 후에만 작동합니다.
 * &lbrack;물리적 크기&rbrack; 물리적 크기가 활성화되어 있을 때 내보내기 팝업의 내보내기 해상도가 잘못되었습니다.
@@ -305,7 +314,7 @@ ht-degree: 0%
 * &lbrack;UI&rbrack; POV 매개 변수의 기본값으로 재설정 버튼이 작동하지 않음
 * &lbrack;UI&rbrack; 기본값으로 재설정 버튼 겹침
 * &lbrack;UI&rbrack; 패널 고정 해제 시 일부 단추를 클릭할 수 없음
-* &lbrack;UI&rbrack; 텍스처 틸링 V 매개 변수가 뷰어 설정 및 3D 보기에서 부분적으로 숨겨짐
+* &lbrack;UI&rbrack; 텍스처 틸링 V 매개변수가 뷰어 설정 및 3D 보기에서 부분적으로 숨겨짐
 
 **제거됨:**
 
@@ -480,7 +489,7 @@ ht-degree: 0%
 
 **고정:**
 
-* &lbrack;Layers&rbrack; 회색조 마스크 페인팅이 작동하지 않으며, 복제 스탬프, 페인트 뒤틀기, 내용 인식 채우기와 같은 도구에 영향을 줍니다
+* &lbrack;Layers&rbrack; 회색조 마스크 페인팅이 작동하지 않으며, [복제 도장], [페인트 비틀기], [내용 인식 채우기]와 같은 도구에 영향을 줍니다
 
 ### **4.5.0 GRUYERE**
 
@@ -561,7 +570,7 @@ ht-degree: 0%
 * &lbrack;Filters&rbrack; 레이어 스택에 엠보스를 추가하면 충돌이 발생할 수 있습니다.
 * 32비트 이미지를 사용할 때 &lbrack;Filters&rbrack; 내용 인식 채우기가 충돌함
 * &lbrack;Filters&rbrack; 엠보스: 아래 레이어의 불투명도가 완전히 무시되지 않음
-* &lbrack;Filters&rbrack; 채우기: 혼합 모드가 Designer 및 Painter에서 작동하지 않음
+* &lbrack;Filters&rbrack; 채우기: Designer 및 Painter에서 혼합 모드가 작동하지 않음
 * &lbrack;Filters&rbrack; 자수: 자동 색상 선택이 해제됨
 * &lbrack;Preferences&rbrack; 3D 캡처 캐시에 대해 지원되지 않는 경로 설정 방지
 * &lbrack;기본 설정&rbrack; 표준 형식 기본 설정이 작동하지 않음
@@ -1018,7 +1027,7 @@ ht-degree: 0%
 
 * &lbrack;3D 캡처&rbrack; 마스크를 사용할 때 텍스처 투영이 깨질 수 있습니다
 * &lbrack;3D 캡처&rbrack; 작은 아티팩트가 [메쉬] 변환에서 너무 작으면 개체에 나타날 수 있습니다
-* &lbrack;3D 캡처&rbrack; 내보낸 메쉬가 매우 작을 수 있습니다. 메시 변환의 크기를 재설정하고 다시 내보냅니다
+* &lbrack;3D 캡처&rbrack; 내보낸 메쉬가 매우 작을 수 있습니다. 메쉬 변형의 비율을 재설정하고 다시 내보내기
 * &lbrack;색상 피커&rbrack; 다른 해상도의 두 번째 모니터에서 색상 선택이 작동하지 않을 수 있습니다
 * &lbrack;Content&rbrack; 모양 라이트 위젯이 구형 투영 모드에서 작동하지 않음
 * &lbrack;Interoperability&rbrack; Stager로 전송된 변위가 있는 재질은 변위 컨트롤을 잃게 됩니다.
@@ -1041,7 +1050,7 @@ ht-degree: 0%
 **고정:**
 
 * 누락된 이미지를 참조하는 .sbsar 파일을 내보낼 때 &lbrack;Export&rbrack; 충돌
-* 손상된 이미지 파일을 참조하는 에셋을 내보낼 때 &lbrack;Export&rbrack; 충돌
+* &lbrack;Export&rbrack; 손상된 이미지 파일을 참조하는 에셋을 내보낼 때 충돌이 발생합니다.
 * &lbrack;Export&rbrack; 자수 레이어가 있는 .sbsar 파일을 내보내면 회색 재료가 생성됩니다
 * &lbrack;내보내기&rbrack; 재질을 .sbs/sbsar 파일로 내보내면 완전히 투명한 재질이 생성될 수 있습니다
 * &lbrack;내보내기&rbrack; 일반 형식 매개 변수가 .sbs/.sbsar 파일에 올바르게 표시되지 않음
@@ -1053,7 +1062,7 @@ ht-degree: 0%
 * &lbrack;노출된 매개 변수&rbrack; 레이어를 삭제할 때 혼합 필터를 제거해도 매개 변수가 노출되지 않습니다
 * &lbrack;노출된 매개 변수&rbrack; 텍스트 매개 변수 나누기 .sbs/.sbsar 내보내기
 * 다른 레이어 스택에 레이어 스택을 놓을 때 &lbrack;Layers&rbrack; 충돌
-* 필터 로드 실패 시 &lbrack;Layers&rbrack; 충돌
+* &lbrack;Layers&rbrack; 필터 로드 실패 시 충돌
 * 이미지 필드를 재설정할 때 &lbrack;Layers&rbrack;에서 이전 이미지를 다시 로드할 수 없음
 * &amp;lbrack Layers&rbrack; 실행 취소/다시 실행 불가;도구 변경
 * &quot;모든 설정 재설정&quot;을 클릭하면 &lbrack;Layers&rbrack; 복제 스탬프 레이어가 멈춤
@@ -1064,7 +1073,7 @@ ht-degree: 0%
 * &lbrack;Layers&rbrack; 삭제된 레이어는 여전히 [속성] 패널에 표시될 수 있습니다.
 * 프로젝트 에셋 간에 전환할 때 레이어 계산이 정지될 수 있음(&lbrack;Layers&rbrack;)
 * &lbrack;프로젝트&rbrack; 때로는 Sampler이 디스크에서 프로젝트를 열 수 없는 경우가 있습니다
-* &lbrack;2D 보기&rbrack; 2D 보기의 기본값은 항상 재질 출력으로 설정됩니다
+* &lbrack;2D View&rbrack; 2D 보기는 항상 [재질 출력]으로 기본 설정됩니다
 
 **알려진 문제:**
 
@@ -1234,7 +1243,7 @@ ht-degree: 0%
 * &lbrack;Application&rbrack; 프로젝트를 로드해도 재질 재계산이 트리거되지 않습니다.
 * &lbrack;Application&rbrack; 텍스처 가져오기 설명서 URL을 업데이트했습니다.
 * &lbrack;Content&rbrack; 복합 필터를 사용할 때 다시 로드할 때 언제 업데이트해야 하는지 묻습니다
-* 불투명도 혼합 사용 시 높이 맵의 &lbrack;Content&rbrack; 세부 정보가 사라짐
+* 불투명도 혼합을 사용하면 Height 맵의 &lbrack;Content&rbrack; 세부 정보가 사라집니다.
 * 색상 대화 상자에서 슬라이더의 텍스트 필드를 사용하여 범위를 벗어날 수 있습니다.
 * &lbrack;UI&rbrack; 사용 목록에 쓸모없는 세로 스크롤 막대가 있습니다.
 
@@ -1260,12 +1269,12 @@ ht-degree: 0%
 
 **고정:**
 
-* 자르기 및 변형 도구의 &lbrack;2D 보기&rbrack; 90도 회전 버튼이 예상대로 작동하지 않음
+* &lbrack;2D 보기 자르기 및 회전 도구의 90도 회전 버튼이 예상대로 작동하지 않음
 * &lbrack;2D 보기&rbrack; 자르기 위젯이 가끔 누락됩니다.
 * &lbrack;응용 프로그램&rbrack;이미지 매개 변수를 지우는 경우 기본 레이어가 다시 연결되지 않습니다.
 * 프로젝트 저장 후 끝내는 동안 &lbrack;Application&rbrack; 충돌
 * 현재 재질을 [에셋 패널]의 컬렉션으로 드래그하여 놓을 때 &lbrack;Application&rbrack; 충돌
-* &lbrack;Application&rbrack; 뷰포트에 에셋을 드래그하여 놓으면 충돌이 발생할 수 있습니다
+* &lbrack;응용 프로그램&rbrack; 뷰포트에 에셋을 드래그하여 놓으면 충돌이 발생할 수 있습니다.
 * &lbrack;Content&rbrack; 일반 혼합에 임의화 수정이 있습니다.
 * &lbrack;Content&rbrack; Snow 필터에 새로 나온 눈 및 녹은 눈 매개 변수 값에 따라 잘못된 일반 출력이 있습니다.
 * &lbrack;Content&rbrack; 쪽매 필터: 예기치 않은 이음새 수정
@@ -1360,7 +1369,7 @@ ht-degree: 0%
 * &lbrack;Layers&rbrack; 사용자 정의 필터를 디스크에서 업데이트할 때 업데이트가 권장되지 않습니다.
 * &lbrack;Layers&rbrack; 표준 채널의 픽셀 형식이 잘못된 경우가 있습니다.
 * &lbrack;Layers&rbrack; 일부 레이어는 표시되지 않더라도 여전히 계산됩니다.
-* &lbrack;Layers&rbrack; 레이어 가시성을 전환할 때 2D 보기 도구가 깨질 수 있습니다
+* &lbrack;Layers&rbrack; 레이어 가시성을 전환할 때 2D 보기 도구가 손상될 수 있습니다
 * &lbrack;Layers&rbrack; Image to Material(AI)을 사용할 때 UI가 멈춤
 * &lbrack;Layers&rbrack; 변환의 가시성 전환 및 2D 보기의 가시성 필터 레이어가 깨져 충돌이 발생할 수 있습니다
 * &lbrack;Layers&rbrack; 레이어 스택에서 레이어를 제거할 때 너무 많은 재계산
@@ -1505,8 +1514,8 @@ ht-degree: 0%
 
 **알려진 문제:**
 
-* &lbrack;Realtime Engine 2021&rbrack; 과도한 계산으로 응용 프로그램이 충돌할 수 있음
-* &lbrack;Realtime Engine 2021&rbrack; Realtime Engine 2021이 AMD CPU와 Nvidia GPU가 모두 설치된 Windows 시스템에서 충돌합니다.
+* &lbrack;Realtime Engine 2021&rbrack; 과도한 계산으로 응용 프로그램 충돌 가능
+* &lbrack;Realtime Engine 2021&rbrack; Realtime Engine 2021은 AMD CPU와 Nvidia GPU가 모두 설치된 Windows 시스템에서 충돌을 합니다.
 * &lbrack;색상 피커&rbrack; 다른 해상도의 두 번째 모니터에서 색상 선택이 작동하지 않을 수 있습니다
 
 ### 3.0.1 와플
@@ -1519,7 +1528,7 @@ ht-degree: 0%
 * &lbrack;Brush&rbrack; 브러시 도구에서 Shift 키를 누르고 있으면 직선이 그려집니다
 * &lbrack;Brush&rbrack; 브러시 도구에서 shift 키를 누른 경우 선 미리 보기 표시
 * &lbrack;브러시&rbrack; 브러시 도구가 이제 실행 취소 및 다시 실행을 지원합니다.
-* &lbrack;2D View&rbrack; 페인팅 시 이미지 입력 기본 색상이 사용됨
+* &lbrack;2D 보기&rbrack; 페인팅 시 이미지 입력 기본 색상이 사용됩니다.
 * &lbrack;Layers&rbrack; SBSAR 파일의 Substance 입력 기본값 읽기
 * &lbrack;렌더링&rbrack; Height과 일반 결합 허용
 * &lbrack;Rendering&rbrack; 하위 표면 분산 지원(MacOS에서는 사용할 수 없음)
@@ -1527,13 +1536,13 @@ ht-degree: 0%
 * &lbrack;Assets&rbrack; 자산 패널의 검색 및 자산 검색 성능 향상
 * &lbrack;Assets&rbrack; 모든 라이브러리의 모든 에셋을 표시하는 &#39;모든 라이브러리&#39; 항목이 에셋 패널에 추가되었습니다.
 * &lbrack;Assets&rbrack; 사용자는 이제 자산을 범주 또는 유형별로 그룹화하도록 선택할 수 있습니다.
-* &lbrack;Import&rbrack; 가져올 때 비등방성, 코트, 광택 및 Specular edge color 텍스처를 자동으로 감지
+* &lbrack;Import&rbrack; 가져올 때 비등방성, 코트, 광택 및 Specular edge color 텍스처 자동 감지
 * &lbrack;UI&rbrack; 등록된 패널 제목을 아이콘으로 바꾸기
 * &lbrack;UI&rbrack; 텍스트 필드 스타일 업데이트
-* 환경 조명 템플릿 생성 창의 새 설명 텍스트(&lbrack;UI&rbrack;)
+* 환경 조명 템플릿 생성 창의 &lbrack;UI&rbrack; 새 설명 텍스트
 * &lbrack;Application&rbrack; 외부 애플리케이션으로 전송할 때 현재 해상도로 에셋 내보내기
 * &lbrack;Application&rbrack; Material 기본 해상도는 이제 2048\*2048입니다(macos의 경우 1024\*1024).
-* &lbrack;Content&rbrack; 바닥 타일 필터의 새 패턴
+* &lbrack;Content&rbrack; Floor 타일 필터의 새 패턴
 * &lbrack;Content&rbrack; 색상 대체 필터의 새로운 이중 색상 모드
 
 **고정:**
@@ -1586,12 +1595,12 @@ ht-degree: 0%
 * &lbrack;내용&rbrack; 타일링 필터가 주변 오클루전 채널을 처리하지 않음
 * &lbrack;Content&rbrack; 퀼트 스티치(quilt stitch) 문제(용접 어셈블리 솔기 선택 및 다이아몬드 패턴)
 * &lbrack;Content&rbrack; 엠보스 필터는 256px x 256px에서 작동합니다.
-* &lbrack;Content&rbrack; 오프셋이 0보다 클 때 바닥 타일의 타일링 문제 수정
+* &lbrack;Content&rbrack; 오프셋이 0보다 클 때 Floor 타일의 타일링 문제 수정
 
 **알려진 문제:**
 
 * &lbrack;Realtime Engine 2021&rbrack; 대규모 계산, 응용 프로그램 충돌
-* &lbrack;Realtime Engine 2021&rbrack; Realtime Engine 2021이 AMD CPU 및 Nvidia GPU가 모두 있는 Windows 시스템에서 충돌합니다.
+* &lbrack;Realtime Engine 2021&rbrack; Realtime Engine 2021은 AMD CPU와 Nvidia GPU가 모두 장착된 Windows 시스템에서 충돌을 합니다.
 
 ### 3.0.0 와플
 
@@ -1693,10 +1702,10 @@ ht-degree: 0%
 * &lbrack;Rendering&rbrack; 실시간 엔진(2021) 렌더러에는 환경 조명에서 그림자를 계산하는 새로운 방법이 도입되었습니다.
 * &lbrack;Rendering&rbrack; 실시간 엔진(2021) 렌더러는 환경 조명의 조도를 실시간으로 계산합니다
 * &lbrack;Shader Settings Panel&rbrack; 특정 재료 셰이더 매개 변수를 조정하기 위한 새로운 셰이더 설정 패널
-* &lbrack;Shader Settings Panel&rbrack; 새 매개 변수(표준 비율, Height 비율, Height 레벨, 방출 강도, IOR, 코트 표준 강도 및 코트 IOR)
+* &lbrack;Shader Settings Panel&rbrack; 새 매개 변수(표준 비율, Height 비율, Height 레벨, 방출 강도, IOR, 코팅 정상 강도 및 코트 IOR)
 * &lbrack;Shader Settings Panel&rbrack; 실시간 엔진 2021에 대한 특정 매개 변수(서브서피스 스캐터링, 스캐터링 거리, 빨강 이동 및 레일리 스캐터링)
 * &lbrack;Shader Settings Panel&rbrack; 설정 값은 에셋별로 저장됩니다
-* &lbrack;뷰어 설정 패널(&rbrack;)에서 기본 환경 조명에 대한 미리 보기를 추가했습니다.
+* &lbrack; 뷰어 설정 패널(&amp;r); 기본 환경 조명 미리 보기를 추가했습니다.
 * &lbrack;뷰어 설정 패널(&rbrack;)에서 기본 메시에 대한 미리 보기를 추가했습니다.
 * &lbrack;뷰어 설정 패널(&rbrack; 새 환경 불투명도 매개 변수
 * &lbrack;뷰어 설정 패널(&rbrack; 새 환경 흐림 효과 매개 변수(Realtime Engine 2021 렌더러에만 해당)
@@ -1713,7 +1722,7 @@ ht-degree: 0%
 * &lbrack;내용&rbrack; 새 패널 필터
 * &lbrack;내용&rbrack; 새 스머지 필터
 * &lbrack;Content&rbrack; New Weaves filter
-* &lbrack;내용&rbrack; 새 뒤틀기 변형 필터
+* &lbrack;Content&rbrack;New Warp brack 필터
 * &lbrack;Content&rbrack; AO 필터에 대한 새 Height
 * &lbrack;Content&rbrack; 새로운 일반 Height 필터
 * &lbrack;Content&rbrack; Color Replace - 새로 지원되는 채널(광택, 코팅, 비등방성 등)에서 바꾸기
@@ -1933,13 +1942,13 @@ ht-degree: 0%
 * &lbrack;레이어&rbrack; Shift+드래그하여 자동 산란 아틀라스에 놓기
 * &lbrack;Layers&rbrack; Alt + 드래그 앤 드롭 기능이 데칼로 재질을 삽입합니다.
 * &lbrack;레이어&rbrack; Substance Designer에서 쉽게 매트릭스 변환 노출
-* &lbrack;Layers&rbrack; 비어 있지 않은 스택에서 텍스처를 삭제하면 올바른 채널에 자동으로 할당됩니다
+* 비어 있지 않은 스택에서 텍스처를 삭제하면 자동으로 올바른 채널에 할당됩니다(&lbrack;Layers&rbrack;)
 * &lbrack;Layers&rbrack; 새로운 유형의 레이어: 복합 필터
 * &lbrack;매개 변수&rbrack; Substance 문자열 입력 지원
 * &lbrack;UI&rbrack; 팝업 및 메뉴에 대한 그림자 추가
 * 마우스 오른쪽 버튼 클릭 옵션(지우기, 복사, 붙여넣기)이 있는 &lbrack;UI&rbrack; 새 색상 위젯
 * 페인팅 도구 옵션이 있는 &lbrack;UI&rbrack; 새 이미지 위젯
-* &lbrack;UI&rbrack; 이미지 위젯에서 가져온 이미지 위에 페인팅할 수 있음
+* &lbrack;UI&rbrack; 이미지 위젯에서 가져온 이미지 위에 페인트 가능
 * &lbrack;렌더링&rbrack; 새 기본 카메라 위치
 * &lbrack;Export&rbrack; Substance 파일을 Substance Designer 2020.1.2(10.1.2)용으로 내보냅니다.
 * &lbrack;성능&rbrack; 응용 프로그램 시작 시간 향상
@@ -1947,11 +1956,11 @@ ht-degree: 0%
 * &lbrack;성능&rbrack; 레이어 추가, 제거 또는 이동 시 레이어 스택 성능 향상
 * &lbrack;성능&rbrack; Image to Material(AI 지원)이 RTX GPU에서 더 빠르게 실행됩니다
 * &lbrack;Content&rbrack; 새로운 메시: 여성 티셔츠, 남성 티셔츠, 신발
-* &lbrack;내용&rbrack; 새로운 혼합 모드 - 채널별 혼합
+* &lbrack;내용&rbrack; 새 혼합 모드 - 채널별 혼합
 * &lbrack;Content&rbrack; 불투명도는 두 개의 새로운 매개 변수(Height 위치 및 Height 비율)로 Height 교정을 혼합합니다.
 * &lbrack;Content&rbrack; Height 혼합 모드에서 Height 조정 추가
-* &lbrack;내용&rbrack; 사용자 정의 마스크 혼합에서 Height 정보 사용 옵션
-* &lbrack;내용&rbrack; 새로운 원근 교정 도구
+* &lbrack;내용&rbrack; 사용자 정의 마스크 혼합의 Height 정보 사용 옵션
+* &lbrack;Content&rbrack; 새로운 원근감 교정 도구
 * &lbrack;Content&rbrack; 패턴 생성기 - 패턴을 반전하는 매개 변수를 추가합니다.
 * &lbrack;Content&rbrack; 패턴 생성기 - 새 매개변수 추가 재료 세부 정보 무시
 * &lbrack;Content&rbrack; 새로운 데칼 필터
@@ -1989,7 +1998,7 @@ ht-degree: 0%
 * &lbrack;Content&rbrack; 타일 만들기 고급 필터로 색상 이동 수정
 * &lbrack;성능&rbrack; 색상 대화 상자를 여는 속도가 느려 현재 레이어를 다시 계산합니다
 * &lbrack;UI&rbrack; 키보드 단축키가 작동하지 않는 경우가 있습니다.
-* &lbrack;2D 보기&rbrack; 내용 인식 채우기를 사용하려면 처음 한 번 클릭을 사용할 필요가 없습니다.
+* &lbrack;2D 보기&rbrack; 내용 인식 채우기가 작동하려면 쓸모없는 첫 번째 클릭이 필요합니다
 * 로컬 디스크의 &lbrack;Resources&rbrack; 폴더는 제거 후에도 계속 업데이트됩니다
 * &lbrack;Resources&rbrack; 파일 시스템에서 연결된 폴더를 삭제해도 삭제되지 않음
 * &lbrack;Export&rbrack; 사용자 정의 내보내기 사전 설정의 사용자 정의 사용은 내보내지지 않습니다
@@ -1997,15 +2006,15 @@ ht-degree: 0%
 
 **알려진 문제:**
 
-* 이미지를 재료로 반복 재계산(AI 작동)하면 충돌(메모리 부족)이 발생할 수 있습니다
-* Delighter를 반복적으로 재계산하면 충돌(메모리 부족)이 발생할 수 있습니다.
+* 이미지를 재료로 반복 재계산(AI 기반)하면 충돌(메모리 부족)를 트리거할 수 있습니다
+* Delighter의 반복 재계산 시 충돌(메모리 부족)가 발생할 수 있음
 * 고해상도 이미지에서 [이미지를 재료로] (AI 기반)를 사용하는 속도가 느려질 수 있습니다
-* VRAM이 낮은 GPU에서 Image to Material(AI 기반)을 사용하면 충돌(메모리 부족)이 트리거될 수 있습니다
-* Image to Material(AI 작동)은 PBR Specular/광택에서 사용할 수 없음
-* 구형 NVIDIA 드라이버에서 Delighter 충돌(400.x 미만)
+* VRAM이 낮은 GPU에서 Image to Material(AI 기반)을 사용하면 충돌(메모리 부족)가 트리거될 수 있습니다
+* Image to Material(AI 지원)은 PBR Specular/광택도에서 사용할 수 없음
+* 구형 NVIDIA 드라이버로 충돌을 더 밝게 만들기(400.x 미만)
 * 내용 인식 채우기 필터의 고해상도는 느립니다
 * 슬라이더에서 특정 값을 입력할 때 혼수 또는 점을 무시할 수 있습니다
-* 동일한 재질 레이어 스택의 2배 저장이 불가능
+* 동일한 재질 레이어 스택을 두 번 저장할 수 없음
 
 ### 2.1.1 (2020.1.1) 티라미수
 
@@ -2022,32 +2031,32 @@ ht-degree: 0%
 * &lbrack;UI&rbrack; 뷰포트의 고정 컴퓨팅 표시기
 * &lbrack;UI&rbrack; 슬라이더에 음수 값 입력이 수정되었습니다.
 * &lbrack;UI&rbrack; 콤보 상자: 키보드 화살표 및 스크롤 막대가 이제 작동함
-* &lbrack;UI&rbrack; 2D 보기에서 &quot;재질 출력&quot; 및 &quot;레이어 입력&quot; 간에 전환할 때 선택한 채널을 유지합니다
-* &lbrack;Layers&rbrack; 기본 재질에서 사용자 정의 채널을 추가할 때 발생하는 충돌 수정
-* &lbrack;Layers&rbrack; 레이어 조작 시 충돌
+* &lbrack;UI&rbrack; 2D 보기에서 &quot;재질 출력&quot;과 &quot;레이어 입력&quot; 간에 전환할 때 선택한 채널을 유지합니다
+* &lbrack;Layers&rbrack; 기본 재질에서 사용자 정의 충돌을 추가할 때 발생하는 고정 채널
+* 레이어를 조작할 때 &lbrack;Layers&rbrack; 충돌
 * &lbrack;Layers&rbrack; 사용자 정의 채널은 저장된 재질과 함께 표시되지 않습니다
 * &lbrack;Application&rbrack; 에셋을 가져올 때 발생하는 드문 충돌 수정
-* &lbrack;응용 프로그램(&amp;r); 종료 시 충돌
+* &lbrack;종료 시 응용 프로그램(&amp;r) 충돌
 * 이제 사전 설정을 전환할 때 &lbrack;Application&rbrack; 콤보 상자에 올바른 값이 표시됩니다.
 * &lbrack;Export&rbrack; 이름이 Enscape 사전 설정으로 Enscape Revit로 변경됨
 * &lbrack;내보내기&rbrack; 내보내기 사전 설정을 제거한 후 가져오기가 작동합니다.
-* &lbrack;내보내기&rbrack; 내보내기 시 충돌
+* 내보낼 때 &lbrack;Export&rbrack; 충돌
 * &lbrack;Rendering&rbrack; 기본 색상이 16비트 반부동 형식일 때 렌더링을 고정합니다.
-* &lbrack;프로젝트&rbrack; 손상된 패키지를 가져올 때 충돌하지 않음
+* &lbrack;프로젝트&rbrack; 손상된 패키지를 가져올 때 충돌 안 함
 * &lbrack;Project&rbrack; Create를 연 적이 없는 경우 2019.1.4에서 2.x.x로 마이그레이션 처리
-* &lbrack;프로젝트&rbrack; 동일한 프로젝트를 두 번 가져올 때 발생하는 충돌 수정
+* &lbrack;프로젝트&rbrack; 동일한 프로젝트를 두 번 가져올 때 충돌 수정
 * &lbrack;프로젝트&rbrack; 프로젝트를 가져올 때 충돌 수정
 * &lbrack;Resources&rbrack; 이전 버전에서 가져온 사용자 정의 필터 작동
 * 같은 이름의 &lbrack;Resources&rbrack; Materials가 더 이상 서로 지워지지 않음
-* &lbrack;Resources&rbrack; 로컬 폴더 연결 시 충돌
-* &lbrack;Resources&rbrack; Starter Materials 사용자가 만든 폴더는 다시 시작한 후 더 이상 제거되지 않습니다
+* 로컬 폴더를 연결할 때 &lbrack;Resources&rbrack; 충돌
+* &lbrack;Resources&rbrack; 스타터 재질 사용자가 생성한 폴더는 다시 시작 후 더 이상 제거되지 않습니다
 * &lbrack;Inspire&rbrack; 재료/수집 드롭 영역을 수정하고 저장되지 않은 재료를 사용하는 경우 경고 메시지를 추가합니다
 
 **알려진 문제:**
 
 * 내용 인식 채우기 필터의 고해상도는 느립니다
 * 하나의 재질에 여러 개의 흐림 효과를 사용하는 것은 권장되지 않습니다
-* 구형 NVIDIA 드라이버에서 Delighter 충돌(400.x 미만)
+* 구형 NVIDIA 드라이버로 충돌을 더 밝게 만들기(400.x 미만)
 * 슬라이더에서 특정 값을 입력할 때 혼수 또는 점을 무시할 수 있습니다
 
 ### 2.1.0 (2020.1.0) 티라미수
@@ -2056,7 +2065,7 @@ ht-degree: 0%
 
 **추가됨:**
 
-* &lbrack;Export&rbrack; 사전 설정 선택 내보내기를 통해 렌더러 및 게임 엔진을 위한 텍스처를 압축합니다
+* &lbrack;내보내기&rbrack; 사전 설정 내보내기를 선택하여 렌더러 및 게임 엔진용으로 텍스처를 압축합니다.
 * &lbrack;내보내기&rbrack; 사전 설정을 Unreal Engine 4로 내보내기
 * &lbrack;Export&rbrack; 사전 설정을 Unity 표준으로 내보내기
 * &lbrack;내보내기&rbrack; 사전 설정을 Unity HDRP로 내보내기
@@ -2069,7 +2078,7 @@ ht-degree: 0%
 * &lbrack;내보내기&rbrack; 사전 설정을 Vray Next로 내보내기
 * &lbrack;내보내기&rbrack; 사전 설정을 Lens Studio로 내보내기
 * &lbrack;내보내기&rbrack; 사전 설정을 Spark AR Studio로 내보내기
-* &lbrack;Export&rbrack; 사전 설정을 PBR 금속 거칠기에서 PBR Specular 광택으로 내보내기
+* &lbrack;내보내기&rbrack; 사전 설정을 PBR 금속 거칠기에서 PBR Specular 광택도로 내보내기
 * &lbrack;내보내기&rbrack; 새 내보내기 UI
 * &lbrack;내보내기&rbrack; 내보내기 설정 기억
 * &lbrack;내보내기&rbrack; 사용자 정의 내보내기 사전 설정 가져오기 및 관리
@@ -2111,27 +2120,27 @@ ht-degree: 0%
 * &lbrack;UI&rbrack; 숨겨진 레이어 색상 수정
 * &lbrack;UI&rbrack; 시작 화면 버튼 개선
 * &lbrack;Layers&rbrack; 불필요한 비용 감소
-* 복제 패치를 사용할 때 &lbrack;Layers&rbrack;가 충돌합니다.
+* 복제 패치를 사용할 때 &lbrack;Layers&rbrack; 충돌
 * &lbrack;Layers&rbrack; 이미지 가져오기 레이어를 선택해도 더 이상 컴퓨트가 트리거되지 않습니다.
 * &lbrack;레이어&rbrack; 복제 패치 및 내용 인식 채우기 레이어를 선택하면 더 이상 다시 계산되지 않음
 * &lbrack;채널 설정&rbrack; 이제 사용 활성화 또는 비활성화는 렌더링을 트리거합니다.
 * &lbrack;Resources&rbrack; 라이브러리의 스택을 대량 클릭할 때 멈춤 방지
 * 이전에 추가한 연결된 폴더를 다시 추가할 때 &lbrack;Resources&rbrack; Performance hit
-* &lbrack;Resources&rbrack; 삭제된 .sbsar 파일을 열려고 할 때 발생하는 충돌 수정
+* &lbrack;Resources&rbrack; 삭제된 .sbsar 파일을 열려고 할 때 발생하는 충돌을 수정했습니다.
 * &lbrack;Performance&rbrack; 해당 매개변수에 액세스하기 위해 재료를 로드하지 않도록 합니다.
 * &lbrack;Performance&rbrack; 프로젝트 또는 작성된 자료에서 사용되는 경우에만 에셋을 백업합니다.
 * &lbrack;Export&rbrack; 내보내기 대기열의 고정 재질을 건너뛰거나 잘못된 매개 변수로 내보내는 경우가 있습니다.
 * &lbrack;2D 보기&rbrack; 팬 및 확대/축소 복원됨
-* &lbrack;내용&rbrack; 쪽매 패턴은 주변 오클루전 채널을 고려합니다.
-* &lbrack;Content&rbrack; Paint - 사용자 정의 마스크를 활성화할 때 마스크 입력 표시
-* &lbrack;Content&rbrack; Stonewall 패턴 - 표준 맵에서 가능한 밴딩 효과 제거
+* &lbrack;Content&rbrack; 쪽매 패턴은 앰비언트 오클루전 채널을 고려합니다.
+* &lbrack;Content&rbrack; 페인트 - 사용자 정의 마스크를 활성화할 때 마스크 입력을 표시합니다.
+* &lbrack;Content&rbrack; Stonewall 패턴 - 노멀 맵에서 가능한 밴딩 효과 제거
 * &lbrack;내용&rbrack; Height 변조 - 2d 보기에서 이중 기본 색상 항목 수정
 
 **알려진 문제:**
 
 * 내용 인식 채우기 필터의 고해상도는 느립니다
 * 하나의 재질에 여러 개의 흐림 효과를 사용하는 것은 권장되지 않습니다
-* 구형 NVIDIA 드라이버에서 Delighter 충돌(400.x 미만)
+* 구형 NVIDIA 드라이버로 충돌을 더 밝게 만들기(400.x 미만)
 * 슬라이더에서 특정 값을 입력할 때 혼수 또는 점을 무시할 수 있습니다
 
 ## 버전 1
@@ -2147,16 +2156,16 @@ ht-degree: 0%
 **고정:**
 
 * &lbrack;Layers&rbrack; 아래 또는 위에 있는 둘 이상의 레이어로 레이어 이동
-* &lbrack;Create&rbrack; 우수한 성능을 위한 충분한 VRAM 예산 할당
+* &lbrack;Create&rbrack; 좋은 성과를 내기 위한 충분한 VRAM 예산 할당
 
 **알려진 문제:**
 
 * 많은 리소스를 가져오면 Substance Alchemist 속도가 느려질 수 있습니다
 * 내용 인식 채우기 필터의 고해상도는 느립니다
 * 하나의 재질에 여러 개의 흐림 효과를 사용하는 것은 권장되지 않습니다
-* 구형 NVIDIA 드라이버에서 Delighter 충돌(400.x 미만)
+* 구형 NVIDIA 드라이버로 충돌을 더 밝게 만들기(400.x 미만)
 * 슬라이더에서 특정 값을 입력할 때 혼수 또는 점을 무시할 수 있습니다
-* Height에 표준 필터가 MacOS에서 충돌할 수 있음
+* Height에 대한 일반 필터는 MacOS에서 충돌 가능
 
 ### 1.1.3 (2019.1.3) 참깨
 
@@ -2193,9 +2202,9 @@ ht-degree: 0%
 
 * 레이어를 삭제할 때 &lbrack;Layers&rbrack; 이미지 입력 매개 변수 설정 해제
 * &lbrack;Layers&rbrack; 복제 패치 레이어를 추가할 때 충돌 수정
-* &lbrack;Layers&rbrack; 다른 레이어 스택 재질에 레이어 스택 재질을 혼합할 때 일부 충돌 수정
+* &lbrack;Layers&rbrack; 레이어를 혼합할 때 다른 레이어 스택 재질에 재질이 쌓일 때 일부 충돌 수정
 * 이제 내보낼 &lbrack;내보내기&rbrack; 채널 선택이 준수됩니다.
-* &lbrack;Resources&rbrack; 리소스 패널에서 탐색할 때 충돌하지 않음
+* &lbrack;Resources&rbrack; 리소스 패널에서 탐색할 때 충돌 안 함
 * &lbrack;Resources&rbrack; 손상된 Substance 파일을 가져올 때 충돌 수정
 * &lbrack;Resources&rbrack; 큰 폴더를 로드할 때 충돌 수 줄이기
 * &lbrack;Thumbnail&rbrack; Thumbnail 계산으로 인터페이스가 고정되지 않음
@@ -2301,9 +2310,9 @@ ht-degree: 0%
 **알려진 문제:**
 
 * 하나의 재질에 여러 개의 흐림 효과를 사용하는 것은 권장되지 않습니다
-* 구형 NVIDIA 드라이버로 충돌을 더 밝게 만들기(400.x 미만)
+* 구형 NVIDIA 드라이버에서 Delighter 충돌(400.x 미만)
 * 슬라이더에서 특정 값을 입력할 때 혼수 또는 점을 무시할 수 있습니다
-* Height에 대한 일반 필터는 MacOS에서 충돌 가능
+* Height에 표준 필터가 MacOS에서 충돌할 수 있음
 
 ### 1.1.0 (2019.1.0) 참깨
 
@@ -2321,23 +2330,23 @@ ht-degree: 0%
 * &lbrack;시작 화면&rbrack; 시작 화면의 모든 프로젝트 목록에 액세스
 * &lbrack;시작 화면&rbrack; 설명서, 정보 팝업 및 라이센스 관리에 액세스하는 빠른 링크
 * &lbrack;파일 메뉴&rbrack; 파일 메뉴 통합
-* &lbrack;파일 메뉴&rbrack; 파일 탭의 프로젝트 명령과 레이어 스택의 저장에 액세스
+* &lbrack;파일 메뉴&rbrack; 파일 탭의 프로젝트 명령과 레이어 스택 저장에 액세스합니다.
 * &lbrack;파일 메뉴&rbrack; 편집 탭에서 실행 취소 및 재실행 명령에 액세스합니다.
 * &lbrack;파일 메뉴&rbrack; 이전 도움말 메뉴가 도움말 탭 아래의 파일 메뉴에서 이동되었습니다.
 * &lbrack;Layers&rbrack; 레이어 스택의 새로운 아키텍처
-* &lbrack;Layers&rbrack; 레이어 스택의 새로운 UI
+* &lbrack;Layers&rbrack; 레이어 스택의 새 UI
 * &lbrack;레이어&rbrack; 도구 모음에서 직접 혼합 모드를 선택합니다
 * &lbrack;Layers&rbrack; 블렌드 매개변수와 재료 매개변수에 개별적으로 액세스
-* &lbrack;Layers&rbrack; 레이어 스택에 있는 스플래터 필터의 전용 입력에 재질을 직접 추가합니다
+* &lbrack;Layers&rbrack; 레이어 스택에서 스플래터 필터의 전용 입력에 재질을 직접 추가합니다
 * &lbrack;Layers&rbrack; 이미지 가져오기 레이어에서 직접 스캔 순서 변경
 * &lbrack;뷰 포트(&amp;r); 카메라 시야의 제어
-* &lbrack;Viewport&rbrack; 정사영 또는 원근 카메라 간 전환 가능
+* &lbrack;뷰포트&rbrack; 직교 또는 원근감 카메라 간 전환 가능
 * &lbrack;뷰포트(&rBrack; 각 채널의 비트 심도 및 해상도 표시
 * &lbrack;Resources&rbrack; 기본 재질이 기본값마다 열립니다.
 * &lbrack;Cache&rbrack; 썸네일 캐시 폴더를 찾습니다.
 * &lbrack;Cache&rbrack; 렌더링 캐시 폴더를 찾습니다.
 * &lbrack;Panels&rbrack; 재료 설정 패널이 일시적으로 숨겨집니다.
-* &lbrack;워크플로&rbrack; Specular/광택 일시 비활성화
+* &lbrack;워크플로&rbrack; Specular/광택도가 일시적으로 비활성화됨
 * &lbrack;MacOS&rbrack; Catalina OS 버전 공증
 * &lbrack;Content&rbrack; Delighter 필터의 새 버전
 * &lbrack;내용&rbrack; 새 이미지 내용 인식 채우기 필터
@@ -2380,8 +2389,8 @@ ht-degree: 0%
 * Delighter 단계의 빠른 가시성 전환은 권장하지 않습니다
 * 이미지 가져오기 레이어의 [속성] 패널에 TIF 이미지가 표시되지 않습니다
 * 슬라이더에서 특정 값을 입력할 때 혼수 또는 점을 무시할 수 있습니다
-* Height에 표준 필터가 MacOS에서 충돌할 수 있음
-* macOS에서 종료할 때도 임의로 충돌할 수 있음
+* Height에 대한 일반 필터는 MacOS에서 충돌 가능
+* macOS에서 종료하는 경우에도 무작위로 충돌 가능
 
 ### 0.8.0 베타 퀴노아
 
@@ -2420,7 +2429,7 @@ ht-degree: 0%
 
 * &lbrack;Inspire&rbrack; 10개 이상의 색상을 사용할 때 충돌 수정
 * &lbrack;2D 보기&rbrack; 2D 보기의 채널 목록에서 스크롤 막대 수정
-* &lbrack;Viewer&rbrack; 2의 전력이 아닌 환경 맵을 가져올 때 충돌 수정
+* &lbrack;Viewer&rbrack; 2의 비전원 환경 맵을 가져올 때 충돌 수정
 * &lbrack;Content&rbrack; 엠보싱 및 천공 필터의 사용자 정의 패턴에 대한 PNG 가져오기 수정
 * &lbrack;내보내기&rbrack; 일반 수정 및 채널당 16비트 Height 내보내기
 * 이름이 같은 두 개의 사전 설정이 있는 재질을 가져올 때 무한 루프 수정
@@ -2429,12 +2438,12 @@ ht-degree: 0%
 **알려진 문제:**
 
 * 하나의 재질에 여러 개의 흐림 효과를 사용하는 것은 권장되지 않습니다
-* 구형 NVIDIA 드라이버에서 Delighter 충돌(400.x 미만)
+* 구형 NVIDIA 드라이버로 충돌을 더 밝게 만들기(400.x 미만)
 * Delighter 단계의 빠른 가시성 전환은 권장하지 않습니다
 * 이미지 가져오기 레이어의 [속성] 패널에 TIF 이미지가 표시되지 않습니다
 * 슬라이더에서 특정 값을 입력할 때 혼수 또는 점을 무시할 수 있습니다
-* Height에 표준 필터가 MacOS에서 충돌할 수 있음
-* macOS에서 종료할 때 임의로 충돌할 수 있음
+* Height에 대한 일반 필터는 MacOS에서 충돌 가능
+* macOS에서 종료 시 무작위로 충돌 가능
 
 ### 0.7.0 베타 페퍼
 
@@ -2480,12 +2489,12 @@ ht-degree: 0%
 **알려진 문제:**
 
 * 하나의 재질에 여러 개의 흐림 효과를 사용하는 것은 권장되지 않습니다
-* 구형 NVIDIA 드라이버에서 Delighter 충돌(400.x 미만)
+* 구형 NVIDIA 드라이버로 충돌을 더 밝게 만들기(400.x 미만)
 * Delighter 단계의 빠른 가시성 전환은 권장하지 않습니다
 * 사용자 정의 환경 가져오기가 검은색으로 바뀔 수 있음
 * 이미지 가져오기 레이어의 [속성] 패널에 TIF 이미지가 표시되지 않습니다
 * 슬라이더에서 특정 값을 입력할 때 혼수 또는 점을 무시할 수 있습니다
-* Height에 표준 필터가 MacOS에서 충돌할 수 있음
+* Height에 대한 일반 필터는 MacOS에서 충돌 가능
 
 ### 0.6.1 베타 오렌지
 
@@ -2599,15 +2608,15 @@ ht-degree: 0%
 * &lbrack;내용&rbrack; 새 천공 필터
 * &lbrack;Content&rbrack; 새로운 스플래터 필터
 * &lbrack;Content&rbrack; 새로운 섬유 마모 필터
-* &lbrack;내용&rbrack; 새 변환 필터
+* &lbrack;Content&rbrack; 새로운 변환 필터
 
 **고정:**
 
 * &lbrack;Viewport&rbrack; X에 x2 타일링이 있는 구 메시
-* &lbrack;Viewport&rbrack; 사용자 환경을 로드할 때 충돌함
+* 사용자 환경을 로드할 때 &lbrack;Viewport&rbrack; 충돌
 * &lbrack;뷰 포트(&rbrack; 환경 맵에서도 이제 노출 값을 사용하고 있습니다.
-* &lbrack;뷰포트(&amp;r)rbrack; 단축키가 카메라 각도를 재설정하지 않음
-* &lbrack;Export&rbrack; SBS 내보내기가 최신 Substance Designer 2018.3.3에서 작동합니다.
+* &lbrack;뷰 포트(&amp;r)rbrack; F 단축키가 카메라 각도를 재설정하지 않음
+* &lbrack;Export&rbrack; SBS 내보내기는 최신 Substance Designer 2018.3.3에서 작동합니다.
 * &lbrack;Export&rbrack; SBSAR 내보내기는 Substance Source 재질과 동일한 지침을 따릅니다.
 * &lbrack;UI&rbrack; 스크롤 막대를 드래그할 수 있음
 * 폴더 및 파일 경로에서는 특수 문자가 지원됩니다
@@ -2616,7 +2625,7 @@ ht-degree: 0%
 **알려진 문제:**
 
 * 하나의 재질에 여러 개의 흐림 효과를 사용하는 것은 권장되지 않습니다
-* 구형 NVIDIA 드라이버에서 Delighter 충돌(400.x 미만)
+* 구형 NVIDIA 드라이버로 충돌을 더 밝게 만들기(400.x 미만)
 * Delighter 단계의 빠른 가시성 전환은 성능에 영향을 줍니다.
 * 사용자 정의 환경 가져오기가 검은색으로 바뀔 수 있음
 * 이미지 가져오기 레이어의 [속성] 패널에 TIF 이미지가 표시되지 않습니다
@@ -2642,9 +2651,9 @@ ht-degree: 0%
 
 * 파일 경로에 특수 문자가 있으면 재질이 저장되지 않음
 * 하나의 재질에 여러 개의 흐림 효과를 사용하는 것은 권장되지 않습니다
-* 구형 NVIDIA 드라이버에서 Delighter 충돌(400.x 미만)
+* 구형 NVIDIA 드라이버로 충돌을 더 밝게 만들기(400.x 미만)
 * Delighter 단계의 빠른 가시성 전환은 성능에 영향을 줍니다.
-* 자체 환경을 로드할 때 충돌 발생
+* 자체 환경을 로드할 때 충돌
 
 ### 0.5.1 베타 나초
 
@@ -2657,9 +2666,9 @@ ht-degree: 0%
 **알려진 문제:**
 
 * 하나의 재질에 여러 개의 흐림 효과를 사용하는 것은 권장되지 않습니다
-* 구형 NVIDIA 드라이버에서 Delighter 충돌(400.x 미만)
+* 구형 NVIDIA 드라이버로 충돌을 더 밝게 만들기(400.x 미만)
 * Delighter 단계의 빠른 가시성 전환은 성능에 영향을 줍니다.
-* 자체 환경을 로드할 때 충돌 발생
+* 자체 환경을 로드할 때 충돌
 
 ### 0.5.0 베타 나초
 
@@ -2670,7 +2679,7 @@ ht-degree: 0%
 * &lbrack;레이어 스택&rbrack; 레이어 순서 변경
 * &lbrack;레이어 스택&rbrack; 숨겨진 레이어 삭제
 * &lbrack;레이어 스택&rbrack; 원하는 위치에서 바로 재질 가져오기
-* &lbrack;레이어 스택&rbrack; 새 필터 매개 변수 유형으로 재료 입력
+* &lbrack;레이어 스택&rbrack; 새 필터 매개변수 유형으로 재료 입력
 * &lbrack;Performance&rbrack; Substance 엔진 예산이 더 나은 성능을 위해 동적입니다.
 * &lbrack;Performance&rbrack; 특히 MacOS에서 더 나은 OpenGL 성능
 * &lbrack;Data&rbrack; 새 버전이 출시된 후 더 빠른 데이터 업그레이드
@@ -2685,9 +2694,9 @@ ht-degree: 0%
 **알려진 문제:**
 
 * 하나의 재질에 여러 개의 흐림 효과를 사용하는 것은 권장되지 않습니다
-* 구형 NVIDIA 드라이버에서 Delighter 충돌(400.x 미만)
+* 구형 NVIDIA 드라이버로 충돌을 더 밝게 만들기(400.x 미만)
 * Delighter 단계의 빠른 가시성 전환은 성능에 영향을 줍니다.
-* 자체 환경을 로드할 때 충돌 발생
+* 자체 환경을 로드할 때 충돌
 
 ### 0.4.0 베타 머핀
 
@@ -2715,12 +2724,12 @@ ht-degree: 0%
 
 **고정:**
 
-* [재질로 비트맵]으로 Specular/광택 작업 과정 처리
+* [비트맵에서 재질로]로 Specular/광택도 작업 과정 처리
 
 **알려진 문제:**
 
 * 하나의 재질에 여러 개의 흐림 효과를 사용하는 것은 권장되지 않습니다
-* 구형 NVIDIA 드라이버에서 Delighter 충돌(400.x 미만)
+* 구형 NVIDIA 드라이버로 충돌을 더 밝게 만들기(400.x 미만)
 * RTX GPU 카드에서는 Delighter가 지원되지 않음
 * Delighter 단계의 빠른 가시성 전환은 성능에 영향을 줍니다.
 
@@ -2730,15 +2739,15 @@ ht-degree: 0%
 
 **고정:**
 
-* 10가지 색상 추출 충돌로 색상 변형 생성
-* 방금 저장한 레이어 스택이 충돌하여 색상 변형 생성
+* 10개의 추출된 색상 충돌으로 색상 변형 생성
+* 방금 저장한 레이어 스택 충돌으로 색상 변형 생성
 * Substance Alchemist 버전 업데이트 팝업에서 잘못된 링크
 
 **알려진 문제:**
 
 * [비트맵을 재질로]에서 [Specular/거칠음] 작업 과정을 처리하지 않음
 * 하나의 재질에 여러 개의 흐림 효과를 사용하는 것은 권장되지 않습니다
-* 구형 NVIDIA 드라이버에서 Delighter 충돌(400.x 미만)
+* 구형 NVIDIA 드라이버로 충돌을 더 밝게 만들기(400.x 미만)
 * Delighter 단계의 빠른 가시성 전환은 성능에 영향을 줍니다.
 
 ### 0.3.0 베타 Lasagna
@@ -2810,7 +2819,7 @@ ht-degree: 0%
 
 * 이전 버전으로 만든 재질은 새 버전에서 사용할 수 없습니다.
 * 하나의 재질에 여러 개의 흐림 효과를 사용하는 것은 권장되지 않습니다
-* 구형 NVIDIA 드라이버로 충돌을 더 밝게 만들기(400.x 미만)
+* 구형 NVIDIA 드라이버에서 Delighter 충돌(400.x 미만)
 * Delighter 단계의 빠른 가시성 전환은 성능에 영향을 줍니다.
 
 ### 0.1.1 베타 잼
@@ -2839,9 +2848,9 @@ ht-degree: 0%
 * 이전 버전으로 만든 재질은 새 버전에서 사용할 수 없습니다.
 * &lbrack;MacOS&rbrack; 닫기 Substance Alchemist에 &quot;강제 종료&quot;가 필요할 수 있습니다.
 * 하나의 재질에 여러 개의 흐림 효과를 사용하는 것은 권장되지 않습니다
-* 구형 NVIDIA 드라이버에서 Delighter 충돌(400.x 미만)
+* 구형 NVIDIA 드라이버로 충돌을 더 밝게 만들기(400.x 미만)
 * Delighter 단계의 빠른 가시성 전환은 성능에 영향을 줍니다.
-* 재질 내보내기가 충돌할 수 있음
+* 재질 내보내기 가능 충돌
 
 ### 0.1.0 베타 아이스크림
 
@@ -2849,7 +2858,7 @@ ht-degree: 0%
 
 **추가됨:**
 
-* 4가지 혼합 유형을 사용한 재질 혼합(Height 혼합, 샘플 혼합, 곡률 혼합, AO 혼합)
+* 4가지 혼합 유형의 재질 혼합 (Height 혼합, 샘플 혼합, 곡률 혼합, AO 혼합)
 * 레이어 스택 재계산을 최적화하는 캐싱 메커니즘 도입
 * 뷰포트에 표시되는 경우 Inspire에서 재질 자동 선택
 * 재질 설정 패널에서 중앙 집중화된 일반 형식
@@ -2860,10 +2869,10 @@ ht-degree: 0%
 
 * 패널 UI 정리
 * 창 및 패널 크기 조정 시 뷰포트가 깜박임
-* 저장하면 레이어 스택이 다시 계산되지 않음
+* 저장 시 레이어 스택이 다시 계산되지 않음
 * 인터페이스의 에셋 이름은 그래프 이름 대신 레이블을 사용합니다
 
 **알려진 문제:**
 
-* 레이어 가시성을 빠르게 전환하여 레이어 늘이기
+* 레이어 전환에 의한 늘리다
 * 초점이 카메라 각도를 재설정합니다.
