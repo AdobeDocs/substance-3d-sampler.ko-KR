@@ -10,13 +10,11 @@ helpx_tags: ''
 title: 시스템 요구 사항
 user-guide-description: ''
 user-guide-title: ''
-source-git-commit: cd61972eaf1567863dc8c3549a1c90c84ffee825
+source-git-commit: ce5a9fcca6e535a54340dda0d225076a62de39d6
 workflow-type: tm+mt
-source-wordcount: '595'
+source-wordcount: '647'
 ht-degree: 0%
-
 ---
-
 
 # 지원되는 시스템
 
@@ -45,11 +43,15 @@ ht-degree: 0%
 
 |  | 최소 | 권장 | 최적 |
 | --- | --- | --- | --- |
-| **OS** | macOS 13 벤투라 | macOS 소노마 | macOS 타호 |
+| **OS** | macOS 세쿼이아 | macOS 골든 게이트 | macOS 골든 게이트 |
 | **CPU** | Apple | Apple | Apple M4 Pro |
 | **GPU** | Apple | Apple | Apple M4 Pro |
 | **RAM** | 24GB | 32GB | 64GB |
 | **저장소** | 30GB의 사용 가능한 공간이 있는 SSD | 50GB의 사용 가능한 공간이 있는 SSD | 70GB의 사용 가능한 공간이 있는 SSD |
+
+>[!WARNING]
+>
+> [VFX 참조 플랫폼](https://vfxplatform.com/)을(를) 염두에 두고 빌드된 파이프라인의 경우 Substance 3D Sampler을 macOS 14 Sonoma에 계속 설치할 수 있습니다. 그러나 Sampler은 최소 시스템 요구 사항 미만의 OS 버전에서 더 이상 테스트되지 않으므로 안정성이 보장되지 않습니다. 최신 OS 버전으로 업데이트하는 것이 좋습니다.
 
 ### 리눅스
 
