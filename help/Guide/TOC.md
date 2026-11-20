@@ -2,15 +2,11 @@
 user-guide-title: Substance 3D Sampler
 breadcrumb-title: Substance 3D Sampler
 user-guide-description: Substance 3D Sampler
-hide: false
-hold: true
-source-git-commit: a0034da3bee13d0d7423828a902da62cf2219474
+source-git-commit: 09278e59a21757710d15d1bb447002a4aecb25a7
 workflow-type: tm+mt
-source-wordcount: '627'
+source-wordcount: '641'
 ht-degree: 13%
-
 ---
-
 
 # Substance 3D Sampler {#using}
 
@@ -21,7 +17,6 @@ ht-degree: 13%
   + [시스템 요구 사항](/help/getting-started/system-requirements.md)
   + [단축키](/help/getting-started/shortcuts.md)
   + [리소스 가져오기](/help/getting-started/importing-resources.md)
-  + [버그 보고](/help/getting-started/report-a-bug.md)
   + [프로젝트 관리](/help/getting-started/project-management.md)
   + 내보내기{#export}
     + [내보내기 개요](/help/getting-started/export/export.md)
@@ -116,6 +111,7 @@ ht-degree: 13%
     + [채널 생성](/help/filters/tools/channels-generation.md)
     + [채널 전환](/help/filters/tools/channel-switch.md)
     + [복제 스탬프](/help/filters/tools/clone-stamp.md)
+    + {hide-from-toc}[내용 인식 채우기](/help/filters/tools/content-aware-fill.md)
     + [자르기 도구](/help/filters/tools/crop-tool.md)
     + [딜라이트 - AI 기반](/help/filters/tools/delight-ai-powered.md)
     + [AO로 Height](/help/filters/tools/height-to-ao.md)
@@ -126,9 +122,10 @@ ht-degree: 13%
     + [다중 각도를 자료로](/help/filters/tools/multiangle-to-material.md)
     + [Height에 표준](/help/filters/tools/normal-to-height.md)
     + [PBR 유효성 검사](/help/filters/tools/pbr-validate.md)
-    + [원근감 수정](/help/filters/tools/perspective-correction.md)
+    + [원근감](/help/filters/tools/perspective-correction.md)
     + [타일링](/help/filters/tools/tiling.md)
     + [변환](/help/filters/tools/transform.md)
+    + {hide-from-toc}[페인트 뒤틀기](/help/filters/tools/paint-warp.md)
     + [뒤틀기](/help/filters/tools/warp.md)
     + [뒤틀기](/help/filters/tools/warp-transform.md)
     + [확장](/help/filters/tools/upscale.md)
@@ -155,6 +152,7 @@ ht-degree: 13%
     + [Dust](/help/filters/wear-and-finish/dust.md)
     + [에로드](/help/filters/wear-and-finish/erode.md)
     + [금속 마감](/help/filters/wear-and-finish/metal-finish.md)
+    + {hide-from-toc}[나무 끝내기](/help/filters/wear-and-finish/wood-finish.md)
     + [이끼](/help/filters/wear-and-finish/moss.md)
     + [옥시데이트](/help/filters/wear-and-finish/oxidate.md)
     + [페인트](/help/filters/wear-and-finish/paint.md)
@@ -195,6 +193,9 @@ ht-degree: 13%
   + [Tajima 내보내기 도구 플러그인](/help/pipeline-and-integrations/tajima-exporter-plugin.md)
 + 기술 지원{#technical-support}
   + [기술 지원 개요](/help/technical-support/technical-support.md)
+  + {hide-from-toc}[성능 모드](/help/technical-support/performance-mode.md)
+  + {hide-from-toc}[하위 사양 모드](/help/technical-support/low-spec-mode.md)
+  + {hide-from-toc}[버그 보고](/help/getting-started/report-a-bug.md)
   + [로그 파일 내보내기](/help/technical-support/exporting-the-log-file.md)
   + 구성{#configuration}
     + [구성 개요](/help/technical-support/configuration/configuration.md)
@@ -231,6 +232,7 @@ ht-degree: 13%
   + [릴리스 정보 개요](/help/release-notes/release-notes.md)
   + [모든 변경 내용](/help/release-notes/all-changes.md)
   + [베타](/help/release-notes/beta-version.md)
+  + {hide-from-toc}[버전 6.1](/help/release-notes/version-6-1.md)
   + [버전 6.0](/help/release-notes/version-6-0.md)
   + [버전 5.1](/help/release-notes/version-5-1-substance-3d-sampler.md)
   + [버전 5.0](/help/release-notes/version-5-0-substance-3d-sampler.md)
