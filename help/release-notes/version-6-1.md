@@ -22,7 +22,7 @@ ht-degree: 0%
 
 Sampler에서 더 빠르고 반응형 경험을 얻으십시오. 새로운 **성능 모드**&#x200B;에는 해상도 제한, 그림자, 변위 품질 및 경로 추적과 같이 작업 과정을 느리게 할 수 있는 모든 설정이 함께 사용됩니다. 성능과 응답성을 개선할 필요가 없는 기능을 끄십시오.
 
-추가 정보 [*여기*](https://www.adobe.com/go/substance-3d-sampler-6.1-performance-mode)
+추가 정보 [*여기*](https://www.adobe.com/go/substance-3d-sampler-6.1-performance-mode_kr)
 
 ![](../assets/v6.1/6_1-Performance_Mode.png)
 
@@ -30,7 +30,7 @@ Sampler에서 더 빠르고 반응형 경험을 얻으십시오. 새로운 **성
 
 하드웨어가 [최소 사양](../getting-started/system-requirements.md) 미만으로 떨어지면 이제 Sampler이 자동으로 조정되어 안정적으로 유지됩니다. 속도가 느려지거나 충돌을 일으킬 가능성이 높은 기능은 자동으로 꺼집니다.
 
-추가 정보 [*여기*](https://www.adobe.com/go/substance-3d-sampler-6.1-low-specs-mode)
+추가 정보 [*여기*](https://www.adobe.com/go/substance-3d-sampler-6.1-low-specs-mode_kr)
 
 ![](../assets/v6.1/6_1-Checked.png)
 

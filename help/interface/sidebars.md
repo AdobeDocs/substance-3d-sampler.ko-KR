@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-sampler/interface/sidebars.html"
+helpx_url: "https://helpx.adobe.com/kr/substance-3d-sampler/interface/sidebars.html"
 description: Substance 3D Sampler의 인터페이스에서 도구, 패널 및 애플리케이션 기능을 탐색하기 위한 왼쪽 및 오른쪽 사이드바에 대해 알아봅니다.
 title: 사이드바
 hold: true
