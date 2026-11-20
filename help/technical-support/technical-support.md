@@ -1,27 +1,20 @@
 ---
 helpx_url: "https://helpx.adobe.com/kr/substance-3d-sampler/technical-support.html"
-breadcrumb-title: ''
 description: Substance 3D Sampler 기술 지원 리소스에 액세스하여 일반적인 질문과 문제 해결 안내서에 대한 답변을 찾아보십시오.
-helpx_creative_field: ""
-helpx_description: Sampler > Technical Support
-helpx_experience_level: ""
-helpx_learn_topic: ""
-helpx_tags: ""
 title: 기술 지원
-user-guide-description: ''
-user-guide-title: ''
-source-git-commit: 55277f7a92e97bf530dd2a2edf4e16c88bb57793
+hold: true
+source-git-commit: 8b2438eb381e35c19ab379a5fc14c962fd5b9b0a
 workflow-type: tm+mt
-source-wordcount: '41'
-ht-degree: 2%
-
+source-wordcount: '68'
+ht-degree: 4%
 ---
-
 
 # 기술 지원
 
-여기에서 Substance 3D Sampler에 대해 가장 자주 묻는 질문을 확인할 수 있습니다.
+기술 지원에서는 일반적인 Sampler 사용에는 없는 시나리오를 지원합니다. 버그를 보고하거나, 일반적인 질문에 대한 답변을 찾아보거나, Sampler을 구성하여 성능을 관리하고, 주변 장치를 연결하고, 작업 환경을 사용자 정의하는 방법을 알아보십시오.
 
+* [성능 모드](performance-mode.md)
+* [버그 보고](../getting-started/report-a-bug.md)
 * [로그 파일 내보내기](exporting-the-log-file.md)
 * [구성](../technical-support/configuration/configuration.md)
 * [기술 문제](../technical-support/technical-issues/technical-issues.md)

@@ -10,9 +10,10 @@ helpx_tags: ''
 title: 시스템 요구 사항
 user-guide-description: ''
 user-guide-title: ''
-source-git-commit: ce5a9fcca6e535a54340dda0d225076a62de39d6
+hold: true
+source-git-commit: 8b2438eb381e35c19ab379a5fc14c962fd5b9b0a
 workflow-type: tm+mt
-source-wordcount: '647'
+source-wordcount: '684'
 ht-degree: 0%
 ---
 
@@ -27,6 +28,14 @@ ht-degree: 0%
 > * 610.47
 >
 > 이러한 버전은 사용하지 않는 것이 좋습니다. 더 최신 버전을 사용하거나 더 최신 버전이 없는 경우 이전 버전을 사용하는 것이 좋습니다.
+
+>[!NOTE]
+>
+> 하드웨어가 최소 시스템 요구 사항 미만인 경우 Sampler이 [낮은 사양 모드](../technical-support/low-spec-mode.md)에서 자동으로 열리므로 일부 기능이 제한됩니다.
+
+>[!TIP]
+>
+> Sampler의 성능을 향상시키려면 [성능 모드](../technical-support/performance-mode.md)를 사용하여 리소스를 많이 사용하는 기능을 끄십시오.
 
 ## Windows
 
